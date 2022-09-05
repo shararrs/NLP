@@ -114,6 +114,7 @@ if __name__ == '__main__':
                     formatted_data_list.pop()
                 line_count += 1
 
+# Writes the new modified data to file
         print(f'Processed {line_count} lines.')
         file1 = open(data_location, 'w')
         file1.writelines(output_txt)
