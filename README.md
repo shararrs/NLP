@@ -9,3 +9,5 @@ Natural Language Processing
 1. [**Portfolio Assignment 1**](https://github.com/shararrs/NLP/blob/main/Portfolio_Assignment_1)
 2. [**Overview**](https://github.com/shararrs/NLP/blob/main/Portfolio_Assignment_1/Portfolio%20Assignment%201%20-%20Overview.pdf)
 
+**Assignments 2 :**<br>
+1. [**Portfolio Assignment 2**](https://github.com/shararrs/NLP/blob/main/Portfolio_Assignment_2/Portfolio_Assignment_2.pdf)
