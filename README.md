@@ -11,3 +11,4 @@ Natural Language Processing
 
 **Assignments 2 :**<br>
 1. [**Portfolio Assignment 2**](https://github.com/shararrs/NLP/blob/main/Portfolio_Assignment_2/Portfolio_Assignment_2.pdf)
+2. 2. [**ipynb file**](https://github.com/shararrs/NLP/blob/main/Portfolio_Assignment_2/2_exploring_nltk.ipynb)
