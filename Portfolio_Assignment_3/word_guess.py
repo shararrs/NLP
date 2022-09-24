@@ -1,4 +1,7 @@
 import sys
+import nltk
+from nltk import word_tokenize
+from nltk.corpus import stopwords
 
 
 def print_hi(name):
@@ -15,12 +18,28 @@ if __name__ == '__main__':
         exit(0)
 
     print(f'You are using the {sys.argv[1]} to play the game')
-
-    inp_file = open(sys.argv[1], 'r')
-    #with open(sys.argv[1]) as inp_file:
-    #   game_file= inp_file.readlines()
-    game_file = [inp_line.lower() for inp_line in inp_file]
+    # readin file like this to keep entire text in memory as 1 line
+    # easier to word tokenize
+    inp_file = open(sys.argv[1]).read()
+    # tokenizing all words
+    game_file = word_tokenize(inp_file)
+    # -------------------------------------
+    # getting unique words using set()
+    # game_file = set(game_file)
+    # print("total unique words 3096")
+    # print(len(game_file))
+    # game_file = [t for t in game_file if t.isalpha() and
+    #             t not in stopwords.words('english')]
+    # print("total unique words - stop words 2819")
+    # print(len(game_file))
+    # -------------------------------------
+    game_file = [t for t in game_file if t.isalpha() and
+                 t not in stopwords.words('english') and len(t) > 5]
+    print("all words - stop 11043")
+    #lemmatizing and finding unique set of words
+    #game_file =
     print(len(game_file))
-    #print(game_file)
-    inp_file.close()
+    game_file = set(game_file)
+    print(len(game_file))
 
+    # inp_file.close()
