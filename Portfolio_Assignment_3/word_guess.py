@@ -142,6 +142,8 @@ if __name__ == '__main__':
     print("\nLexical diversity before any pre processing: %.2f" % (len(set(tokenized_inp)) / len(tokenized_inp)))
 
     # returning two values noun for hte game and the step a filtered list
+    print('Generating file may take a bit, please be patient.')
+    print('__________________________________________________________________________________________________________')
     nouns_for_game, filtered_list = process_text(tokenized_inp)
 
     # make a dict of nouns:count of nouns in tokens
