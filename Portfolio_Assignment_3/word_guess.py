@@ -1,22 +1,19 @@
-from random import randint
 import sys
 from collections import Counter
+from random import randint
 
-import nltk
-from nltk import word_tokenize, WordNetLemmatizer, pos_tag, FreqDist
+from nltk import word_tokenize, WordNetLemmatizer, pos_tag
 from nltk.corpus import stopwords
 
 
+# function takes in tokenized words
+# returns a set of nouns and processed non lemmatized words
 def process_text(tokenized_input):
-    # readin file like this to keep entire text in memory as 1 line
-    # easier to word tokenize
-
     # filtered stopwords, <5 and is alpha
     game_file_filtered = [t for t in tokenized_input if t.isalpha() and
                           t not in stopwords.words('english') and len(t) > 5]
 
     # lemmatizing and finding unique set of words
-
     # lemmatizing
     wnl = WordNetLemmatizer()
     game_file = [wnl.lemmatize(t) for t in game_file_filtered]
@@ -30,7 +27,6 @@ def process_text(tokenized_input):
     print(game_file[:20])
 
     # List of pos tagged nouns singular and plural (NN and NNS) only
-    # print("Generating a list of nouns (NN and NNS only)")
     game_file_nn = [t for t in game_file if (t[1] == "NN" or t[1] == "NNS")]
 
     print(f'\nTotal tokens after filtering(non lemmatized and non unique): {len(game_file_filtered)}')
@@ -40,17 +36,19 @@ def process_text(tokenized_input):
     return game_file_nn, game_file_filtered
 
 
+# this function has the game logic
+# takes in list of words tp play the game with
+# returns nothing
 def game_on(list_of_words):
     global inp
     points = 5
     while True:
-        # word = random.choice(list_of_words)
         random_num = randint(0, 49)
         word = list_of_words[random_num]
         print('\nType \'!\' to exit at any time')
         word = list(word)
-        blank_word = []
-        user_inputs = []
+        blank_word = []  # this is displayed and updated when a word
+        user_inputs = []  # holds input that was tried by the user
 
         # enable to get the answer displayed at the start
         # print(word)
@@ -61,7 +59,7 @@ def game_on(list_of_words):
         print(''.join(blank_word))
         while True:
             # check if the whole word has been guessed
-            finished = 0  # signifies if the word has been guessed
+            finished = 0  # signifies if the word has been guessed or not
             if not blank_word.__contains__('_'):
                 finished = 1
 
@@ -70,15 +68,20 @@ def game_on(list_of_words):
                 print(f'Current score: {points}')
                 break
 
+            # start guessing
+            # check if valid input or game should end
             if points < 0:
                 break
             inp = input("Guess a letter:")
             inp.lower()
+
             if inp == '!':
                 break
+
             if not inp.isalpha():
                 print('Please enter a letter')
                 continue
+
             if len(inp) != 1:
                 print('Please input only 1 character each turn')
                 continue
@@ -89,11 +92,12 @@ def game_on(list_of_words):
                 continue
             else:
                 user_inputs.append(inp)
+
             # checking/comparing logic
-            count = 0
-            guess = 0
+            count = 0  # used to loop through list
+            guess = 0  # bool to check if guess is right or wrong
             while count < len(word):
-                # check if user input this character before
+                # check if user had tried this character before
                 if word[count] == inp:
                     blank_word[count] = inp
                     word[count] = '*'
@@ -110,10 +114,6 @@ def game_on(list_of_words):
                 print(f'Sorry, guess again. Score is {points}')
                 print(''.join(blank_word))
 
-        # print('Play more? press enter for yes and type n for no')
-        # if input().lower() == 'n':
-        #    print(f'Final score {points}')
-        #    break
         if inp == '!':
             print(f'Final score {points}')
             break
@@ -124,14 +124,12 @@ def game_on(list_of_words):
         continue
 
 
-# ______________________________________________
+# ______________________________________________________________________________________________________________________
 
 
 if __name__ == '__main__':
-    # print_hi('Python')
-    # inp = input("Please enter the file to use to play the game")
     if sys.argv.__len__() != 2:
-        print("please add the file name as a parameter")
+        print("Please add the file name as a parameter, \nmake sure it is in the same folder as the game file")
         exit(0)
 
     print(f'You are using nouns in the \"{sys.argv[1]}\" to play the game')
@@ -148,8 +146,10 @@ if __name__ == '__main__':
 
     # make a dict of nouns:count of nouns in tokens
     noun_dict = {t[0]: filtered_list.count(t[0]) for t in nouns_for_game}
+
     # sort from highest to lowest based on the value
     noun_dict = sorted(noun_dict.items(), key=lambda item: item[1], reverse=True)
+
     # printing top 50 nouns and saving as a new list
     counter = Counter(noun_dict)
     all_keys = list(counter.keys())
@@ -157,8 +157,5 @@ if __name__ == '__main__':
     for x in range(50):
         top_50_noun.append(all_keys[x][0])
     print(top_50_noun)
-    # print(len(top_50_noun))
 
     game_on(top_50_noun)
-
-    # inp_file.close()
