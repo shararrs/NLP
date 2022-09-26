@@ -21,4 +21,4 @@ Natural Language Processing
 **Assignments 4 :**<br>
 1. [**Portfolio Assignment 4**](https://github.com/shararrs/NLP/blob/main/Portfolio_Assignment_4)
 2. [**Assignment 4 (WordNet) ipynb file**](https://github.com/shararrs/NLP/blob/main/Portfolio_Assignment_4/WordNet.ipynb)
-2. [**Assignment 4 (WordNet) pdf output**](https://github.com/shararrs/NLP/blob/main/Portfolio_Assignment_4/WordNetOutput.pdf)
+3. [**Assignment 4 (WordNet) pdf output**](https://github.com/shararrs/NLP/blob/main/Portfolio_Assignment_4/WordNetOutput.pdf)
