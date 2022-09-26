@@ -15,4 +15,10 @@ Natural Language Processing
 
 
 **Assignments 3 :**<br>
-1. [**Assignment 3 (Guessing game) py file**](https://github.com/shararrs/NLP/blob/main/Portfolio_Assignment_3/word_guess.py)
+1. [**Portfolio Assignment 3**](https://github.com/shararrs/NLP/blob/main/Portfolio_Assignment_3)
+2. [**Assignment 3 (Guessing game) py file**](https://github.com/shararrs/NLP/blob/main/Portfolio_Assignment_3/word_guess.py)
+
+**Assignments 4 :**<br>
+1. [**Portfolio Assignment 4**](https://github.com/shararrs/NLP/blob/main/Portfolio_Assignment_4)
+2. [**Assignment 4 (WordNet) ipynb file**](https://github.com/shararrs/NLP/blob/main/Portfolio_Assignment_4/WordNet.ipynb)
+2. [**Assignment 4 (WordNet) pdf output**](https://github.com/shararrs/NLP/blob/main/Portfolio_Assignment_4/WordNetOutput.pdf)
