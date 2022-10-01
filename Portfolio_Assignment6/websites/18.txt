@@ -1,0 +1,606 @@
+
+ 
+  This site is optimized with the Yoast SEO Premium plugin v19.3 (Yoast SEO v19.7.1) - https://yoast.com/wordpress/plugins/seo/  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  / Yoast SEO Premium plugin.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  This site is using AdRotate v5.8.24 Professional to display their advertisements - https://ajdg.solutions/  
+  AdRotate CSS  
+ 
+  /AdRotate CSS  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ -- Categories -- 
+ 
+                                        M&As                                     
+ 
+                                        Start-Ups                                     
+ 
+                                        Systems (RAID, NAS, SAN)                                     
+ 
+                                        Financial Results                                     
+ 
+                                        Market Reports/Research                                     
+ 
+                                        Solid State (SSD, flash key, DNA, etc.)                                     
+ 
+                                        Hard Disk Drives                                     
+ 
+                                        Tapes                                     
+ 
+                                        Optical                                     
+ 
+                                        Software                                     
+ 
+                                        People                                     
+ 
+                                        Cloud, Online Backup, SSPs, MSPs                                     
+ 
+                                        Connectivity (switch/HBA/interface)                                     
+ 
+                                        Security                                     
+ 
+                                        OEM/Channel/Distribution                                     
+ 
+                                        Customer Wins                                     
+ 
+                                        Business (others)                                     
+ 
+                                        Exhibitions                                     
+ 
+                                        History                                     
+ 
+                                        Miscellaneous                                     
+ 
+ 
+ 
+ 
+ -- More resources -- 
+ 
+                                                    64.2ZB of Data Created or Replicated in 2020                                                 
+ 
+                                                    Complete List of 219 SSD Makers                                                 
+ 
+                                                    All M&As in 2021                                                 
+ 
+                                                    Best Storage Products of 2022                                                 
+ 
+                                                    Calendar of WW Storage Event                                                 
+ 
+                                                    All Companies in All-Flash Subsystems                                                 
+ 
+                                                    Storage Dictionary (SNIA)                                                 
+ 
+                                                    History of Storage Industry                                                 
+ 
+                                                    Storage Abbreviations                                                 
+ 
+                                                    Top Fastest Growing Storage Companies in 2021                                                 
+ 
+                                                    Top Storage Companies in 2021                                                 
+ 
+                                                    What Do Represent All These Bytes?                                                 
+ 
+ 
+ About Us 
+ Submit News 
+ Editorial Policy 
+ Contact Us 
+ Subscription 
+ Advertise with Us 
+ 
+ 
+ 
+ 
+ What are you looking for ? 
+ 
+ 
+ Search for:  
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+  START : DESKTOP TOP HEADER AD  
+ 
+  Either there are no banners, they are disabled or none qualified for this location!   Either there are no banners, they are disabled or none qualified for this location!    
+  END : DESKTOP TOP HEADER AD  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ About Us 
+ Submit News 
+ Editorial Policy 
+ Contact Us 
+ Subscription 
+ Advertise with Us 
+ 
+ 
+ Search for:  
+ 
+ 
+ 
+ 
+ 
+ 
+  START : MOBILE TOP HEADER AD  
+ 
+  Either there are no banners, they are disabled or none qualified for this location!   Either there are no banners, they are disabled or none qualified for this location!    
+  END : MOBILE TOP HEADER AD  
+ 
+ 
+ 
+ 
+ 
+  Either there are no banners, they are disabled or none qualified for this location!  
+  Either there are no banners, they are disabled or none qualified for this location!  
+ 
+  START : Categories  
+ 
+ Categories 
+ 
+ -- Navigate -- 
+ 
+                    M&As                 
+ 
+                    Start-Ups                 
+ 
+                    Systems (RAID, NAS, SAN)                 
+ 
+                    Financial Results                 
+ 
+                    Market Reports/Research                 
+ 
+                    Solid State (SSD, flash key, DNA, etc.)                 
+ 
+                    Hard Disk Drives                 
+ 
+                    Tapes                 
+ 
+                    Optical                 
+ 
+                    Software                 
+ 
+                    People                 
+ 
+                    Cloud, Online Backup, SSPs, MSPs                 
+ 
+                    Connectivity (switch/HBA/interface)                 
+ 
+                    Security                 
+ 
+                    OEM/Channel/Distribution                 
+ 
+                    Customer Wins                 
+ 
+                    Business (others)                 
+ 
+                    Exhibitions                 
+ 
+                    History                 
+ 
+                    Miscellaneous                 
+ 
+ 
+  END : Categories  
+  START : More Resources  
+ 
+ More Resources 
+ 
+ 
+ 
+                                    64.2ZB of Data Created or Replicated in 2020                                 
+ 
+ 
+ 
+                                    Complete List of 219 SSD Makers                                 
+ 
+ 
+ 
+                                    All M&As in 2021                                 
+ 
+ 
+ 
+                                    Best Storage Products of 2022                                 
+ 
+ 
+ 
+                                    Calendar of WW Storage Event                                 
+ 
+ 
+ 
+                                    All Companies in All-Flash Subsystems                                 
+ 
+ 
+ 
+                                    Storage Dictionary (SNIA)                                 
+ 
+ 
+ 
+                                    History of Storage Industry                                 
+ 
+ 
+ 
+                                    Storage Abbreviations                                 
+ 
+ 
+ 
+                                    Top Fastest Growing Storage Companies in 2021                                 
+ 
+ 
+ 
+                                    Top Storage Companies in 2021                                 
+ 
+ 
+ 
+                                    What Do Represent All These Bytes?                                 
+ 
+ 
+ 
+  END : More Resources    
+ 
+ 
+   
+ Home  »  Solid State (SSD, flash key, DNA, etc.)  »  Kioxia Assigned Twenty-Seven Patents 
+ 
+ 
+ 
+ Kioxia Assigned Twenty-Seven Patents 
+ Host-controlled garbage collection, remote NVMe activation, semiconductor memory, memory system, semiconductor storage device that performs verification operation in selective manner, memory system and controlling nonvolatile memory and for reducing buffer size, memory and semiconductor storage device configured to discharge word line during abrupt power interrupt, nonvolatile semiconductor memory and method for driving, semiconductor storage and method of manufacturing, storage device, computer system, and operation method of storage device configured to arbitrarily stop garbage collection, non-volatile semiconductor storage device and method of manufacturing, dynamic buffer caching of storage devices, memory and method of controlling nonvolatile memory, information processing system for controlling storage device, ferroelectric memory, SSD supporting read-only mode after PLP backup failure 
+ 
+                                    By Francis Pelletier | September 28, 2022 at 2:00 pm                                 
+ 
+ 
+ Host-controlled garbage collection 
+ Kioxia Corporation , Tokyo, J apan ,  has been assigned a patent ( RE49,162 ) developed by  Law, Sie Pook, San Jose, CA , for   a  “ h ost-controlled garbage collection . “ 
+ The abstract of the patent published by the U.S. Patent and Trademark Office states: “ In an array of solid-state drives  ( SSDs )  SSDs in the array are each configured to initiate generation of additional erased memory blocks when an initiation command is received from a host or when the number of erased memory blocks in the SSD falls below a minimum threshold of erased memory blocks for the SSD. The minimum threshold value may be adjusted by the host. ” 
+ The patent application was filed on July 18, 2019 (16/515,366). 
+ Remote NVMe activation 
+ Kioxia Corporation, Tokyo, J apan ,  has been assigned a patent ( 11,412,042 ) developed by  Tsalmon, Shimon, Kfar-Saba,  Israel , for   a  “ r emote NVMe activation . “ 
+ The abstract of the patent published by the U.S. Patent and Trademark Office states: “ A method of accessing a remote storage subsystem from a host device separate from the remote storage subsystem and connected via interfaces to a data communications topology is disclosed. In one embodiment, the communications interface comprises an RDMA network fabric. In one embodiment, the method includes queuing a write command or a read command in a submission queue of the remote storage subsystem, and placing a write data into a memory of the remote storage subsystem. The method further includes transmitting a message to the remote storage subsystem indicating the write command or the read command has been submitted in the submission queue, and detecting a command completion status from a completion queue of the remote storage subsystem. The method further includes transmitting a message to the remote storage subsystem indicating the command completion status has been detected. ” 
+ The patent application was filed on July 1, 2020 (16/918,305). 
+ Semiconductor memory 
+ Kioxia Corporation, Tokyo, J apan ,  has been assigned a patent ( 11,410,974 ) developed by  Yoshihara, Masahiro, Yokohama Kanagawa, Japan, Watanabe, Toshikazu, Chigasaki Kanagawa, Japan, Miyata, Nobuharu, Nozawa, Yasumitsu, Kawano, Tomohito, Yokohama Kanagawa, Japan, Fukuda, Sachie, Ota, Itou, Akiyoshi, Shinagawa Tokyo, Japan, and Iwasawa, Toshimitsu, Yokohama Kanagawa, Japan , for   a  “ semiconductor memory device . “ 
+ The abstract of the patent published by the U.S. Patent and Trademark Office states: “ A semiconductor memory device includes first and second memory chips, each including a region of a core circuit, a first area adjacent to a first side of the region in a first direction, a second area adjacent to a second side of the region in a second direction, a third area adjacent to the first area in the first direction and to the second area in the second direction, a first pad in the first area, a second pad in the second area, and third pad in the third area. In each memory chip, a first bonding wire connects the first and third pads. In addition, a second bonding wire connects the second pads of the first and second memory chips. The second memory chip is stacked on the first memory chip to expose the first, second, and third areas of the first memory chip in a third direction. ” 
+ The patent application was filed on September 3, 2020 (17/011,487). 
+ Memory system 
+ Kioxia Corporation, Tokyo, J apan ,  has been assigned a patent ( 11,410,735 ) developed by  Takizawa, Kazutaka, Yokohama Kanagawa, Japan, Kojima, Yoshihisa, Kawasaki Kanagawa, Japan, and Niijima, Masaaki, Tokyo, Japan , for   a  “ m emory system . “ 
+ The abstract of the patent published by the U.S. Patent and Trademark Office states: “ A memory system includes a non-volatile memory chip and a controller. The non-volatile memory chip is capable of determining an erase voltage according to a temperature of the non-volatile memory chip and a correction parameter. The controller is configured to update the correction parameter of the non-volatile memory chip according to temperature information related to the temperature of the non-volatile memory chip. The non-volatile memory chip determines the erase voltage according to the temperature of the non-volatile memory chip and the updated correction parameter received from the controller. ” 
+ The patent application was filed on September 30, 2020 (17/038,721). 
+ Semiconductor storage device that performs verification operation in selective manner 
+ Kioxia Corporation, Tokyo, J apan ,  has been assigned a patent ( 11,410,728 ) developed by  Shimura, Yasuhiro, Yokohama Kanagawa, Japan , for   a  “ s emiconductor storage device that performs a verification operation in a selective manner . “ 
+ The abstract of the patent published by the U.S. Patent and Trademark Office states: “ A semiconductor storage device includes first and second memory strings, a word line, first and second select gate lines, and a control circuit. The first memory string includes a first memory transistor and a first select transistor. The second memory string includes a second memory transistor and a second select transistor. The word line is connected to the first and second memory transistors. The control circuit is connected to the word line and the first and second select gate lines. The control circuit is configured to perform, during a write sequence, a program operation on each of the first and second memory transistors in turn and a verify operation on only one of the first and second memory transistors. ” 
+ The patent application was filed on August 27, 2020 (17/004,680). 
+ Memory system 
+ Kioxia Corporation, Tokyo, J apan ,  has been assigned a patent ( 11,410,725 ) developed by  Shirakawa, Masanobu, Chigasaki, Japan, and Takeda, Naomi, Yokohama, Japan , for   a  “ m emory system . “ 
+ The abstract of the patent published by the U.S. Patent and Trademark Office states: “ A memory system includes: a nonvolatile memory and a memory controller. The nonvolatile memory includes: a first memory cell and a second memory cell each configured to store data and coupled in parallel to a bit line, a first word line coupled to the first memory cell, and a second word line coupled to the second memory cell and differing from the first word line. The first and second memory cell face each other between the first word line and the second word line. The memory controller is configured to read first data from the first memory cell, read second data from the second memory cell, and decode data stored in the first memory cell based on the first data and the second data. ” 
+ The patent application was filed on September 11, 2020 (17/018,034). 
+ Memory system and controlling nonvolatile memory and for reducing buffer size 
+ Kioxia Corporation, Minato-ku, J apan ,  has been assigned a patent ( 11,409,467 ) developed by  Kanno, Shinichi, Ota, Japan , for   “ m emory system and method of controlling nonvolatile memory and for reducing a buffer size . “ 
+ The abstract of the patent published by the U.S. Patent and Trademark Office states: “ According to one embodiment, a memory system determines, for each of groups corresponding to streams, whether or not a length of write data associated with a set of write commands belonging to a same group reaches a minimum write size of a nonvolatile memory. When a length of write data associated with a set of write commands belonging to a first group corresponding to a first stream reaches the minimum write size, the memory system transfers the write data associated with the set of write commands belonging to the first group from a write buffer in a memory of the host to a first buffer in the memory system, and writes the write data transferred to the first buffer to a first write destination block corresponding to the first stream. ” 
+ The patent application was filed on March 11, 2020 (16/815,950). 
+ Memory system 
+ Kioxia Corporation, Tokyo, J apan ,  has been assigned a patent ( 11,409,442 ) developed by  Yano, Junji, Yokohama, Japan, Matsuzaki, Hidenori, and Hatsuda, Kosuke, Tokyo, Japan , for   a  “ m emory system . “ 
+ The abstract of the patent published by the U.S. Patent and Trademark Office states: “ A memory system includes a volatile first storing unit, a nonvolatile second storing unit in which data is managed in a predetermined unit, and a controller that writes data requested by a host apparatus in the second storing unit via the first storing unit and reads out data requested by the host apparatus from the second storing unit to the first storing unit and transfers the data to the host apparatus. The controller includes a management table for managing the number of failure areas in a predetermined unit that occur in the second storing unit and switches, according to the number of failure areas, an operation mode in writing data in the second storing unit from the host apparatus. ” 
+ The patent application was filed on December 17, 2020 (17/124,954). 
+ Memory and semiconductor storage device configured to discharge word line during abrupt power interrupt 
+ Kioxia Corporation, Tokyo, J apan ,  has been assigned a patent ( 11,404,101 ) developed by  Kurosawa, Takehisa, Kanagawa, Japan, and Tanefusa, Yusuke, Tokyo, Japan , for   “ m emory system and semiconductor storage device configured to discharge word line during abrupt power interrupt . “ 
+ The abstract of the patent published by the U.S. Patent and Trademark Office states: “ A memory system includes a semiconductor storage device, a power supply circuit that generates a first power, and a memory controller that operates based on the first power and transmits a command to the semiconductor storage device. The semiconductor storage device includes a first terminal, a second terminal, a word line, a first circuit, and a second circuit. The first power is input to the first terminal. A second power that can be used even after a voltage of the first terminal decreases is input to the second terminal. The word line is connected to a control gate of a memory cell transistor. The first circuit applies a voltage according to the command to the word line based on the first power input to the first terminal. The second circuit discharges charges of the word line by using the second power input to the second terminal when a voltage of the first terminal decreases. ” 
+ The patent application was filed on January 28, 2021 (17/160,885). 
+ Memory system and control 
+ Kioxia Corporation, Tokyo, J apan ,  has been assigned a patent ( 11,403,041 ) developed by  Okamoto, Atsushi, Yokohama, Japan, Yamaguchi, Hiroyuki, Kawasaki, Japan, Kato, Ryoichi, Yokohama, Japan, and Matsudaira, Hiroki, Funabashi, Japan , for   “ m emory system and control method thereof . “ 
+ The abstract of the patent published by the U.S. Patent and Trademark Office states: “ A memory system according to an embodiment includes a nonvolatile memory and a memory controller. The nonvolatile memory includes a first storage region and a second storage region. The memory controller comprises a third storage region storing a master table and a fourth storage region storing a change history of the master table. The memory controller is configured to: order the nonvolatile memory to write the master table stored in the third storage region in the first storage region when receiving a power-off command from outside, order the nonvolatile memory to write the change history stored in the fourth storage region in the second storage region. ” 
+ The patent application was filed on March 15, 2021 (17/201,341). 
+ Nonvolatile semiconductor memory and method for driving 
+ Kioxia Corporation, Tokyo, J apan ,  has been assigned a patent ( RE49,152 ) developed by  Katsumata, Ryota, Mie, Japan, Aochi, Hideaki, Kanagawa, Japan, Tanaka, Hiroyasu, Mie, Japan, Kito, Masaru, Fukuzumi, Yoshiaki, Kanagawa, Japan, Kidoh, Masaru, Komori, Yosuke, Ishiduki, Megumi, Mie, Japan, Matsunami, Junya, Fujiwara, Tomoko, Kirisawa, Ryouhei, Kanagawa, Japan, Mikajiri, Yoshimasa, and Oota, Shigeto, Mie, Japan , for   “ n onvolatile semiconductor memory device and method for driving same . “ 
+ The abstract of the patent published by the U.S. Patent and Trademark Office states: “ According to one embodiment, a nonvolatile semiconductor memory device includes a substrate, a stacked body, a semiconductor pillar, a charge storage film, and a drive circuit. The stacked body is provided on the substrate. The stacked body includes a plurality of insulating films alternately stacked with a plurality of electrode films. A through-hole is made in the stacked body to align in a stacking direction. The semiconductor pillar is buried in an interior of the through-hole. The charge storage film is provided between the electrode film and the semiconductor pillar. The drive circuit supplies a potential to the electrode film. The diameter of the through-hole differs by a position in the stacking direction. The drive circuit supplies a potential to reduce a potential difference with the semiconductor pillar as a diameter of the through-hole piercing the electrode film decreases. ” 
+ The patent application was filed on July 10, 2020 (16/926,273). 
+ Semiconductor storage and method of manufacturing 
+ Kioxia Corporation, Tokyo, J apan ,  has been assigned a patent ( 11,398,494 ) developed by  Saito, Yuta, Yokkaichi Mie, Japan, Mori, Shinji, Nagoya Aichi, Japan, Takahashi, Atsushi, Yanase, Toshiaki, Sawa, Keiichi, Yokkaichi Mie, Japan, Matsuo, Kazuhiro, Kuwana Mie, Japan, and Yamashita, Hiroyuki, Yokkaichi Mie, Japan , for   “ s emiconductor storage device and method of manufacturing the same . “ 
+ The abstract of the patent published by the U.S. Patent and Trademark Office states: “ In one embodiment, a semiconductor storage device includes a stacked body in which a plurality of conducting layers are stacked through a plurality of insulating layers in a first direction, a semiconductor layer penetrating the stacked body, extending in the first direction and including metal atoms, and a memory film including a first insulator, a charge storage layer and a second insulator that are provided between the stacked body and the semiconductor layer. The semiconductor layer surrounds a third insulator penetrating the stacked body and extending in the first direction, and at least one crystal grain in the semiconductor layer has a shape surrounding the third insulator. ” 
+ The patent application was filed on March 5, 2020 (16/809,887). 
+ Storage device 
+ Kioxia Corporation, Tokyo, J apan ,  has been assigned a patent ( 11,398,487 ) developed by  Matsubayashi, Daisuke, Sagamihara Kanagawa, Japan, and, Saitoh, Masumi, Yokohama Kanagawa, Japan , for   a  “ s torage device . “ 
+ The abstract of the patent published by the U.S. Patent and Trademark Office states: “ A storage device of an embodiment includes a first conductive layer, a second conductive layer, a fluid layer between the first conductive layer and the second conductive layer, particles in the fluid layer, a first control electrode between the first conductive layer and the second conductive layer, a first insulating layer between the first conductive layer and the first control electrode surrounding the fluid layer, and a second insulating layer between the first control electrode and the second conductive layer surrounding the fluid layer. In this storage device, a first cross-sectional area of the fluid layer in a first cross-section perpendicular to a first direction is smaller than a second cross-sectional area of the fluid layer in a second cross-section perpendicular to the first direction. The first cross-section includes the first control electrode, and the second cross-section includes the second insulating layer. ” 
+ The patent application was filed on March 11, 2021 (17/198,688). 
+ Semiconductor storage device 
+ Kioxia Corporation, Tokyo, J apan ,  has been assigned a patent ( 11,398,277 ) developed by  Kusaka, Takuya, Kawasaki, Japan, Arizono, Daisuke, Yokohama, Japan, and Harada, Yoshikazu, Kawasaki, Japan , for   a  “ s emiconductor storage device . “ 
+ The abstract of the patent published by the U.S. Patent and Trademark Office states: “ A semiconductor storage device of an embodiment includes a control circuit configured to execute a writing sequence in which a loop including a program operation that writes data to memory cells and a program verify operation that verifies the data written in the memory cells is repeated a plurality of times by increasing a program voltage by a predetermined step-up voltage each time, the control circuit being capable of executing reading verify that verifies the data written in the memory cells in the writing sequence, and the control circuit detects characteristic variation of a characteristic that causes disturbance, and determines whether to perform the reading verify based on a result of the detection. ” 
+ The patent application was filed on March 12, 2021 (17/200,308). 
+ Storage device, computer system, and operation method of storage device configured to arbitrarily stop garbage collection 
+ Kioxia Corporation, Tokyo, J apan ,  has been assigned a patent ( 11,397,675 ) developed by  Yoshii, Kenichiro, Bunkyo, Japan, Sunata, Tetsuya, and Iwai, Daisuke, Yokohama, Japan , for   “ s torage device, computer system, and operation method of storage device configured to arbitrarily stop garbage collection . “ 
+ The abstract of the patent published by the U.S. Patent and Trademark Office states: “ According to one embodiment, a storage device includes a nonvolatile memory and a controller. The nonvolatile memory cannot overwrite data written in a memory area. The controller controls writing/reading of data to/from the nonvolatile memory in response to a request from a host device. The controller includes a garbage collection processor and a garbage collection controller. The garbage collection processor executes garbage collection to reuse a memory area on the nonvolatile memory in which unnecessary data remain. The garbage collection controller stops the garbage collection executed by the garbage collection processor when the storage device is in a loaded state equal to or less than a threshold value. ” 
+ The patent application was filed on July 6, 2020 (16/921,296). 
+ Memory system 
+ Kioxia Corporation, Minato-ku,  J apan ,  has been assigned a patent ( 11,397,546 ) developed by  Sumiyoshi, Masato, Yokohama, Japan, Nakanishi, Keiri, Kawasaki, Japan, Miura, Takashi, Yokohama, Japan, Oikawa, Kohei, Kawasaki, Japan, Yashima, Daisuke, Tachikawa, Japan, Kodama, Sho, Fukazawa, Youhei, and Wang, Zheye, Kawasaki, Japan , for   a  “ m emory system . “ 
+ The abstract of the patent published by the U.S. Patent and Trademark Office states: “ A memory system including a storage device and a memory controller controlling the storage device and decoding an encoded data. The memory controller including: a history buffer storing a decoded data string, a history buffer read controller executing a read request to the history buffer, a decode executing section generating a first shaped data string based on the decoded data string read from the history buffer, generating a second shaped data string by referring the first shaped data string before the first shaped data string being written back to the history buffer in response to the read request, and generating a decoded result using the first shaped data string and the second shaped data string. ” 
+ The patent application was filed on July 29, 2020 (16/942,112). 
+ Non-volatile semiconductor storage device and method of manufacturing 
+ Kioxia Corporation, Minato-ku, J apan ,  has been assigned a patent ( 11,393,840 ) developed by  Fukuzumi, Yoshiaki, Katsumata, Ryota, Yokohama, Japan, Kidoh, Masaru, Komae, Japan, Kito, Masaru, Yokohama, Japan, Tanaka, Hiroyasu, Minato, Japan, Komori, Yosuke, Ishiduki, Megumi, Yokohama, Japan,  and  Aochi, Hideaki, Kawasaki, Japan , for   “ n on-volatile semiconductor storage device and method of manufacturing the same . “ 
+ The abstract of the patent published by the U.S. Patent and Trademark Office states: “ A non-volatile semiconductor storage device has a plurality of memory strings to each of which a plurality of electrically rewritable memory cells are connected in series. Each of the memory strings includes first semiconductor layers each having a pair of columnar portions extending in a vertical direction with respect to a substrate and a coupling portion formed to couple the lower ends of the pair of columnar portions, a charge storage layer formed to surround the side surfaces of the columnar portions, and first conductive layers formed to surround the side surfaces of the columnar portions and the charge storage layer. The first conductive layers function as gate electrodes of the memory cells. ” 
+ The patent application was filed on December 11, 2019 (15/929,185). 
+ Semiconductor storage device 
+ Kioxia Corporation, Tokyo, J apan ,  has been assigned a patent ( 11,393,834 ) developed by  Han, Yefei, Morooka, Tetsu,  and  Ohtani, Norio, Yokkaichi Mie, Japan , for  a   “ s emiconductor storage device . “ 
+ The abstract of the patent published by the U.S. Patent and Trademark Office states: “ According to one embodiment, a semiconductor storage device includes a first interconnection, a second interconnection, a first channel part, a second channel part, a first charge storage part, a second charge storage part, a first insulator, a second insulator, and a third insulator. The first insulator includes a portion between at least a portion of the first charge storage part and at least a portion of the second charge storage part, and extends in a first direction. The second insulator is between the first insulator and the first interconnection, and extends in the first direction at a position arranged with respect to the first charge storage part in the first direction. The third insulator is between the second interconnection and the first insulator, and extends in the first direction at a position arranged with respect to the second charge storage part in the first direction. ” 
+ The patent application was filed on August 19, 2020 (16/997,398). 
+ Dynamic buffer caching of storage devices 
+ Kioxia Corporation, Tokyo, J apan ,  has been assigned a patent ( 11,392,499 ) developed by  Das, Saswati, Kadam, Manish, San Jose, CA,  and  Buxton, Neil, Milton, G reat Britain , for  a   “ d ynamic buffer caching of storage devices . “ 
+ The abstract of the patent published by the U.S. Patent and Trademark Office states: “ Various implementations described herein relate to systems and methods for dynamically managing buffers of a storage device, including receiving, by a controller of the storage device from a host, information indicative of a frequency by which data stored in the storage device is accessed, and in response to receiving the information determining, by the controller, the order by which read buffers of the storage device are allocated for a next read command. The NAND read count of virtual Word-Lines  ( WLs) are also used to cache more frequently accessed WLs, thus proactively reducing read disturb and consequently increasing NAND reliability and NAND life. ” 
+ The patent application was filed on September 18, 2020 (17/025,898). 
+ Storage system 
+ Kioxia Corporation, Tokyo, J apan ,  has been assigned a patent ( 11,392,466 ) developed by  Kanno, Shinichi, Tokyo, J apan,  and Yoshida, Hideki, Yokohama Kanagawa, J apan , for  a   “ s torage system . “ 
+ The abstract of the patent published by the U.S. Patent and Trademark Office states: “ According to one embodiment, a storage system includes a first storage including first nonvolatile memories storing data which is corrupted when data is read from the first nonvolatile memories, and a controller which controls the first storage. The controller reads data from a first nonvolatile memory at a first address, and determines that whether the read data is to be written back to the first storage or not. ” 
+ The patent application was filed on June 5, 2018 (16/000,335). 
+ Memory and method of controlling nonvolatile memory 
+ Kioxia Corporation, Tokyo, J apan ,  has been assigned a patent ( 11,392,323 ) developed by  Kanno, Shinichi, Ota, Japan , for   “ m emory system and method of controlling nonvolatile memory . “ 
+ The abstract of the patent published by the U.S. Patent and Trademark Office states: “ According to one embodiment, a memory system manages a plurality of first weights that correspond to the plurality of queues, and a plurality of second weights that correspond to the plurality of queues. The memory system selects a queue of a largest or smallest second weight, of the plurality of queues, as a queue of a highest priority, and starts execution of a command stored in the selected queue. The memory system updates the second weight corresponding to the selected queue by subtracting the first weight corresponding to the selected queue from the second weight corresponding to the selected queue or by adding the first weight corresponding to the selected queue to the second weight corresponding to the selected queue. ” 
+ The patent application was filed on September 10, 2020 (17/016,762). 
+ Host-controlled garbage collection 
+ Kioxia Corporation, Tokyo, J apan ,  has been assigned a patent ( RE49,133 ) developed by  Law, Sie Pook, San Jose, CA , for   a  “ h ost-controlled garbage collection. “ 
+ The abstract of the patent published by the U.S. Patent and Trademark Office states: “ In an array of solid-state drives  ( SSDs )  SSDs in the array are each configured to initiate generation of additional erased memory blocks when an initiation command is received from a host or when the number of erased memory blocks in the SSD falls below a minimum threshold of erased memory blocks for the SSD. The minimum threshold value may be adjusted by the host. ” 
+ The patent application was filed on July 18, 2019 (16/515,345). 
+ Nonvolatile semiconductor storage device and method of manufacturing 
+ Kioxia Corporation, Tokyo, J apan ,  has been assigned a patent ( 11,387,276 ) developed by  Noda, Kotaro,  and  Ode, Hiroyuki, Yokkaichi Mie, Japan , for   “ n onvolatile semiconductor storage device and method of manufacturing the same . “ 
+ The abstract of the patent published by the U.S. Patent and Trademark Office states: “ A storage device includes first wiring layers extending in a first direction, second wiring layers extending in a second direction, third wiring layers extending in the second direction, a first memory cell arranged at each cross point of one second wiring layer and one first wiring layer, fourth wiring layers extending in the first direction, and a second memory cell arranged at each cross point of one fourth wiring layer and one third wiring layer. The second wiring layer has a first surface in contact with the third wiring layer and a second surface that has a portion extending in the first direction, the extended portion of the second surface being longer than the first surface in the first direction, the second surface being spaced from the first surface in the third direction. ” 
+ The patent application was filed on September 3, 2020 (17/010,999). 
+ Semiconductor storage device 
+ Kioxia Corporation, Tokyo, J apan ,  has been assigned a patent ( 11,386,959 ) developed by  Takekida, Hideto, Nagoya Aichi, Japan , for   a  “ s emiconductor storage device . “ 
+ The abstract of the patent published by the U.S. Patent and Trademark Office states: “ A semiconductor storage device includes a memory string and a row decoder configured to apply voltages to first to fourth select gate lines and first and second word lines connected to the memory string. A sequencer has first mode for erasing the entire memory string and a second mode for erasing just a portion of the memory string. In the first mode, a first voltage is applied to the bit line and the source line, a second voltage lower than the first voltage is applied to the first select gate line, a third voltage is applied to the second select gate line, a fourth voltage is applied to the third select gate line, a fifth voltage lower than the first voltage is applied to the fourth select gate line, and a sixth voltage lower than the first to fifth voltages is applied to the first and second word lines. ” 
+ The patent application was filed on March 3, 2021 (17/191,563). 
+ Information processing system for controlling storage device 
+ Kioxia Corporation, Tokyo, J apan ,  has been assigned a patent ( 11,385,800 ) developed by  Kanno, Shinichi, Ota, Japan , for   “ i nformation processing system for controlling storage device . “ 
+ The abstract of the patent published by the U.S. Patent and Trademark Office states: “ According to one embodiment, when it is determined that a first storage device of a plurality of storage devices is to be removed and an additional storage device is connected to a storage controller, the storage controller writes update data portions corresponding to data portions already written to the first storage device to any storage device selected from remaining one or more storage devices of the plurality of storage devices except for the first storage device and the additional storage device. Further, the storage controller writes update data portions corresponding to data portions already written to the remaining one or more storage devices to any storage device selected from the remaining one or more storage devices and the additional storage device. ” 
+ The patent application was filed on March 14, 2019 (16/353,274). 
+ Ferroelectric memory 
+ Kioxia Corporation, Minato-ku, J apan ,  has been assigned a patent ( 11,380,773 ) developed by  Ino, Tsunehiro, Fujisawa, Japan, Higashi, Yusuke, Zushi, Japan, Numata, Toshinori, Kamakura, Japan,  and  Kamimuta, Yuuichi, Yokkaichi, Japan , for   a  “ f erroelectric memory device . “ 
+ The abstract of the patent published by the U.S. Patent and Trademark Office states: “ A semiconductor memory device of an embodiment includes a semiconductor layer, a gate electrode including a first portion, a second portion provided to be spaced apart from the first portion, and a spacer provided between the first portion and the second portion, and a first insulating layer provided between the semiconductor layer and the gate electrode and including a first region containing a ferroelectric, a ferrielectric, or an anti-ferroelectric, a second region containing a ferroelectric, a ferrielectric, or an anti-ferroelectric, and a boundary region provided between the first region and the second region. The first region is positioned between the first portion and the semiconductor layer, the second region is positioned between the second portion and the semiconductor layer, the boundary region is positioned between the spacer and the semiconductor layer, and the boundary region has a chemical composition different from that of the spacer. ” 
+ The patent application was filed on October 31, 2019 (16/670,375). 
+ SSD supporting read-only mode after PLP backup failure 
+ Kioxia Corporation, Tokyo, J apan ,  has been assigned a patent ( 11,379,141 ) developed by  Jain, Amit, Cupertino, CA , for   a  “ SSD supporting read-only mode after PLP backup failure . “ 
+ The abstract of the patent published by the U.S. Patent and Trademark Office states: “ A method of operating a Solid State Drive  ( SSD )  comprising identifying critical metadata corresponding to data previously written to the SSD. In response to a power loss event the method also includes storing the critical metadata in a non-volatile memory. Further, the method also involves writing a first table of contents corresponding to the stored critical metadata to the non-volatile memory and storing a pointer to the first table of contents. A Solid State Drive  ( SSD) including a memory controller, a non-volatile memory, and a power loss protection capacitor. The memory controller is configured to identify critical metadata corresponding to data previously written to the SSD. The memory controller is also configured to, in response to a power loss event, store the critical metadata in a non-volatile memory write a first table of contents corresponding to the stored critical metadata to the non-volatile memory, and store a pointer to the first table of contents. ” 
+ The patent application was filed on July 31, 2020 (16/944,713). 
+ 
+ 
+ 
+                                Share this news :
+
+                                                                 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+   
+ 
+ 
+  START : CATCH PHRASE  
+ 
+            With all the daily news on the worldwide storage industry, StorageNewsletter is updated every day at 9AM in Chicago.
+     
+  END : CATCH PHRASE  
+  START : SUBSCRIBE  
+ 
+ 
+    Subscribe to our free daily newsletter
+ 
+  END : SUBSCRIBE  
+  START : ADS  
+ 
+ 
+ 
+    Either there are no banners, they are disabled or none qualified for this location!       Either there are no banners, they are disabled or none qualified for this location!     Either there are no banners, they are disabled or none qualified for this location!       Either there are no banners, they are disabled or none qualified for this location!     Either there are no banners, they are disabled or none qualified for this location!     Either there are no banners, they are disabled or none qualified for this location!     Either there are no banners, they are disabled or none qualified for this location!  
+  END : ADS  
+ 
+ 
+ 
+ 
+ 
+ 
+ CATEGORIES 
+ 
+ 
+ 
+ 
+                                            M&As                                         
+ 
+ 
+ 
+                                            Start-Ups                                         
+ 
+ 
+ 
+                                            Systems (RAID, NAS, SAN)                                         
+ 
+ 
+ 
+                                            Financial Results                                         
+ 
+ 
+ 
+                                            Market Reports/Research                                         
+ 
+ 
+ 
+                                            Solid State (SSD, flash key, DNA, etc.)                                         
+ 
+ 
+ 
+                                            Hard Disk Drives                                         
+ 
+ 
+ 
+                                            Tapes                                         
+ 
+ 
+ 
+                                            Optical                                         
+ 
+ 
+ 
+                                            Software                                         
+ 
+ 
+ 
+                                            People                                         
+ 
+ 
+ 
+                                            Cloud, Online Backup, SSPs, MSPs                                         
+ 
+ 
+ 
+                                            Connectivity (switch/HBA/interface)                                         
+ 
+ 
+ 
+                                            Security                                         
+ 
+ 
+ 
+                                            OEM/Channel/Distribution                                         
+ 
+ 
+ 
+                                            Customer Wins                                         
+ 
+ 
+ 
+                                            Business (others)                                         
+ 
+ 
+ 
+                                            Exhibitions                                         
+ 
+ 
+ 
+                                            History                                         
+ 
+ 
+ 
+                                            Miscellaneous                                         
+ 
+ 
+ 
+ 
+ 
+ MENU 
+ 
+ 
+ About Us 
+ Submit News 
+ Editorial Policy 
+ Contact Us 
+ Subscription 
+ Advertise with Us 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                Copyright © 2022 StorageNewsletter is published by Micro-Journal 
+             
+             • 
+             
+ 
+ Privacy Policy 
+  • 
+                 RSS Feed 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

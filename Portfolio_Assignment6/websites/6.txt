@@ -1,0 +1,315 @@
+
+ 
+ 
+ 
+      Skip to main content
+     
+ 
+  Header and Navbar  
+ 
+ 
+ 
+ 
+ 
+ 
+ Toggle navigation 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ APH Networks 
+ 
+ Always Original 
+ 
+ 
+ 
+ 
+  Navigation  
+ 
+ 
+ 
+ Main navigation 
+ 
+ 
+ Home 
+ 
+ 
+ Reviews 
+ 
+ 
+ Reports 
+ 
+ 
+ Lounge 
+ 
+ 
+ Tracker 
+ 
+ 
+ 
+ 
+ 
+ End Navigation  
+ 
+ 
+ 
+ 
+ End Header & Navbar  
+  Top Slideshow  
+  End Top slideshow  
+ Highlighted 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ End Highlighted 
+  Start Top Widget  
+ End Top Widget  
+  Page Title  
+ 
+ 
+  start: Container  
+ 
+ 
+ 
+ 
+ Crucial P3 Plus 1TB Review (Page 1 of 10) 
+ 
+ 
+ 
+ 
+ 
+ 
+  End Page Title  
+  layout  
+ 
+  start: Container  
+ 
+ Content top 
+ End Content top 
+ start:content  
+ 
+ 
+ 
+ 
+ - Start Left SideBar  
+ -End Right SideBar  
+ - Start content  
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ By: Jonathan Kwan 
+September 30, 2022 
+ I have this theory when it comes to buying cars you will enjoy while impressing other people at the same time: Either you buy something that is special and expensive, or you get something that is unbelievably cheap. Why do I say this? For starters, there is nothing that special about owning a brand-new Honda Accord or Toyota Camry, because while they are good cars, they are also easily accessible to the average person. On the other hand, a Lamborghini Aventador LP 780-4 Ultimae will no doubt impress people everywhere you go, but its base price of over half a million dollars is far beyond the average reach of a working individual. Therefore, getting something unbelievably cheap has a unique appeal to it. Recently, my friend tossed me the keys to his 5-speed 1998 Acura Integra that he paid $1500 for. Four guys, including myself, crowded into the subcompact coupe. We are all old enough to be out of university and working for a few years now, but I have to admit driving the semi-riced vehicle -- I am far from being the  Fast and Furious  type -- was unbelievably fun around the neighborhood. It was like we were teenagers again who just got our licenses sneaking out for a night drive with a bunch of friends, and there is a unique enjoyment in operating something this cheap: It does the job, you do not have to use it in a certain way, and it feels fast even though we were still way below the speed limit. If there is an appeal to driving an unbelievably cheap car, does the same apply to computer parts? Maybe the way it is to be enjoyed is different, but regardless of which, Crucial recently sent us their P3 Plus 1TB to try out. This SSD is only $95 at press time, which makes it quite a bargain, considering this is a PCIe 4.0-based NVMe SSD. But will using it be a good experience? We thoroughly tested one to find out. 
+ 
+ Our review unit of the Crucial P3 Plus 1TB arrived in a surprisingly large, brown corrugated cardboard box from Brownsville, Texas, USA. Brownsville is nowhere near any Micron offices. but this is where Avant Technology is located, which Micron partners with. If you wonder what is in the box, it is mostly packing paper with the SSD located at the bottom corner of the box, which I think mostly defeats the point of having so much packing material, haha. Thankfully, using the UPS Saver service, everything arrived in excellent condition to us here in Calgary, Alberta, Canada for our review today. 
+ 
+ Crucial's retail package designs have always been about business, and the P3 Plus is no different. The simple, environmentally friendly box is the same shape and size as everything we have seen before. It uses a relatively compact, thin square box to deliver the SSD into the hands of the consumers with miscellaneous information printed on the back. As you can see in our photo above, the box art evokes a strong business feel. A photo of the Crucial P3 NVMe SSD is shown in front of a gradient blue background. At the top, you will find Crucial's logo and slogan. Near the bottom, you will find the P3 Plus model name. The white strip at the bottom has the product description, PCIe 4.0 NVMe M.2 SSD, and a sticker indicating its capacity. 
+ Before we move on, let us take a look at the specifications of the Crucial P3 Plus 1TB, as obtained from the manufacturer's website: 
+ SSD series: P3 Plus 
+Interface: NVMe (PCIe Gen 4 x4) 
+Capacity: 1 TB 
+Form factor: M.2 (2280) 
+Sequential Read: 5000 MB/s 
+Sequential Write: 3600 MB/s 
+Reliability (MTTF): 1.5 million hours 
+Endurance - Total Bytes Written (TBW): 220TB (TBW) 
+Data Transfer Software: Acronis True Image for Crucial cloning software 
+Operating Temperature: 0 °C to 70 °C 
+Compliance: UKCA, CE, FCC, VCCI, KC, RCM, ICES, Morocco, BSMI, Ukraine, UL, TUV, China RoHS, WEEE, Halogen Free 
+Advanced Features: 
+• Dynamic write acceleration 
+• Redundant array of independent NAND (RAIN) 
+• Multistep data integrity algorithm 
+• Adaptive thermal protection 
+• Integrated power loss immunity 
+• Active garbage collection 
+• TRIM support 
+• Self-monitoring and reporting technology (SMART) 
+• Error correction code (ECC) 
+• Device sleep support 
+• Launching with Micron 176-layer NAND 
+Warranty: Limited 5-year warranty 
+ 
+ Opening the box reveals the Crucial P3 Plus 1TB itself and a screw placed on a clear plastic tray. There is also a multi-language quick start guide that points you to the company's website. This is it -- out of the box, you will get nothing more than what you need. Not that we need them anyway, of course. 
+ Page Index 
+1. Introduction, Packaging, Specifications 
+2.  A Closer Look, Test System 
+3.  Benchmark: AIDA64 Disk Benchmark 
+4.  Benchmark: ATTO Disk Benchmark 
+5.  Benchmark: Crystal Disk Mark 8.0 
+6.  Benchmark: HD Tune Pro 5.70 
+7.  Benchmark: PassMark PerformanceTest 10 
+8.  Benchmark: PCMark 10 
+9.  Benchmark: 3DMark 
+10.  Conclusion 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ -End content  
+ - Start Right SideBar  
+ 
+ 
+ 
+ 
+ Latest News 
+ 
+ 
+ USB kills off SuperSpeed branding as it tries to simplify its ubiquitous connector 
+ 
+ 
+ RIP Stadia: Google to Shut Down Game-Streaming Service in January 
+ 
+ 
+ Amazon Gives Warehouse Employees Pay Raises Across the Country 
+ 
+ 
+ A Dynamic Mic Like No Other - Elgato Launches Wave DX 
+ 
+ 
+ Twitch is temporarily restricting browser support to just Chrome, Edge, and Firefox 
+ 
+ 
+ Adobe Photoshop Elements and Premiere Elements 2023 get their GIF on 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ -End Right SideBar  
+ 
+ End Content  
+ Start Content Bottom 
+ End Content Bottom 
+ 
+ 
+  End layout  
+  Start Middle Widget  
+ End Top Widget  
+  Bottom slideshow  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ROCCAT Vulcan II Mini Review   
+ 
+ 
+ 
+ 
+ Crucial P3 Plus 1TB Review   
+ 
+ 
+ 
+ 
+ Corsair Sabre RGB Pro Wireless Review   
+ 
+ 
+ 
+ 
+ 
+ 
+ be quiet! Silent Wings 4 Review   
+ 
+ 
+ 
+ 
+ Turtle Beach React-R Controller Review   
+ 
+ 
+ 
+ 
+ Corsair HS80 RGB Wireless Review   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  End Bottom slideshow  
+  Start bottom  
+ End Bottom  
+  start: Footer  
+ 
+ 
+ 
+  Start Footer First Region  
+ 
+ 
+ 
+ Connect with us 
+ YouTube  |  Facebook  |  Twitter  |  LinkedIn  |  Reddit  |  Email 
+ 
+ 
+ 
+ Know us more 
+ Behind the Scenes  |  Company Links  |  Copyright & Privacy Policy  |  Downloads  |  Review Focus  |  Slogan & Logo History 
+ 
+ 
+ 
+ 
+  End Footer First Region  
+  Start Footer Second Region  
+ 
+ 
+  End Footer Second Region  
+  Start Footer third Region  
+ 
+ 
+  End Footer Third Region  
+ 
+ 
+ 
+ End Footer  
+  Start Footer Menu  
+  End Footer Menu  
+ 
+ 
+ 
+  Copyright  
+ 
+ © Since 2005 APH Networks Inc. All trademarks mentioned are the property of their respective owners.  
+ 
+  End Copyright  
+  Credit link  
+  End Credit link  
+ 
+ 
+ 
+  Google map  
+  End Google map  
+ 
+ 
+ 
+ 

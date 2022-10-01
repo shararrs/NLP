@@ -1,0 +1,546 @@
+
+ 
+  This site is optimized with the Yoast SEO Premium plugin v19.3 (Yoast SEO v19.7.1) - https://yoast.com/wordpress/plugins/seo/  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  / Yoast SEO Premium plugin.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  This site is using AdRotate v5.8.24 Professional to display their advertisements - https://ajdg.solutions/  
+  AdRotate CSS  
+ 
+  /AdRotate CSS  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ -- Categories -- 
+ 
+                                        M&As                                     
+ 
+                                        Start-Ups                                     
+ 
+                                        Systems (RAID, NAS, SAN)                                     
+ 
+                                        Financial Results                                     
+ 
+                                        Market Reports/Research                                     
+ 
+                                        Solid State (SSD, flash key, DNA, etc.)                                     
+ 
+                                        Hard Disk Drives                                     
+ 
+                                        Tapes                                     
+ 
+                                        Optical                                     
+ 
+                                        Software                                     
+ 
+                                        People                                     
+ 
+                                        Cloud, Online Backup, SSPs, MSPs                                     
+ 
+                                        Connectivity (switch/HBA/interface)                                     
+ 
+                                        Security                                     
+ 
+                                        OEM/Channel/Distribution                                     
+ 
+                                        Customer Wins                                     
+ 
+                                        Business (others)                                     
+ 
+                                        Exhibitions                                     
+ 
+                                        History                                     
+ 
+                                        Miscellaneous                                     
+ 
+ 
+ 
+ 
+ -- More resources -- 
+ 
+                                                    64.2ZB of Data Created or Replicated in 2020                                                 
+ 
+                                                    Complete List of 219 SSD Makers                                                 
+ 
+                                                    All M&As in 2021                                                 
+ 
+                                                    Best Storage Products of 2022                                                 
+ 
+                                                    Calendar of WW Storage Event                                                 
+ 
+                                                    All Companies in All-Flash Subsystems                                                 
+ 
+                                                    Storage Dictionary (SNIA)                                                 
+ 
+                                                    History of Storage Industry                                                 
+ 
+                                                    Storage Abbreviations                                                 
+ 
+                                                    Top Fastest Growing Storage Companies in 2021                                                 
+ 
+                                                    Top Storage Companies in 2021                                                 
+ 
+                                                    What Do Represent All These Bytes?                                                 
+ 
+ 
+ About Us 
+ Submit News 
+ Editorial Policy 
+ Contact Us 
+ Subscription 
+ Advertise with Us 
+ 
+ 
+ 
+ 
+ What are you looking for ? 
+ 
+ 
+ Search for:  
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+  START : DESKTOP TOP HEADER AD  
+ 
+  Either there are no banners, they are disabled or none qualified for this location!   Either there are no banners, they are disabled or none qualified for this location!    
+  END : DESKTOP TOP HEADER AD  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ About Us 
+ Submit News 
+ Editorial Policy 
+ Contact Us 
+ Subscription 
+ Advertise with Us 
+ 
+ 
+ Search for:  
+ 
+ 
+ 
+ 
+ 
+ 
+  START : MOBILE TOP HEADER AD  
+ 
+  Either there are no banners, they are disabled or none qualified for this location!   Either there are no banners, they are disabled or none qualified for this location!    
+  END : MOBILE TOP HEADER AD  
+ 
+ 
+ 
+ 
+ 
+  Either there are no banners, they are disabled or none qualified for this location!  
+  Either there are no banners, they are disabled or none qualified for this location!  
+ 
+  START : Categories  
+ 
+ Categories 
+ 
+ -- Navigate -- 
+ 
+                    M&As                 
+ 
+                    Start-Ups                 
+ 
+                    Systems (RAID, NAS, SAN)                 
+ 
+                    Financial Results                 
+ 
+                    Market Reports/Research                 
+ 
+                    Solid State (SSD, flash key, DNA, etc.)                 
+ 
+                    Hard Disk Drives                 
+ 
+                    Tapes                 
+ 
+                    Optical                 
+ 
+                    Software                 
+ 
+                    People                 
+ 
+                    Cloud, Online Backup, SSPs, MSPs                 
+ 
+                    Connectivity (switch/HBA/interface)                 
+ 
+                    Security                 
+ 
+                    OEM/Channel/Distribution                 
+ 
+                    Customer Wins                 
+ 
+                    Business (others)                 
+ 
+                    Exhibitions                 
+ 
+                    History                 
+ 
+                    Miscellaneous                 
+ 
+ 
+  END : Categories  
+  START : More Resources  
+ 
+ More Resources 
+ 
+ 
+ 
+                                    64.2ZB of Data Created or Replicated in 2020                                 
+ 
+ 
+ 
+                                    Complete List of 219 SSD Makers                                 
+ 
+ 
+ 
+                                    All M&As in 2021                                 
+ 
+ 
+ 
+                                    Best Storage Products of 2022                                 
+ 
+ 
+ 
+                                    Calendar of WW Storage Event                                 
+ 
+ 
+ 
+                                    All Companies in All-Flash Subsystems                                 
+ 
+ 
+ 
+                                    Storage Dictionary (SNIA)                                 
+ 
+ 
+ 
+                                    History of Storage Industry                                 
+ 
+ 
+ 
+                                    Storage Abbreviations                                 
+ 
+ 
+ 
+                                    Top Fastest Growing Storage Companies in 2021                                 
+ 
+ 
+ 
+                                    Top Storage Companies in 2021                                 
+ 
+ 
+ 
+                                    What Do Represent All These Bytes?                                 
+ 
+ 
+ 
+  END : More Resources    
+ 
+ 
+   
+ Home  »  Solid State (SSD, flash key, DNA, etc.)  »  R&D: Channel Thickness and Grain Size Engineering for Improvement of Variability and Performance in 3D NAND Flash Memory 
+ 
+ 
+ 
+ R&D: Channel Thickness and Grain Size Engineering for Improvement of Variability and Performance in 3D NAND Flash Memory 
+ Based on analysis of various 3D grain patterns, optimal structures were proposed in terms of variability and/or performance; furthermore, based on the results, authors suggest suitable Tch and GS parameters for given target of 3D NAND flash devices. 
+ 
+                                    This is a Press Release edited by StorageNewsletter.com on September 23, 2022 at 2:00 pm                                 
+ 
+ 
+ 
+ 
+ IEEE Transactions on Electron Devices has published an article written by Kihoon Nam, Chanyang Park, Jun-Sik Yoon, Giho Yang; Department of Electrical Engineering, Pohang University of Science and Technology (POSTECH), Pohang 37673, South Korea, Min ... 
+ 
+ 
+ To get one-year unlimited access to all the News 50,000+ original articles, market reports, company's profiles, press releases, etc. on the worldwide storage industry published by  StorageNewsletter.com  since November 2007. 
+ One year subscription for €99 
+ If you have already subscribed, please enter your credentials below: 
+ 
+ 
+ 
+  mp-login-form-start    
+ 
+ 
+ Username or E-mail 
+ 
+ 
+ 
+ 
+ 
+ Password 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  Remember Me 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ Forgot Password 
+ 
+  mp-login-form-end  
+ 
+ 
+ 
+ 
+ 
+ 
+                                Share this news :
+
+                                                                 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+   
+ 
+ 
+  START : CATCH PHRASE  
+ 
+            With all the daily news on the worldwide storage industry, StorageNewsletter is updated every day at 9AM in Chicago.
+     
+  END : CATCH PHRASE  
+  START : SUBSCRIBE  
+ 
+ 
+    Subscribe to our free daily newsletter
+ 
+  END : SUBSCRIBE  
+  START : ADS  
+ 
+ 
+ 
+    Either there are no banners, they are disabled or none qualified for this location!       Either there are no banners, they are disabled or none qualified for this location!     Either there are no banners, they are disabled or none qualified for this location!       Either there are no banners, they are disabled or none qualified for this location!     Either there are no banners, they are disabled or none qualified for this location!     Either there are no banners, they are disabled or none qualified for this location!     Either there are no banners, they are disabled or none qualified for this location!  
+  END : ADS  
+ 
+ 
+ 
+ 
+ 
+ 
+ CATEGORIES 
+ 
+ 
+ 
+ 
+                                            M&As                                         
+ 
+ 
+ 
+                                            Start-Ups                                         
+ 
+ 
+ 
+                                            Systems (RAID, NAS, SAN)                                         
+ 
+ 
+ 
+                                            Financial Results                                         
+ 
+ 
+ 
+                                            Market Reports/Research                                         
+ 
+ 
+ 
+                                            Solid State (SSD, flash key, DNA, etc.)                                         
+ 
+ 
+ 
+                                            Hard Disk Drives                                         
+ 
+ 
+ 
+                                            Tapes                                         
+ 
+ 
+ 
+                                            Optical                                         
+ 
+ 
+ 
+                                            Software                                         
+ 
+ 
+ 
+                                            People                                         
+ 
+ 
+ 
+                                            Cloud, Online Backup, SSPs, MSPs                                         
+ 
+ 
+ 
+                                            Connectivity (switch/HBA/interface)                                         
+ 
+ 
+ 
+                                            Security                                         
+ 
+ 
+ 
+                                            OEM/Channel/Distribution                                         
+ 
+ 
+ 
+                                            Customer Wins                                         
+ 
+ 
+ 
+                                            Business (others)                                         
+ 
+ 
+ 
+                                            Exhibitions                                         
+ 
+ 
+ 
+                                            History                                         
+ 
+ 
+ 
+                                            Miscellaneous                                         
+ 
+ 
+ 
+ 
+ 
+ MENU 
+ 
+ 
+ About Us 
+ Submit News 
+ Editorial Policy 
+ Contact Us 
+ Subscription 
+ Advertise with Us 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                Copyright © 2022 StorageNewsletter is published by Micro-Journal 
+             
+             • 
+             
+ 
+ Privacy Policy 
+  • 
+                 RSS Feed 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

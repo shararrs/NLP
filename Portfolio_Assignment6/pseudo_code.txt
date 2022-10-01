@@ -1,0 +1,32 @@
+Program 1:
+	crawl and download content of 15 pages
+
+Program 2:
+Part (a)
+	for each file:
+        cleanup text from each page (only tabs and newlines)
+        sent tokenize
+        print sentences to new file
+
+Part (b)
+	sent_list = union of all sentences
+	word_list = union of all tokenized words
+	lowercase word_list
+	remove stop words from word_list, punctuations
+	lemmatization ?
+	top_25 = tf-id(word_list)
+	print top 25 to 40 terms
+	save sent_list to a file
+
+Manually select top 10 terms from the previous output
+
+Program 3:
+	user enters top 10 terms
+	build database with top 10 terms as key, and sentences containg that term as value
+	pickle (save) the db
+
+Program 4:
+	pickle (load) the db from program 4
+	make it searchable
+					- print the searchable terms
+					- enter term and print random string

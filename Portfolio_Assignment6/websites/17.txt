@@ -1,0 +1,641 @@
+
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ [if lt IE 9]><script src="https://tpucdn.com/js/html5shiv.min-v1664446299286.js"></script><![endif] 
+ [if lt IE 9]><script>window.onerror = function(){ return true; }</script><![endif] 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Home 
+ Reviews 
+ Forums 
+ Downloads 
+ Case Mod Gallery 
+ 
+ Databases 
+ 
+ 
+ Databases…
+								 Back 
+ 
+ VGA Bios Collection 
+ GPU Database 
+ CPU Database 
+ Review Database 
+ 
+ 
+ 
+ Our Software 
+ 
+ 
+ Our Software…
+								 Back 
+ 
+ GPU-Z 
+ RealTemp 
+ NVCleanstall 
+ TPUCapture 
+ MemTest64 
+ 
+ 
+ 
+ More 
+ 
+ 
+ More…
+								 Back 
+ 
+ Articles 
+ Old Stuff 
+ Computer Trivia 
+ TPU Live 
+ 
+ 
+ Contact Us 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Thursday, September 29th 2022 
+ 
+ Alphacool Intros Liquid Cooler and Riser Card for M.2 NVMe SSD 
+ 
+ 
+ 
+ Press Release 
+ 
+ 
+ 
+			by  btarunr 
+ 
+ 
+ 
+								Thursday, 03:54
+							 
+ 
+ 
+ Discuss (15 Comments) 
+ 
+ 
+ NVMe SSDs in M.2 format have become standard PC equipment, as they allow high transfer rates and extremely low access times and thus enable faster and more effective work or gaming. Due to their design, however, M.2 NVMe SSDs are only capable of delivering their maximum performance for a short time. The controller chip heats up extremely quickly and begins to throttle the SSD's performance at an early stage. To ensure that the full performance of the memory can be used permanently, Alphacool now offers the Core M.2 NVMe PCIe 4.0 Liquid Cooler with digital aRGB illumination. 
+ 
+The Core M.2 NVMe PCIe 4.0 Liquid Cooler features 5 digitally addressable RGB LEDs that create a unique illumination. The LEDs can be connected to a digital RGB controller or a digital RGB capable mainboard and thus controlled as desired. The material mix of acrylic, nickel-plated copper and aluminium also gives the cooler a noble design.           Alphacool's Core M.2 NVMe PCIe 4.0 Liquid Cooler is a useful addition to any water cooled system and ensures that the M.2 NVMe SSD can unleash its full potential. Smart and efficient! 
+ 
+Features Material cooler bottom: nickel-plated copper Material cooler housing: acrylic Material backplate: aluminium Illumination: 5 digital aRGB LEDs Connections: 2x G1/4" Dimensions: 130.7 x 56 x 24.41 mm Compatibility: M.2 NVMe PCIe 4.0 SSD MSRP: 99.98€. For more information and to purchase, visit  this page . 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Related News 
+ 
+ Tags: 
+ addressable RGB 
+ Alphacool 
+ Cooler 
+ M.2 
+ NVMe 
+ PCIe 4.0 
+ SSD 
+ SSDs 
+ 
+ 
+ 
+ Aug 4th 2022   ASUS Unveils the ROG Crosshair X670E Hero and ROG Crosshair X670E Extreme  (57) 
+ Sep 9th 2022   Not All First Generation PCIe 5.0 SSDs Will Offer the Same Performance  (55) 
+ Aug 19th 2022   Gigabyte Announces the AORUS Gen5 10000 SSD with Capacities up to 4 TB  (45) 
+ Sep 7th 2022   GoodRAM IRDM Ultimate M.2 PCIe Gen 5 SSD Pictured  (16) 
+ Aug 24th 2022   Samsung Formally Launches the 990 PRO Flagship PCIe Gen4 SSD  (29) 
+ Sep 23rd 2022   Crystal Group Maximizes Physical and Data Protections for Military Applications with New NVMe SSD  (0) 
+ Aug 23rd 2022   GIGABYTE Unveils AORUS Gen5 AIC Adaptor with 4 Built-in NVMe M.2 Slots  (10) 
+ Aug 16th 2022   Team Group Announces MP44L M.2 Gen4 SSD with Industry-First Graphene Heatspreader  (3) 
+ Jul 22nd 2022   SilverStone Launches M.2 Riser Card for Two SSDs  (47) 
+ Sep 22nd 2022   MSI Reveals Superb SPATIUM PCIe 5.0 Storage Performance & Enriches Its Lineup with SPATIUM M460 (HS)  (8) 
+ 
+ 
+ 
+ Add your own comment 
+ 15 Comments   on  Alphacool Intros Liquid Cooler and Riser Card for M.2 NVMe SSD 
+ 
+ #1 
+ 
+ Chaitanya 
+ 
+ 
+ 
+ For PCI-e 5 SSDs I guess. 
+ 
+				Posted on  Sep 29th 2022, 3:57 
+ 
+ Reply 
+ 
+ 
+ 
+ 
+ #2 
+ 
+ ZoneDymo 
+ 
+ 
+ 
+ wasnt it a thing that you actualyl did not want to cool m.2 too much? 
+ 
+				Posted on  Sep 29th 2022, 4:14 
+ 
+ Reply 
+ 
+ 
+ 
+ 
+ #3 
+ 
+ AusWolf 
+ 
+ 
+ 
+ Who in their right mind spends a hundred bucks plus tooling just to cool an SSD (with RGB)? 
+ 
+				Posted on  Sep 29th 2022, 4:34 
+ 
+ Reply 
+ 
+ 
+ 
+ 
+ #4 
+ 
+ aktpu 
+ 
+ 
+ 
+ Chaitanya For PCI-e 5 SSDs I guess. Compatibility: M.2 NVMe PCIe 4.0 SSD 
+ 
+				Posted on  Sep 29th 2022, 4:35 
+ 
+ Reply 
+ 
+ 
+ 
+ 
+ #5 
+ 
+ Valantar 
+ 
+ 
+ 
+ For a single drive? Wow, that is  overkill . 
+ 
+				Posted on  Sep 29th 2022, 4:42 
+ 
+ Reply 
+ 
+ 
+ 
+ 
+ #6 
+ 
+ thegnome 
+ 
+ 
+ 
+ Would've much rather seen one with 2 or more drives... Would be a fun thing to add in a large watercooled build and you need to fill up the space.. 
+ 
+				Posted on  Sep 29th 2022, 5:58 
+ 
+ Reply 
+ 
+ 
+ 
+ 
+ #7 
+ 
+ Niceumemu 
+ 
+ 
+ 
+ I'm amazed there is enough of a market of suckers out there that would buy a riser card like this which can only support a single nvme drive - and only at 4.0 speeds too 
+ 
+				Posted on  Sep 29th 2022, 6:51 
+ 
+ Reply 
+ 
+ 
+ 
+ 
+ #8 
+ 
+ bonehead123 
+ 
+ 
+ 
+ Yep, just what we need, moar wires & tubes everywhere....1st was CPU's, then GPU's, now your drives.....  
+ 
+Might as well just submerge the entire mobo & all it's parts in coolant or LN2 and be done with it, hehehehe :D 
+ 
+yea I know this has been done already, albeit only in specialized set-ups in labs/tech shows etc, but just sayin...... 
+ 
+				Posted on  Sep 29th 2022, 7:00 
+ 
+ Reply 
+ 
+ 
+ 
+ 
+ #9 
+ 
+ Gundem 
+ 
+ 
+ 
+ Now  I've seen it all :p 
+ 
+				Posted on  Sep 29th 2022, 7:29 
+ 
+ Reply 
+ 
+ 
+ 
+ 
+ #10 
+ 
+ ZentiX 
+ 
+ 
+ 
+ ZoneDymo wasnt it a thing that you actualyl did not want to cool m.2 too much? You only want to cool the controller and not the flash module. 
+ 
+				Posted on  Sep 29th 2022, 7:55 
+ 
+ Reply 
+ 
+ 
+ 
+ 
+ #11 
+ 
+ phanbuey 
+ 
+ 
+ 
+ This would be a cool pump product... a PCIE pump housing for a ddc that has water temp sensors and controls that can stick into a pcie slot and communicate that way. 
+ 
+Alot of times the extra space below a gfx in an atx build is wasted space. 
+ 
+				Posted on  Sep 29th 2022, 8:04 
+ 
+ Reply 
+ 
+ 
+ 
+ 
+ #12 
+ 
+ FranciscoCL 
+ 
+ 
+ 
+ phanbuey This would be a cool pump product... a PCIE pump housing for a ddc that has water temp sensors and controls that can stick into a pcie slot and communicate that way. 
+ 
+Alot of times the extra space below a gfx in an atx build is wasted space. I don't need a device like that, but I like your way of thinking. 
+ 
+				Posted on  Sep 29th 2022, 8:10 
+ 
+ Reply 
+ 
+ 
+ 
+ 
+ #13 
+ 
+ AusWolf 
+ 
+ 
+ 
+ phanbuey This would be a cool pump product... a PCIE pump housing for a ddc that has water temp sensors and controls that can stick into a pcie slot and communicate that way. 
+ 
+Alot of times the extra space below a gfx in an atx build is wasted space. I like that thought... although that's why micro-ATX and mini-ITX exist. 
+ 
+				Posted on  Sep 29th 2022, 8:28 
+ 
+ Reply 
+ 
+ 
+ 
+ 
+ #14 
+ 
+ HairyLobsters 
+ 
+ 
+ 
+ Chaitanya For PCI-e 5 SSDs I guess. But it's PCIe 4. 
+ 
+				Posted on  Sep 29th 2022, 10:34 
+ 
+ Reply 
+ 
+ 
+ 
+ 
+ #15 
+ 
+ Hxx 
+ 
+ 
+ 
+ Probably as useless as water cooling ram. Looking at you thermaltake . But hey it looks good and I’m sure someone is interested :) 
+ 
+				Posted on  Sep 29th 2022, 12:37 
+ 
+ Reply 
+ 
+ 
+ 
+ Add your own comment 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Oct 1st, 2022 18:09 CDT 
+ change timezone 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Sign in  /  Register 
+ 
+ 
+ 
+ Latest GPU Drivers 
+ 
+ 
+ NVIDIA GeForce 517.48 WHQL  
+ AMD Radeon 22.9.2 Beta  
+ 
+			Intel
+			 IGP 101.3430  
+			/
+			 Arc 101.3430  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ New Forum Posts 
+ 
+ 
+ 
+ 18:04 
+				by
+				 neatfeatguy 
+ 
+ Fried? 3080 Founders black screen after replacing thermal pads  ( 21 )
+		 
+ 
+ 
+ 17:47 
+				by
+				 dicobalt 
+ 
+ Unhide sensor  ( 4 )
+		 
+ 
+ 
+ 17:30 
+				by
+				 Eraserhead 
+ 
+ Undervolt Doesn't Work  ( 43 )
+		 
+ 
+ 
+ 17:25 
+				by
+				 InVasMani 
+ 
+ By accident, bricked my Polaris GPU  ( 14 )
+		 
+ 
+ 
+ 17:21 
+				by
+				 unclewebb 
+ 
+ EDP OTHER Flashing Red across CORE, GPU, and RING  ( 1 )
+		 
+ 
+ 
+ 17:14 
+				by
+				 bug 
+ 
+ Do you use Linux?  ( 90 )
+		 
+ 
+ 
+ 17:08 
+				by
+				 P4-630 
+ 
+ Incorrect CPU load afterburner/RTSS and aida64  ( 0 )
+		 
+ 
+ 
+ 17:07 
+				by
+				 robot zombie 
+ 
+ What are you playing?  ( 16112 )
+		 
+ 
+ 
+ 17:02 
+				by
+				 Mats 
+ 
+ 90c+ CPUs  ( 286 )
+		 
+ 
+ 
+ 17:01 
+				by
+				 lexluthermiester 
+ 
+ Google plans to kill adblockers  ( 51 )
+		 
+ 
+ 
+ 
+ 
+ 
+ 
+ Popular Reviews 
+ 
+ 
+ Sep 26th, 2022 
+ AMD Ryzen 9 7950X Review - Impressive 16-core Powerhouse 
+ 
+ 
+ Sep 5th, 2022 
+ Asus Prime AP201 Review 
+ 
+ 
+ Sep 26th, 2022 
+ AMD Ryzen 5 7600X Review - Affordable Zen 4 for Gaming 
+ 
+ 
+ Sep 26th, 2022 
+ AMD Ryzen 7 7700X Review - The Best Zen 4 for Gaming 
+ 
+ 
+ Sep 30th, 2022 
+ Intel Arc A750 & A770 Unboxing & Preview 
+ 
+ 
+ Sep 8th, 2022 
+ Red Dead Redemption 2: DLSS vs. FSR 2.0 Comparison Review 
+ 
+ 
+ Sep 6th, 2022 
+ ASRock NUC BOX-1260P Barebones Mini-PC (Intel Alder Lake) Review 
+ 
+ 
+ Aug 25th, 2022 
+ Upcoming Hardware Launches 2022 (Updated Aug 2022) 
+ 
+ 
+ Sep 9th, 2022 
+ Gigabyte Z690I AORUS Ultra Plus DDR4 Review 
+ 
+ 
+ Sep 26th, 2022 
+ AMD Ryzen 9 7900X Review - Creator Might, Priced Right 
+ 
+ 
+ 
+ 
+ Controversial News Posts 
+ 
+ 
+ EVGA Announces Cancelation of NVIDIA Next-gen Graphics Cards Plans, Officially Terminates NVIDIA Partnership 
+			( 535 )
+		 
+ 
+ NVIDIA Project Beyond GTC Keynote Address: Expect the Expected (RTX 4090) 
+			( 332 )
+		 
+ 
+ Intel 13th Gen Core "Raptor Lake" Desktop Processors Launched: +15% ST, +41% MT Uplift 
+			( 163 )
+		 
+ 
+ NVIDIA AD103 and AD104 Chips Powering RTX 4080 Series Detailed 
+			( 152 )
+		 
+ 
+ Microsoft Unveils the Windows 11 2022 Update, Available Today 
+			( 131 )
+		 
+ 
+ Key Slides from Intel 13th Gen "Raptor Lake" Launch Presentation Leak 
+			( 125 )
+		 
+ 
+ AMD Ryzen 9 7900X CPU-Z Benched, Falls Short of Core i7-12700K in ST, Probably Due to Temperature Throttling 
+			( 123 )
+		 
+ 
+ Google Calls it Quits on Game Streaming, Shutting Down Stadia 
+			( 122 )
+		 
+ 
+ 
+ 
+ 
+ 
+ 
+				Copyright © 2004-2022 www.techpowerup.com. 
+				All rights reserved. 
+				All trademarks used are properties of their respective owners.
+			 
+ 
+ 
+ 
+ 
+ 
+ 

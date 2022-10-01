@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b1242327-b7ce-41ea-ac02-30616bec1401" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/csv-plugin.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Portfolio_Assignment6.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/csv-plugin.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1_web_crawler.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2_top_term_finder.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_kb_creator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4_kb_searcher.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pseudo_code.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/urls.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/websites.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/websites/1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/websites/10.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/websites/11.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/websites/12.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/websites/13.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/websites/14.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/websites/15.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/websites/16.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/websites/17.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/websites/18.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/websites/19.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/websites/2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/websites/20.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/websites/3.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/websites/4.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/websites/5.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/websites/6.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/websites/7.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/websites/8.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/websites/9.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/NLP.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/NLP.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2FYAqbhg7ys9Rae0hobz6HQGpyT" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Project.color": "520120",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "codeWithMe.voiceChat.enabledByDefault": "false"
+  }
+}]]></component>
+  <component name="RunManager" selected="Python.1_web_crawler (1)">
+    <configuration name="1_web_crawler (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Portfolio_Assignment6" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1_web_crawler.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="1_web_crawler" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Portfolio_Assignment6" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\shara\OneDrive\2022 Fall\CS-4395.001(Human Language Tech)\Code\NLP\Portfolio_Assignment6\1_web_crawler.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.1_web_crawler (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b1242327-b7ce-41ea-ac02-30616bec1401" name="Changes" comment="" />
+      <created>1664658836477</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1664658836477</updated>
+      <workItem from="1664658842191" duration="7704000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/1_web_crawler.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Portfolio_Assignment6$1_web_crawler__1_.coverage" NAME="1_web_crawler (1) Coverage Results" MODIFIED="1664665755225" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>

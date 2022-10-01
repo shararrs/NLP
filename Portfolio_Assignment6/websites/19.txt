@@ -1,0 +1,582 @@
+
+ 
+  This site is optimized with the Yoast SEO Premium plugin v19.3 (Yoast SEO v19.7.1) - https://yoast.com/wordpress/plugins/seo/  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  / Yoast SEO Premium plugin.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  This site is using AdRotate v5.8.24 Professional to display their advertisements - https://ajdg.solutions/  
+  AdRotate CSS  
+ 
+  /AdRotate CSS  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ -- Categories -- 
+ 
+                                        M&As                                     
+ 
+                                        Start-Ups                                     
+ 
+                                        Systems (RAID, NAS, SAN)                                     
+ 
+                                        Financial Results                                     
+ 
+                                        Market Reports/Research                                     
+ 
+                                        Solid State (SSD, flash key, DNA, etc.)                                     
+ 
+                                        Hard Disk Drives                                     
+ 
+                                        Tapes                                     
+ 
+                                        Optical                                     
+ 
+                                        Software                                     
+ 
+                                        People                                     
+ 
+                                        Cloud, Online Backup, SSPs, MSPs                                     
+ 
+                                        Connectivity (switch/HBA/interface)                                     
+ 
+                                        Security                                     
+ 
+                                        OEM/Channel/Distribution                                     
+ 
+                                        Customer Wins                                     
+ 
+                                        Business (others)                                     
+ 
+                                        Exhibitions                                     
+ 
+                                        History                                     
+ 
+                                        Miscellaneous                                     
+ 
+ 
+ 
+ 
+ -- More resources -- 
+ 
+                                                    64.2ZB of Data Created or Replicated in 2020                                                 
+ 
+                                                    Complete List of 219 SSD Makers                                                 
+ 
+                                                    All M&As in 2021                                                 
+ 
+                                                    Best Storage Products of 2022                                                 
+ 
+                                                    Calendar of WW Storage Event                                                 
+ 
+                                                    All Companies in All-Flash Subsystems                                                 
+ 
+                                                    Storage Dictionary (SNIA)                                                 
+ 
+                                                    History of Storage Industry                                                 
+ 
+                                                    Storage Abbreviations                                                 
+ 
+                                                    Top Fastest Growing Storage Companies in 2021                                                 
+ 
+                                                    Top Storage Companies in 2021                                                 
+ 
+                                                    What Do Represent All These Bytes?                                                 
+ 
+ 
+ About Us 
+ Submit News 
+ Editorial Policy 
+ Contact Us 
+ Subscription 
+ Advertise with Us 
+ 
+ 
+ 
+ 
+ What are you looking for ? 
+ 
+ 
+ Search for:  
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+  START : DESKTOP TOP HEADER AD  
+ 
+  Either there are no banners, they are disabled or none qualified for this location!   Either there are no banners, they are disabled or none qualified for this location!    
+  END : DESKTOP TOP HEADER AD  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ About Us 
+ Submit News 
+ Editorial Policy 
+ Contact Us 
+ Subscription 
+ Advertise with Us 
+ 
+ 
+ Search for:  
+ 
+ 
+ 
+ 
+ 
+ 
+  START : MOBILE TOP HEADER AD  
+ 
+  Either there are no banners, they are disabled or none qualified for this location!   Either there are no banners, they are disabled or none qualified for this location!    
+  END : MOBILE TOP HEADER AD  
+ 
+ 
+ 
+ 
+ 
+  Either there are no banners, they are disabled or none qualified for this location!  
+  Either there are no banners, they are disabled or none qualified for this location!  
+ 
+  START : Categories  
+ 
+ Categories 
+ 
+ -- Navigate -- 
+ 
+                    M&As                 
+ 
+                    Start-Ups                 
+ 
+                    Systems (RAID, NAS, SAN)                 
+ 
+                    Financial Results                 
+ 
+                    Market Reports/Research                 
+ 
+                    Solid State (SSD, flash key, DNA, etc.)                 
+ 
+                    Hard Disk Drives                 
+ 
+                    Tapes                 
+ 
+                    Optical                 
+ 
+                    Software                 
+ 
+                    People                 
+ 
+                    Cloud, Online Backup, SSPs, MSPs                 
+ 
+                    Connectivity (switch/HBA/interface)                 
+ 
+                    Security                 
+ 
+                    OEM/Channel/Distribution                 
+ 
+                    Customer Wins                 
+ 
+                    Business (others)                 
+ 
+                    Exhibitions                 
+ 
+                    History                 
+ 
+                    Miscellaneous                 
+ 
+ 
+  END : Categories  
+  START : More Resources  
+ 
+ More Resources 
+ 
+ 
+ 
+                                    64.2ZB of Data Created or Replicated in 2020                                 
+ 
+ 
+ 
+                                    Complete List of 219 SSD Makers                                 
+ 
+ 
+ 
+                                    All M&As in 2021                                 
+ 
+ 
+ 
+                                    Best Storage Products of 2022                                 
+ 
+ 
+ 
+                                    Calendar of WW Storage Event                                 
+ 
+ 
+ 
+                                    All Companies in All-Flash Subsystems                                 
+ 
+ 
+ 
+                                    Storage Dictionary (SNIA)                                 
+ 
+ 
+ 
+                                    History of Storage Industry                                 
+ 
+ 
+ 
+                                    Storage Abbreviations                                 
+ 
+ 
+ 
+                                    Top Fastest Growing Storage Companies in 2021                                 
+ 
+ 
+ 
+                                    Top Storage Companies in 2021                                 
+ 
+ 
+ 
+                                    What Do Represent All These Bytes?                                 
+ 
+ 
+ 
+  END : More Resources    
+ 
+ 
+   
+ Home  »  Solid State (SSD, flash key, DNA, etc.)  »  TSMC Assigned Twenty-One Patents 
+ 
+ 
+ 
+ TSMC Assigned Twenty-One Patents 
+ Making semiconductor device comprising flash memory and resulting device, structure and method for single gate NVM, 3D write assist scheme for memory cells, PCM device and method, resistive RAM, 3D ferroelectric memory, magnetoresistive memory device and manufacturing, multi-doped storage structure configured to improve resistive memory cell performance, memory stacks and methods of forming, 3D memory device and methods of forming, 3D semiconductor packages, memory cell with magnetic access selector apparatus, select gate spacer formation to facilitate embedding of split gate flash memory, sidewall protection for PCRAM, multi-level magnetic tunnel junction NOR device with wrap-around gate electrodes and methods for forming, 3D memory and method, phase-change RAM device with doped Ge-Sb-Te layers and method of making, resistive memory devices using a carbon-based conductor line and methods for forming, semiconductor device including NVM cells, memory devices and method of fabricating, memory device and method for forming 
+ 
+                                    By Francis Pelletier | September 29, 2022 at 2:01 pm                                 
+ 
+ 
+ M aking semiconductor device comprising flash memory and resulting device 
+ Taiwan Semiconductor Manufacturing Co., Ltd.   (TSMC) , Hsin-Chu, T aiwan ,  has been assigned a patent ( 11,417,753 ) developed by  Lin, Chien-Hung, Hsin-Chu, T aiwan , Mo, Chun-Chieh, Kaohsiung, T aiwan, and  Kuo, Shih-Chi, Yangmei, T aiwan , for  a   “ m ethod of making semiconductor device comprising flash memory and resulting device . “ 
+ The abstract of the patent published by the U.S. Patent and Trademark Office states: “ A semiconductor device and method for making the semiconductor device comprising a flash memory cell is provided. In accordance with some embodiments, the method includes: patterning a first gate material layer and a gate insulating film over a substrate, the first gate material layer comprising a first gate material, the gate insulating film disposed on the first gate material layer, forming a second gate material layer over the substrate, the gate insulating film, and side walls of the first gate material layer, the second gate material layer comprising a second gate material, etching the second gate material layer to expose the substrate and the gate insulating film and provide a portion of the second gate material layer along each of the side walls of the first gate material layer, and etching the gate insulating film and the first gate material layer so as to form a plurality of gate structures. ” 
+ The patent application was filed on December 9, 2020 (17/115,831). 
+ Structure and method for single gate  NVM 
+ Taiwan Semiconductor Manufacturing Co., Ltd.  (TSMC) , Hsin-Chu, T aiwan ,  has been assigned a patent ( 11,417,670 ) developed by  Tsui, Felix Ying-Kit, Cupertino, CA,  and  Tseng, Huang-Wen, Zhubei, Taiwan , for “ s tructure and method for single gate non-volatile memory device . “ 
+ The abstract of the patent published by the U.S. Patent and Trademark Office states: “ The present disclosure provides an integrated circuit. The integrated circuit includes a substrate, a field effect transistor disposed in a periphery region of the substrate, the field effect transistor including a gate electrode, a first source, a first drain, a floating gate non-volatile memory device disposed in a memory region of the substrate, the floating gate non-volatile memory device including a second source, a third source, and a second drain, wherein the second source, the third source, and the second drain are disposed along an axis, and a floating gate electrode in the memory region including a first portion, a second portion, and a third portion, wherein the first portion, the second portion, and the third portion are electrically connected, wherein the first portion, the second portion and the third portion extend perpendicular to the axis. ” 
+ The patent application was filed on November 19, 2018 (16/195,003). 
+ 3-D write assist scheme for memory cells 
+ Taiwan Semiconductor Manufacturing Co., Ltd.  (TSMC) , Hsin-Chu, T aiwan ,  has been assigned a patent ( 11,417,377 ) developed by  Chiu, Chih-Chieh, Hsinchu, Taiwan, Huang, Chia-En, Xinfeng Township, Taiwan, Wu, Fu-An, Hsinchu, Taiwan, Huang, I-Han, Tainan, Taiwan,  and  Yang, Jung-Ping, Jhi-bei, Taiwan , for  a  “ t hree-dimensional  ( 3-D) write assist scheme for memory cells . “ 
+ The abstract of the patent published by the U.S. Patent and Trademark Office states: “ An integrated circuit includes an array of write assist circuits electrically connected to a memory cell array. Each write assist circuit is configured to set an operating voltage of a corresponding memory cell. Each write assist circuit is configured to receive at least a first control signal, and generate an output signal at least in response to the first control signal. The output signal controlling the operating voltage of the corresponding memory cell. Each write assist circuit includes a programmable voltage tuner. The programmable voltage tuner includes a first P-type transistor and a second P-type transistor coupled to the first P-type transistor. A first terminal of the first P-type transistor is configured as a first input node to receive a first select control signal. A first terminal of the second P-type transistor is configured as a second input node to receive a second select control signal. ” 
+ The patent application was filed on September 14, 2020 (17/020,450). 
+ Phase-change memory device and method 
+ Taiwan Semiconductor Manufacturing Co., Ltd.  (TSMC) , Hsin-Chu, T aiwan ,  has been assigned a patent ( 11,411,181 ) developed by  Lee, Tung Ying, Hsinchu, Taiwan, Yu, Shao-Ming, Zhubei, Taiwan,  and  Lin, Yu Chao, Hsinchu, Taiwan , for “ p hase-change memory device and method . “ 
+ The abstract of the patent published by the U.S. Patent and Trademark Office states: “ In an embodiment, a device includes: a first metallization layer over a substrate, the substrate including active devices, a first bit line over the first metallization layer, the first bit line connected to first interconnects of the first metallization layer, the first bit line extending in a first direction, the first direction parallel to gates of the active devices, a first phase-change random access memory  ( PCRAM) cell over the first bit line, a word line over the first PCRAM cell, the word line extending in a second direction, the second direction perpendicular to the gates of the active devices, and a second metallization layer over the word line, the word line connected to second interconnects of the second metallization layer. ” 
+ The patent application was filed on October 16, 2020 (17/072,897). 
+ Resistive random access memory 
+ Taiwan Semiconductor Manufacturing Co., Ltd.  (TSMC) , Hsin-Chu, T aiwan ,  has been assigned a patent ( 11,411,178 ) developed by  Mo, Chun-Chieh, Kaohsiung, Taiwan,  and  Kuo, Shih-Chi, Yangmei, Taiwan , for  a  “ r esistive random access memory device . “ 
+ The abstract of the patent published by the U.S. Patent and Trademark Office states: “ A memory cell includes: a first electrode, a resistive material layer comprising one horizontal portion and two vertical portions that are respectively coupled to ends of the horizontal portion, and a second electrode, wherein the second electrode is partially surrounded by a top boundary of the U-shaped profile and the first electrode extends along part of a bottom boundary of the U-shaped profile. ” 
+ The patent application was filed on November 28, 2018 (16/203,076). 
+ 3D ferroelectric memory 
+ Taiwan Semiconductor Manufacturing Co., Ltd.  (TSMC) , Hsin-Chu, T aiwan ,  has been assigned a patent ( 11,411,025 ) developed by  Lai, Sheng-Chih, Hsinchu County, Taiwan,  and  Lin, Chung-Te, Tainan, Taiwan , for  a  “ 3D ferroelectric memory . “ 
+ The abstract of the patent published by the U.S. Patent and Trademark Office states: “ Various embodiments of the present disclosure are directed towards a metal-ferroelectric-insulator-semiconductor  ( MFIS) memory device, as well as a method for forming the MFIS memory device. According to some embodiments of the MFIS memory device, a lower source/drain region and an upper source/drain region are vertically stacked. A semiconductor channel overlies the lower source/drain region and underlies the upper source/drain region. The semiconductor channel extends from the lower source/drain region to the upper source/drain region. A control gate electrode extends along a sidewall of the semiconductor channel and further along individual sidewalls of the lower and upper source/drain regions. A gate dielectric layer and a ferroelectric layer separate the control gate electrode from the semiconductor channel and the lower and upper source/drain regions. ” 
+ The patent application was filed on June 17, 2020 (16/903,545). 
+ Magnetoresistive memory device and manufacturing 
+ Taiwan Semiconductor Manufacturing Co., Ltd.  (TSMC) , Hsin-Chu, T aiwan ,  has been assigned a patent ( 11,410,714 ) developed by  Luo, Zong-You, Taoyuan, Taiwan, Tsou, Ya-Jui, Taichung, Taiwan, Liu, Chee-Wee, Taipei, Taiwan, Lin, Shao-Yu, Taichung, Taiwan, Chung, Liang-Chor,  and  Wang, Chih-Lin, Hsinchu County, Taiwan , for “ m agnetoresistive memory device and manufacturing method thereof . “ 
+ The abstract of the patent published by the U.S. Patent and Trademark Office states: “ A magnetoresistive memory device includes a plurality of bottom conductive lines, a plurality of top conductive lines, a first memory cell, and a second memory cell. The top conductive lines are over the bottom conductive lines. The first memory cell is between the bottom conductive lines and the top conductive lines and includes a first magnetic tunnel junction  ( MTJ) stack. The second memory cell is adjacent the first memory cell and between the bottom conductive lines and the top conductive lines. The second memory cell includes a second MTJ stack, and a top surface of the second MTJ stack is higher than a top surface of the first MTJ stack. ” 
+ The patent application was filed on September 16, 2019 (16/572,329). 
+ Multi-doped storage structure configured to improve resistive memory cell performance 
+ Taiwan Semiconductor Manufacturing Co., Ltd.  (TSMC) , Hsin-Chu, T aiwan ,  has been assigned a patent ( 11,404,638 ) developed by  Lee, Bi-Shen, Hsin-Chu, Taiwan, Trinh, Hai-Dang, Hsinchu, Taiwan, Jiang, Fa-Shen, Taoyuan, Taiwan,  and  Kuang, Hsun-Chung, Hsinchu, Taiwan , for  a  “ m ulti-doped data storage structure configured to improve resistive memory cell performance . “ 
+ The abstract of the patent published by the U.S. Patent and Trademark Office states: “ Various embodiments of the present disclosure are directed towards a memory device including a data storage structure overlying a substrate. A bottom electrode overlies the substrate and a top electrode overlies the bottom electrode. The data storage structure is disposed between the bottom electrode and the top electrode. The data storage structure comprises a dielectric material doped with a first dopant and a second dopant, where the first dopant is different from the second dopant. ” 
+ The patent application was filed on July 28, 2020 (16/940,529). 
+ Memory stacks and methods of forming 
+ Taiwan Semiconductor Manufacturing Co., Ltd.  (TSMC) , Hsin-Chu, T aiwan ,  has been assigned a patent ( 11,404,635 ) developed by  Lee, Tung-Ying, Hsinchu, Taiwan, Yu, Shao-Ming, Hsinchu County, Taiwan,  and  Lin, Yu-Chao, Hsinchu, Taiwan , for   “ m emory stacks and methods of forming the same . “ 
+ The abstract of the patent published by the U.S. Patent and Trademark Office states: “ Memory stacks and method of forming the same are provided. A memory stack includes a bottom electrode layer, a top electrode layer and a phase change layer between the bottom electrode layer and the top electrode layer. A width of the top electrode layer is greater than a width of the phase change layer. A first portion of the top electrode layer uncovered by the phase change layer is rougher than a second portion of the top electrode layer covered by the phase change layer. ” 
+ The patent application was filed on January 19, 2020 (16/746,921). 
+ 3D  memory device and methods of forming 
+ Taiwan Semiconductor Manufacturing Co., Ltd.  (TSMC) , Hsin-Chu, T aiwan ,  has been assigned a patent ( 11,404,444 ) developed by  Lu, Chun-Chieh, Taipei, Taiwan, Yeong, Sai-Hooi, Zhubei, Taiwan, Young, Bo-Feng, Taipei, Taiwan, Lin, Yu-Ming,  and  Chia, Han-Jong, Hsinchu, Taiwan , for   “ t hree-dimensional memory device and methods of forming . “ 
+ The abstract of the patent published by the U.S. Patent and Trademark Office states: “ A method for forming a memory device includes: forming a first layer stack and a second layer stack successively over a substrate, wherein each of the first and the second layer stacks comprises a dielectric layer, a channel layer, and a source/drain layer formed successively over the substrate, forming openings that extends through the first layer stack and the second layer stack, where the openings includes first openings within boundaries of the first and the second layer stacks, and a second opening extending from a sidewall of the second layer stack toward the first openings, forming inner spacers by replacing portions of the source/drain layer exposed by the openings with a dielectric material, lining sidewalls of the openings with a ferroelectric material, and forming first gate electrodes in the first openings and a dummy gate electrode in the second opening by filling the openings with an electrically conductive material. ” 
+ The patent application was filed on October 14, 2020 (17/070,619). 
+ 3D semiconductor packages 
+ Taiwan Semiconductor Manufacturing Co., Ltd.  (TSMC) , Hsin-Chu, T aiwan ,  has been assigned a patent ( 11,393,805 )  developed by  Yu, Chen-Hua, Hsinchu, Taiwan, Yu, Chun-Hui, Hsinchu County, Taiwan, Yee, Kuo-Chung, Taoyuan, Taiwan,  and , Yen, Liang-Ju, Hsinchu, Taiwan , for   “ 3D semiconductor packages . “ 
+ The abstract of the patent published by the U.S. Patent and Trademark Office states: “ One of semiconductor packages includes a substrate and a package structure. The package structure is bonded to the substrate and includes a first redistribution layer structure, a first logic die, a plurality of second logic dies, a first memory die, a first heat conduction block and a first encapsulant. The first logic die and the second logic dies are disposed over and electrically connected to the first redistribution layer structure. The first memory die is disposed over the first logic die and the second logic dies and electrically connected to first redistribution layer structure. The first heat conduction block is disposed over the first logic die and the second logic dies. The first encapsulant encapsulates the first memory die and the first heat conduction block. ” 
+ The patent application was filed on June 1, 2020 (16/888,874). 
+ Memory cell with magnetic access selector apparatus 
+ Taiwan Semiconductor Manufacturing Co., Ltd.  (TSMC) , Hsin-Chu, T aiwan ,  has been assigned a patent ( 11,380,840 )  developed by  Manfrini, Mauricio, Zhubei, Taiwan , for   a  “ m emory cell with magnetic access selector apparatus . “ 
+ The abstract of the patent published by the U.S. Patent and Trademark Office states: “ An integrated chip has a memory cell that includes a magnetic tunnel junction  ( MTJ) device and an access selector apparatus. The MTJ device includes a free layer and a pinned layer. The access selector apparatus includes a first metal structure and a second metal structure separated by one or more non-metallic layers. The first metal structure includes a polarized magnetic layer. The polarized magnetic layer produces a magnetic field that extends through the free layer, tilting its magnetic field and thereby substantially reducing a switching time for the MTJ device. The access selector apparatus may be a bipolar selector. The polarized magnetic layer may be incorporated into an electrode of the bipolar selector. Both the access selector apparatus and the MTJ device may be formed by a stack of material layers. The resulting memory cell may be compact and have good write speed. ” 
+ The patent application was filed on March 20, 2020 (16/824,862). 
+ Select gate spacer formation to facilitate embedding of split gate flash memory 
+ Taiwan Semiconductor Manufacturing Co., Ltd.  (TSMC) , Hsin-Chu, T aiwan ,  has been assigned a patent ( 11,380,769 )  developed by  Lin, Meng-Han, Hsinchu, Taiwan,  and  Hsieh, Chih-Ren, Changhua, Taiwan , for   a  “ s elect gate spacer formation to facilitate embedding of split gate flash memory . “ 
+ The abstract of the patent published by the U.S. Patent and Trademark Office states: “ An integrated circuit device includes a semiconductor substrate having a memory area and a logic area. A memory cell in the memory area includes a select gate separated from a floating gate by a floating gate spacer. A select gate spacer is formed on a side of the select gate opposite the floating gate. The select gate spacer has a uniform thickness over most of the select gate. The first layer of the select gate spacer may be formed by oxidizing the select gate electrode. A second layer of the select gate spacer may be formed by atomic layer deposition. the memory area may be covered by a protective layer while spacers are formed adjacent logic gates in the logic region. ” 
+ The patent application was filed on October 1, 2019 (16/589,358). 
+ Sidewall protection for PCRAM  
+ Taiwan Semiconductor Manufacturing Co., Ltd.  (TSMC) , Hsin-Chu, T aiwan ,  has been assigned a patent ( 11,362,277 )  developed by  Lin, Yu-Chao, Hsinchu, Taiwan, Tu, Yuan-Tien, Chiayi County, Taiwan, Yu, Shao-Ming, Hsinchu County, Taiwan,  and  Lee, Tung-Ying, Hsinchu, Taiwan , for   a  “ s idewall protection for PCRAM device . “ 
+ The abstract of the patent published by the U.S. Patent and Trademark Office states: “ A method of forming a phase change random access memory  ( PCRAM) device includes forming a phase change element over a bottom electrode and a top electrode over the phase change element, forming a protection layer around the phase change element, and forming a nitrogen-containing sidewall spacer layer around the protection layer after forming the protection layer. ” 
+ The patent application was filed on July 11, 2019 (16/509,105). 
+ Multi-level magnetic tunnel junction NOR device with wrap-around gate electrodes and methods for forming  
+ Taiwan Semiconductor Manufacturing Co., Ltd.  (TSMC) , Hsin-Chu, T aiwan ,  has been assigned a patent ( 11,355,551 )  developed by  Chia, Han-Jong, Hsinchu, Taiwan, Young, Bo-Feng, Taipei, Taiwan, Yeong, Sai-Hooi, Zhubei, Taiwan, Wang, Chenchen Jacob, Lin, Meng-Han,  and  Lin, Yu-Ming, Hsinchu, Taiwan , for   “ m ulti-level magnetic tunnel junction NOR device with wrap-around gate electrodes and methods for forming the same . “ 
+ The abstract of the patent published by the U.S. Patent and Trademark Office states: “ A magnetic tunnel junction memory device includes a vertical stack of magnetic tunnel junction NOR strings located over a substrate. Each magnetic tunnel junction NOR string includes a respective semiconductor material layer that contains a semiconductor source region, a plurality of semiconductor channels, and a plurality of semiconductor drain regions, a plurality of magnetic tunnel junction memory cells having a respective first electrode that is located on a respective one of the plurality of semiconductor drain regions, and a metallic bit line contacting each second electrode of the plurality of magnetic tunnel junction memory cells. The vertical stack of magnetic tunnel junction NOR strings may be repeated along a channel direction to provide a three-dimensional magnetic tunnel junction memory device. ” 
+ The patent application was filed on June 23, 2020 (16/909,080). 
+ 3D  memory and method 
+ Taiwan Semiconductor Manufacturing Co., Ltd.  (TSMC) , Hsin-Chu, T aiwan ,  has been assigned a patent ( 11,355,516 )  developed by  Yang, Feng-Cheng, Zhudong Township, Taiwan, Lin, Meng-Han, Wang, Sheng-Chen, Chia, Han-Jong, Hsinchu, Taiwan,  and  Lin, Chung-Te, Tainan, Taiwan , for   “ t hree-dimensional memory device and method . “ 
+ The abstract of the patent published by the U.S. Patent and Trademark Office states: “ In accordance with embodiments, a memory array is formed with a multiple patterning process. In embodiments a first trench is formed within a multiple layer stack and a first conductive material is deposited into the first trench. After the depositing the first conductive material, a second trench is formed within the multiple layer stack, and a second conductive material is deposited into the second trench. The first conductive material and the second conductive material are etched. ” 
+ The patent application was filed on September 11, 2020 (17/018,232). 
+ Phase-change random access memory device with doped Ge–Sb–Te layers and method of making 
+ Taiwan Semiconductor Manufacturing Co., Ltd.  (TSMC) , Hsin-Chu, T aiwan ,  has been assigned a patent ( 11,349,070 )  developed by  Wu, Jau-Yi, Zhubei, Taiwan , for   “ p hase-change random access memory device with doped Ge–Sb–Te layers and method of making the same . “ 
+ The abstract of the patent published by the U.S. Patent and Trademark Office states: “ A phase-change memory device and method of manufacturing the same, the memory device including: a substrate, a bottom electrode disposed over the substrate, a top electrode disposed over the bottom electrode, and a phase-change layer disposed between the top and bottom electrodes. The phase change layer includes a chalcogenide Ge—Sb–Te  ( GST) material that includes at least 30 at % Ge and that is doped with a dopant including N, Si, Sc, Ga, C, or any combination thereof. ” 
+ The patent application was filed on February 7, 2020 (16/785,023). 
+ Resistive memory devices using carbon-based conductor line and methods for forming 
+ Taiwan Semiconductor Manufacturing Co., Ltd.  (TSMC) , Hsin-Chu, T aiwan ,  has been assigned a patent ( 11,349,069 )  developed by  Chiang, Hung-Li, Taipei, Taiwan, Cheng, Chao-Ching, Chen, Tzu-Chiang,  and  Li, Lain-Jong, Hsinchu, Taiwan , for   “ r esistive memory devices using a carbon-based conductor line and methods for forming the same . “ 
+ The abstract of the patent published by the U.S. Patent and Trademark Office states: “ An array of rail structures is formed over a substrate. Each rail structure includes at least one bit line. Dielectric isolation structures straddling the array of rail structures are formed. Line trenches are provided between neighboring pairs of the dielectric isolation structures. A layer stack of a resistive memory material layer and a selector material layer is formed within each of the line trenches. A word line is formed on each of the layer stacks within unfilled volumes of the line trenches. The word lines or at least a subset of the bit lines includes a carbon-based conductive material containing hybridized carbon atoms in a hexagonal arrangement to provide a low resistivity conductive structure. An array of resistive memory elements is formed over the substrate. A plurality of arrays of resistive memory elements may be formed at different levels over the substrat. ” 
+ The patent application was filed on December 16, 2019 (16/715,216). 
+ Semiconductor device including  NVM  cells 
+ Taiwan Semiconductor Manufacturing Co., Ltd.  (TSMC) , Hsin-Chu, T aiwan ,  has been assigned a patent ( 11,349,035 )  developed by  Shu, Cheng-Bo, Wu, Yun-Chi,  and  Huang, Chung-Jen, Tainan, Taiwan , for   a  “ s emiconductor device including non-volatile memory cells . “ 
+ The abstract of the patent published by the U.S. Patent and Trademark Office states: “ A semiconductor device includes a non-volatile memory  ( NVM) cell. The NVM cell includes a semiconductor wire disposed over an insulating layer disposed on a substrate. The NVM cell includes a select transistor and a control transistor. The select transistor includes a gate dielectric layer disposed around the semiconductor wire and a select gate electrode disposed on the gate dielectric layer. The control transistor includes a stacked dielectric layer disposed around the semiconductor wire and a control gate electrode disposed on the stacked dielectric layer. The stacked dielectric layer includes a charge trapping layer. The select gate electrode is disposed adjacent to the control gate electrode with the stacked dielectric layer interposed therebetween. ” 
+ The patent application was filed on June 22, 2020 (16/907,509). 
+ Memory devices and method of fabricating 
+ Taiwan Semiconductor Manufacturing Co., Ltd.  (TSMC) , Hsin-Chu, T aiwan ,  has been assigned a patent ( 11,348,935 )  developed by  Wu, Chang-Ming, New Taipei, Taiwan, Wu, Wei Cheng, Zhubei, Taiwan, Liu, Shih-Chang, Alian Township, Taiwan, Chuang, Harry-Hak-Lay, Zhubei, Taiwan,  and  Tsai, Chia-Shiung, Hsinchu, Taiwan , for   “ m emory devices and method of fabricating same . “ 
+ The abstract of the patent published by the U.S. Patent and Trademark Office states: “ A device comprises a control gate structure and a memory gate structure over a substrate, a charge storage layer formed between the control gate structure and the memory gate structure, a first spacer along a sidewall of the memory gate structure, a second spacer along a sidewall of the control gate structure, an oxide layer over a top surface of the memory gate structure, a top spacer over the oxide layer, a first drain/source region formed in the substrate and adjacent to the memory gate structure and a second drain/source region formed in the substrate and adjacent to the control gate structure. ” 
+ The patent application was filed on May 8, 2020 (16/869,780). 
+ Memory device and method for forming 
+ Taiwan Semiconductor Manufacturing Co., Ltd.  (TSMC) , Hsin-Chu, T aiwan ,  has been assigned a patent ( 11,348,929 )  developed by  Su, Hsin-Wen, Yunlin County, Taiwan, Huang, Chia-En, Hsinchu County, Taiwan, Lin, Shih-Hao, Hsinchu, Taiwan, Hung, Lien-Jung, Taipei, Taiwan,  and  Wang, Ping-Wei, Hsinchu, Taiwan , for   “ m emory device and method for forming the same . “ 
+ The abstract of the patent published by the U.S. Patent and Trademark Office states: “ A memory device includes a substrate, a first gate structure and a second gate structure, first, second, third source/drain structures, gate spacers, a first via and a second via, and a semiconductor layer. The first gate structure and the second gate structure are over the substrate. The first, second, third source/drain structures are over the substrate, in which the first and second source/drain structures are on opposite sides of the first gate structure, the second and third source/drain structures are on opposite sides of the second gate structure. The gate spacers are on opposite sidewalls of the first and second gate structures. The first via and the second via are over the first gate structure and the second gate structure, respectively, in which the first via is in contact with the first gate structure. The semiconductor layer is between the second via and the second gate structure. ” 
+ The patent application was filed on September 28, 2020 (17/035,298). 
+ 
+ 
+ 
+                                Share this news :
+
+                                                                 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+   
+ 
+ 
+  START : CATCH PHRASE  
+ 
+            With all the daily news on the worldwide storage industry, StorageNewsletter is updated every day at 9AM in Chicago.
+     
+  END : CATCH PHRASE  
+  START : SUBSCRIBE  
+ 
+ 
+    Subscribe to our free daily newsletter
+ 
+  END : SUBSCRIBE  
+  START : ADS  
+ 
+ 
+ 
+    Either there are no banners, they are disabled or none qualified for this location!       Either there are no banners, they are disabled or none qualified for this location!     Either there are no banners, they are disabled or none qualified for this location!       Either there are no banners, they are disabled or none qualified for this location!     Either there are no banners, they are disabled or none qualified for this location!     Either there are no banners, they are disabled or none qualified for this location!     Either there are no banners, they are disabled or none qualified for this location!  
+  END : ADS  
+ 
+ 
+ 
+ 
+ 
+ 
+ CATEGORIES 
+ 
+ 
+ 
+ 
+                                            M&As                                         
+ 
+ 
+ 
+                                            Start-Ups                                         
+ 
+ 
+ 
+                                            Systems (RAID, NAS, SAN)                                         
+ 
+ 
+ 
+                                            Financial Results                                         
+ 
+ 
+ 
+                                            Market Reports/Research                                         
+ 
+ 
+ 
+                                            Solid State (SSD, flash key, DNA, etc.)                                         
+ 
+ 
+ 
+                                            Hard Disk Drives                                         
+ 
+ 
+ 
+                                            Tapes                                         
+ 
+ 
+ 
+                                            Optical                                         
+ 
+ 
+ 
+                                            Software                                         
+ 
+ 
+ 
+                                            People                                         
+ 
+ 
+ 
+                                            Cloud, Online Backup, SSPs, MSPs                                         
+ 
+ 
+ 
+                                            Connectivity (switch/HBA/interface)                                         
+ 
+ 
+ 
+                                            Security                                         
+ 
+ 
+ 
+                                            OEM/Channel/Distribution                                         
+ 
+ 
+ 
+                                            Customer Wins                                         
+ 
+ 
+ 
+                                            Business (others)                                         
+ 
+ 
+ 
+                                            Exhibitions                                         
+ 
+ 
+ 
+                                            History                                         
+ 
+ 
+ 
+                                            Miscellaneous                                         
+ 
+ 
+ 
+ 
+ 
+ MENU 
+ 
+ 
+ About Us 
+ Submit News 
+ Editorial Policy 
+ Contact Us 
+ Subscription 
+ Advertise with Us 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                Copyright © 2022 StorageNewsletter is published by Micro-Journal 
+             
+             • 
+             
+ 
+ Privacy Policy 
+  • 
+                 RSS Feed 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

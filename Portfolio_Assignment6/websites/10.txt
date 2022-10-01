@@ -1,0 +1,70 @@
+
+ 
+ 
+ 
+ 
+ 
+ 
+ [if lt IE 9]><script type="text/javascript" src="/concrete/js/ie/html5-shiv.js?ccm_nocache=698efcbba1ffa5ad29f220e78f59eb0e9b0d6c3a"></script><![endif] 
+ [if lt IE 9]><script type="text/javascript" src="/concrete/js/ie/respond.js?ccm_nocache=698efcbba1ffa5ad29f220e78f59eb0e9b0d6c3a"></script><![endif] 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ NewMaxx's SSD Site 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+   
+   
+ [if IE 9]><video style='display: none;'><![endif] [if IE 9]></video><![endif] 
+ 
+   
+ Flowchart Guide 
+ List Guide 
+ Spreadsheet 
+ SSD Basics 
+ Discord 
+ Software 
+ Documents 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Built with  concrete5  CMS. 
+ 
+ Log in   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
