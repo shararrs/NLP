@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2e0a809c-45ad-48a3-be12-ef70a0dbd126" name="Changes" comment="Added all unversioned files" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/LICENSE" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2E6yXyCLxbcdLS2YfheqOoGrY34" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Project.color&quot;: &quot;001220&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/shara/OneDrive/2022 Fall/CS-4395.001(Human Language Tech)/Code/NLP&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2e0a809c-45ad-48a3-be12-ef70a0dbd126" name="Changes" comment="" />
+      <created>1661930386925</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1661930386925</updated>
+      <workItem from="1661930393455" duration="1721000" />
+      <workItem from="1662083069211" duration="10000" />
+      <workItem from="1662085193621" duration="38000" />
+      <workItem from="1662085242215" duration="146000" />
+      <workItem from="1662921409433" duration="519000" />
+      <workItem from="1662921988762" duration="273000" />
+      <workItem from="1663954984437" duration="1428000" />
+    </task>
+    <task id="LOCAL-00001" summary="Added assignment 0 link to README.md for Protfolio page">
+      <created>1661930930158</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1661930930159</updated>
+    </task>
+    <task id="LOCAL-00002" summary="changing format of README.md">
+      <created>1661931455900</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1661931455900</updated>
+    </task>
+    <task id="LOCAL-00003" summary="changing format of README.md">
+      <created>1661931736709</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1661931736709</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Removed line from of README.md">
+      <created>1661931855826</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1661931855826</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Updated README.md with Assignment 2">
+      <created>1662921658748</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1662921658748</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Updated README.md with Assignment 2 ipynb file">
+      <created>1662921879336</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1662921879336</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Added all unversioned files">
+      <created>1662922091315</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1662922091315</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Added assignment 0 link to README.md for Portfolio page" />
+    <MESSAGE value="changing format of README.md" />
+    <MESSAGE value="Removed line from of README.md" />
+    <MESSAGE value="Updated README.md with Assignment 2" />
+    <MESSAGE value="Updated README.md with Assignment 2 ipynb file" />
+    <MESSAGE value="Added all unversioned files" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added all unversioned files" />
+  </component>
+</project>

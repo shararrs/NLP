@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a2d04c79-a5c2-459c-af7e-3164ca45a452" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/workspace-DESKTOP-KK7UTPE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment_5.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Portfolio_Assignment_4/.idea/Portfolio_Assignment_4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Portfolio_Assignment_4/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Portfolio_Assignment_4/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Portfolio_Assignment_4/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Portfolio_Assignment_4/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Portfolio_Assignment_4/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Portfolio_Assignment_4/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Portfolio_Assignment_4/.ipynb_checkpoints/WordNet-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Portfolio_Assignment_5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Team Members.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ngram_files/LangId.sol" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ngram_files/LangId.test" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ngram_files/LangId.train.English" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ngram_files/LangId.train.French" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ngram_files/LangId.train.Italian" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/program1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/program2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/NLP.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/NLP.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Portfolio_Assignment_3/.idea/Portfolio_Assignment_3.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Portfolio_Assignment_3/.idea/Portfolio_Assignment_3.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Portfolio_Assignment_3/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Portfolio_Assignment_3/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Portfolio_Assignment_4/WordNet.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../Portfolio_Assignment_4/WordNet.ipynb" afterDir="false" />
+    </list>
+    <list id="0130896a-fbf6-4062-a2fd-c2500aae517a" name="Changes by cyto" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2FV9mi6evwVyLPCWLr1u3KXuY6a" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Project.color": "421e0a",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "last_opened_file_path": "C:/Users/shara/OneDrive/2022 Fall/CS-4395.001(Human Language Tech)/Code/NLP/Portfolio_Assignment_5"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\shara\OneDrive\2022 Fall\CS-4395.001(Human Language Tech)\Code\NLP\Portfolio_Assignment_5" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.program2">
+    <configuration name="program1" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Portfolio_Assignment_5" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\shara\OneDrive\2022 Fall\CS-4395.001(Human Language Tech)\Code\NLP\Portfolio_Assignment_5\program1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="program2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Portfolio_Assignment_5" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/program2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.program2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a2d04c79-a5c2-459c-af7e-3164ca45a452" name="Changes" comment="" />
+      <created>1664566544859</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1664566544859</updated>
+      <workItem from="1664566551385" duration="10933000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/program1.py</url>
+          <line>42</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Portfolio_Assignment_5$main.coverage" NAME="program1 Coverage Results" MODIFIED="1664573781221" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Portfolio_Assignment_5$program2.coverage" NAME="program2 Coverage Results" MODIFIED="1664574610726" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
