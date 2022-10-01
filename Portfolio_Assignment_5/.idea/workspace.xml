@@ -1,37 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a2d04c79-a5c2-459c-af7e-3164ca45a452" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../.idea/workspace-DESKTOP-KK7UTPE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Assignment_5.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Portfolio_Assignment_4/.idea/Portfolio_Assignment_4.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Portfolio_Assignment_4/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Portfolio_Assignment_4/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Portfolio_Assignment_4/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Portfolio_Assignment_4/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Portfolio_Assignment_4/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Portfolio_Assignment_4/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Portfolio_Assignment_4/.ipynb_checkpoints/WordNet-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Portfolio_Assignment_5.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Team Members.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ngram_files/LangId.sol" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ngram_files/LangId.test" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ngram_files/LangId.train.English" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ngram_files/LangId.train.French" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ngram_files/LangId.train.Italian" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/program1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/program2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/NLP.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/NLP.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Portfolio_Assignment_3/.idea/Portfolio_Assignment_3.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Portfolio_Assignment_3/.idea/Portfolio_Assignment_3.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Portfolio_Assignment_3/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Portfolio_Assignment_3/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Portfolio_Assignment_4/WordNet.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../Portfolio_Assignment_4/WordNet.ipynb" afterDir="false" />
-    </list>
+    <list default="true" id="a2d04c79-a5c2-459c-af7e-3164ca45a452" name="Changes" comment="Uploading Portfolio assignment 5 (Language model training) + extra of others" />
     <list id="0130896a-fbf6-4062-a2fd-c2500aae517a" name="Changes by cyto" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,17 +22,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "Project.color": "421e0a",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "codeWithMe.voiceChat.enabledByDefault": "false",
-    "last_opened_file_path": "C:/Users/shara/OneDrive/2022 Fall/CS-4395.001(Human Language Tech)/Code/NLP/Portfolio_Assignment_5"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;Project.color&quot;: &quot;421e0a&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/shara/OneDrive/2022 Fall/CS-4395.001(Human Language Tech)/Code/NLP/Portfolio_Assignment_5&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\shara\OneDrive\2022 Fall\CS-4395.001(Human Language Tech)\Code\NLP\Portfolio_Assignment_5" />
@@ -128,7 +98,16 @@
       <option name="presentableId" value="Default" />
       <updated>1664566544859</updated>
       <workItem from="1664566551385" duration="10933000" />
+      <workItem from="1664582636627" duration="122000" />
     </task>
+    <task id="LOCAL-00001" summary="Uploading Portfolio assignment 5 (Language model training) + extra of others">
+      <created>1664582747841</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1664582747841</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -147,6 +126,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Uploading Portfolio assignment 5 (Language model training) + extra of others" />
+    <option name="LAST_COMMIT_MESSAGE" value="Uploading Portfolio assignment 5 (Language model training) + extra of others" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
