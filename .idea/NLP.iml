@@ -4,7 +4,7 @@
     <content url="file://$MODULE_DIR$">
       <excludeFolder url="file://$MODULE_DIR$/Portfolio_Assignment_4/venv" />
       <excludeFolder url="file://$MODULE_DIR$/Portfolio_Assignment_5/venv" />
-      <excludeFolder url="file://$MODULE_DIR$/Portfolio_Assignment6/venv" />
+      <excludeFolder url="file://$MODULE_DIR$/Portfolio_Assignment_6/venv" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
