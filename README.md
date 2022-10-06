@@ -22,3 +22,9 @@ Natural Language Processing
 1. [**Portfolio Assignment 4**](https://github.com/shararrs/NLP/blob/main/Portfolio_Assignment_4)
 2. [**Assignment 4 (WordNet) ipynb file**](https://github.com/shararrs/NLP/blob/main/Portfolio_Assignment_4/WordNet.ipynb)
 3. [**Assignment 4 (WordNet) pdf output**](https://github.com/shararrs/NLP/blob/main/Portfolio_Assignment_4/WordNetOutput.pdf)
+
+**Assignments 5 :**<br>
+1. [**Portfolio Assignment 5**](https://github.com/shararrs/NLP/blob/main/Portfolio_Assignment_5)
+2. [**Assignment 5 (Ngrams) dictionary generator py**](https://github.com/shararrs/NLP/blob/main/Portfolio_Assignment_5/program1.py)
+3. [**Assignment 5 (Ngrams) language tester py**](https://github.com/shararrs/NLP/blob/main/Portfolio_Assignment_5/program2.py)
+4. [**Assignment 5 (Ngrams) narrative**](https://github.com/shararrs/NLP/blob/main/Portfolio_Assignment_5/Blake_and_Sharars_ngrams_narrative.pdf)
