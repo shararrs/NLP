@@ -6,9 +6,27 @@ import os
 
 
 
-STARTER_URL = "https://en.wikipedia.org/wiki/Vince_Gilligan"
+# STARTER_URL = "https://en.wikipedia.org/wiki/Vince_Gilligan"
 REDDIT_URL = "https://teddit.net/r/Newmaxx/"
+# REDDIT_URL = "https://news.ycombinator.com/"
+# REDDIT_URL = "https://www.teddit.net/r/finance/"
 
+
+
+
+BLACKLIST = ('.png',
+             '.pdf',
+             '.jpg',
+             'youtube.com',
+             'algolia',
+             'twitter.com',
+             'reddit.com',
+             'teddit.net',
+             'google.com',
+             'patreon.com',
+             'github.com',
+             'bloomberg.com',
+             'lobste.rs')
 
 def url_filter(urls) -> list[str]:
     return list(set((
@@ -17,7 +35,7 @@ def url_filter(urls) -> list[str]:
         if not url.startswith('/')
         and not any((
             substr in url
-            for substr in ('.png', '.pdf', '.jpg', 'youtube.com', 'teddit', 'twitter.com', 'reddit.com', 'google.com', 'patreon.com')
+            for substr in BLACKLIST
         ))
     )))
 

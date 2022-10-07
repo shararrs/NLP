@@ -5,6 +5,14 @@
       <excludeFolder url="file://$MODULE_DIR$/Portfolio_Assignment_4/venv" />
       <excludeFolder url="file://$MODULE_DIR$/Portfolio_Assignment_5/venv" />
       <excludeFolder url="file://$MODULE_DIR$/Portfolio_Assignment_6/venv" />
+      <excludeFolder url="file://$MODULE_DIR$/Portfolio_Assignment_1/venv/Lib" />
+      <excludeFolder url="file://$MODULE_DIR$/Portfolio_Assignment_1/venv/Scripts" />
+      <excludeFolder url="file://$MODULE_DIR$/Portfolio_Assignment_2/venv/etc" />
+      <excludeFolder url="file://$MODULE_DIR$/Portfolio_Assignment_2/venv/Lib" />
+      <excludeFolder url="file://$MODULE_DIR$/Portfolio_Assignment_2/venv/Scripts" />
+      <excludeFolder url="file://$MODULE_DIR$/Portfolio_Assignment_2/venv/share" />
+      <excludeFolder url="file://$MODULE_DIR$/Portfolio_Assignment_3/venv/Lib" />
+      <excludeFolder url="file://$MODULE_DIR$/Portfolio_Assignment_3/venv/Scripts" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
