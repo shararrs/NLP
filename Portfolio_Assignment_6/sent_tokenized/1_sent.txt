@@ -1,0 +1,44 @@
+https://www.tomshardware.com/reviews/kioxia-xg8-review
+When you purchase through links on our site, we may earn an affiliate commission.
+Here’s why you can trust us .
+It has optional feature support but otherwise does not excel in any performance category.
+The lack of retail availability means some users may only check to see if it’s worth upgrading over.
+For OEM use, the XG8 supports optional features such as TCG Opal 2.01 for encryption and also power loss notification.
+Its conservative design allows for use in laptops, desktops, gaming PCs and more.
+The XG8 comes with new hardware - that is, a new controller and new flash - and promises better performance.
+Kioxia shows random and sequential performance improvements of between 169 and 253% in terms of IOPS and MBps, respectively.
+Other features make it useful for client environments which could include workstations, as well.
+It will be interesting to see how it holds up against the  best SSDs .
+It is particularly nice to see a 4TB option as TLC drives still often tap out at 2TB.
+The flash may help here as BiCS5 is known to be available in 1Tb dies, as on the  8TB Sabrent Rocket 4 Plus .
+However, the 4TB model is double-sided with more NAND packages, so this is not absolutely necessary.
+The XG8 can hit up to 7.0/5.8 GBps for sequential read and write and 900K/620K random read and write IOPS.
+Kioxia backs the drive with a 5-year warranty without any official TBW rating (as this is an OEM product).
+The KG8 is also NVMe 1.4 compliant.
+The XG8 has an option with TCG Opal 2.01 support for each capacity which enables the Self-Encrypting Drive (SED) capability.
+This may be useful for client drive environments.
+The XG8 also supports power loss notification (PLN) through a PCIe sideband signal.
+This allows the drive to flush its data to non-volatile media before power loss through host initialization.
+This is not the same as power loss protection (PLP), which uses a battery or capacitor to protect data-in-flight.
+However, theoretically, PLN could be used with off-module PLP (OMP) to add this functionality.
+Software and Accessories The XG8 does not offer much in the way of software or accessories, which isn't uncommon for client SSDs.
+We recommend Macrium Reflect Free if you need to clone or image your existing drive.
+Other applications, such as CrystalDiskInfo, can offer more information about the drive and its health status.
+Underneath this we see the controller flanked by two NAND packages on one side and a DRAM package on the other.
+The drive is single-sided, which is nice for some applications.
+It is worth noting that this drive is double-sided at 4TB.
+This is an eight-channel controller capable of getting the most out of a PCIe 4.0 interface.
+Kioxia’s Exceria line has used variations of Phison’s E12 controller instead.
+The DRAM is Nanya’s NT6AN512T32AV-J2.
+This is LPDDR4, a low power form of DRAM, in a 512MB x 32b configuration.
+This makes it effectively 16Gb or 2GB which is a good amount for a 2TB drive.
+(Image credit: Tom's Hardware) These are 8Tb or 1TB packages consisting of 112-layer BiCS5 TLC dies.
+This flash can also be found on the  1TB Kioxia BG5 , which has a single package.
+There’s not too much to say about this flash.
+Even though it has a generational disadvantage versus Micron’s 176-layer TLC, it has proven to be quite good in drives like the  WD SN770 .
+The maturity of the architecture has its benefits in OEM products, too.
+Regarding the 3DMark benchmark, in this review, the WD Black SN850X is ahead of the SK hynix Platinum P41.
+But in the SN850X review, back in August, this was not the case.
+You will receive a verification email shortly.
+There was a problem.
+Please refresh the page and try again.

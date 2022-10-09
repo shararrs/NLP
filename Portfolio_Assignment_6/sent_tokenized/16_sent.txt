@@ -1,0 +1,25 @@
+https://www.thessdreview.com/our-reviews/nvme/sk-hynix-platinum-p4-ssd-review-can-gen4-get-any-better-than-this/
+[endif]   [if IE 8]><link rel="stylesheet" type="text/css" media="all" href="https://www.thessdreview.com/wp-content/themes/sahifa/css/ie8.css"/><!
+[endif]   [if IE 7]><link rel="stylesheet" type="text/css" media="all" href="https://www.thessdreview.com/wp-content/themes/sahifa/css/ie7.css"/><!
+It changed its name to Hynix Semiconductor in 2001.
+Most haven’t a clue who they are or what they do.
+They are one of few true memory manufacturers in the world and have always played second fiddle to big names like  Samsung, Intel, Micron, as well as Toshiba now KIOXIA.
+In the SSD world, they can still be considered the new guy for the most part…but things will change if they do things right and follow that path we have seen in this report today.
+We have in our hands the SK hynix Platinum P41 Gen4 2TB SSD and have tested it extensively over the past few weeks.
+In as few words as possible, it blows everything else away.
+This SSD has topped just about every test we could throw at it, and in fact, a few days back on a forum where someone was asking for recommendations with respect to the best 4TB SSD available, I almost jumped in and recommended two 2TB SK hynix Platinum P41s as the 4TB hadn’t been released yet.
+The SK hynix P41 is a PCIe 4.0 (Gen4) 2280 form factor (80mm long) M.2 SSD which uses the latest NVM Express 1.4 protocol.
+It is available in 500GB, 1 and 2TB sizes with writing on the wall for a 4TB release.
+Its performance specs speak to 7GB/s rtead and 6.5GB/s write data throughput with up to 1,200 TBW (Terabytes Written) and a limited 5-year warranty.
+SK hynix builds completely proprietary SSDs, in that, the SSD controller, the memory and DRAM are all of their own manufacture.
+The only other company that follows this practice is Samsung, coincidentally being another South Korean company.
+The black 2280 PCB is a single sided design with two packages of SK hynix 176-layer NAND flash memory, a SK hynix  2GB DDR4 DRAM buffer chip followed by the SK hynix NVMe 8-channel ‘Aries’ controller on the far right.
+But the speed is always the same as in SLC mode and an indestructible resource, plus a data storage time of at least 10 years.
+SLC > MLC > TLC means 2^n so it’s actually 3/4 capacity loss.
+Basically, it would cost 4 times as much.
+You also have to consider that NAND density is a huge issue as well.
+All Rights Reserved.
+The SSD Review is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to Amazon.com.
+[endif]   [if lt IE 9]><script src="//www.thessdreview.com/wp-content/cache/wpfc-minified/86t8amfx/fmmyx.js"></script><!
+[endif]   [if lt IE 9]><script src="//www.thessdreview.com/wp-content/cache/wpfc-minified/sfu5wy0/fmmyx.js"></script><!
+[endif]     [if IE]><script>if(0===window.location.hash.indexOf('#comment-')){ window.location.hash=window.location.hash; }</script><!

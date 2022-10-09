@@ -1,0 +1,33 @@
+https://www.techpowerup.com/299395/alphacool-intros-liquid-cooler-and-riser-card-for-m-2-nvme-ssd
+[endif]   [if lt IE 9]><script>window.onerror = function(){ return true; }</script><!
+Due to their design, however, M.2 NVMe SSDs are only capable of delivering their maximum performance for a short time.
+The controller chip heats up extremely quickly and begins to throttle the SSD's performance at an early stage.
+To ensure that the full performance of the memory can be used permanently, Alphacool now offers the Core M.2 NVMe PCIe 4.0 Liquid Cooler with digital aRGB illumination.
+The Core M.2 NVMe PCIe 4.0 Liquid Cooler features 5 digitally addressable RGB LEDs that create a unique illumination.
+The LEDs can be connected to a digital RGB controller or a digital RGB capable mainboard and thus controlled as desired.
+The material mix of acrylic, nickel-plated copper and aluminium also gives the cooler a noble design.
+Alphacool's Core M.2 NVMe PCIe 4.0 Liquid Cooler is a useful addition to any water cooled system and ensures that the M.2 NVMe SSD can unleash its full potential.
+Smart and efficient!
+Features Material cooler bottom: nickel-plated copper Material cooler housing: acrylic Material backplate: aluminium Illumination: 5 digital aRGB LEDs Connections: 2x G1/4" Dimensions: 130.7 x 56 x 24.41 mm Compatibility: M.2 NVMe PCIe 4.0 SSD MSRP: 99.98€.
+For more information and to purchase, visit  this page .
+Wow, that is  overkill .
+You only want to cool the controller and not the flash module.
+Alot of times the extra space below a gfx in an atx build is wasted space.
+Alot of times the extra space below a gfx in an atx build is wasted space.
+I don't need a device like that, but I like your way of thinking.
+Alot of times the extra space below a gfx in an atx build is wasted space.
+I like that thought... although that's why micro-ATX and mini-ITX exist.
+But it's PCIe 4.
+Looking at you thermaltake .
+I agree with the person who said to use the same empty PCI Express space for a small, compact pump/reservoir.
+The biggest lesson I've learned about GPU cards, and slots lately.
+I will never buy a game card again.
+For some reason, I don't know why builders keep making the cards bigger.
+Sure there's heat and fans, but for now, I want my PCIe space back.
+I've learned that the EVGA 3090 is hard to come by - a great card, but with or without a water block.
+On the motherboard, I noticed that it takes up space.
+On my motherboard with 7 slots, 2 for the 3090 and 2 open (one between the 3090 and the last slot).
+Personally, it's a broken use of space.
+So professional cards only, with professional water blocks.
+All rights reserved.
+All trademarks used are properties of their respective owners.

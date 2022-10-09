@@ -1,0 +1,57 @@
+https://www.tomshardware.com/news/corsair-expands-mp600-pro-xt-lineup-with-8tb-ssd
+When you purchase through links on our site, we may earn an affiliate commission.
+Here’s why you can trust us .
+The new drives offer a massive capacity, but their performance is slightly lower when compared to other SSDs from this family.
+Corsair's  MP600 Pro XT  M.2-2280 drives are the company's flagship storage products based on Phison's PS5018-E18 controller and Micron's 176-layer 3D TLC NAND memory.
+Corsair's new 8TB MP600 Pro XT SSDs are rated for an up to 7,100 MB/s sequential read speed, an up to 6,100 MB/sequential write speed as well as 1.2 million/950 thousand random read/write IOPS (see detailed specifications in comparison to other drives in the lineup below).
+While the highest-capacity SSDs are typically slightly slower compared to mid-range capacity configurations, Corsair's MP600 Pro XT 8TB will still be one of  the best SSDs  available with a PCIe 4.0 x4 interface.
+The retailer sells these 8TB drives for €1,399.90 ($1,158 without VAT), which is slightly more expensive than the price of two MP600 Pro XT 4TB devices.
+Meanwhile, recommended price of Corsair's 8TB drive in the U.S. is unclear as it is not available on this side of the pond.
+For enthusiasts who already have a machine with a PCIe 5.0 x4-supporting M.2 slot or those who wait for AMD's Ryzen 7000-series or Intel's 13th Gen Core 'Raptor Lake' platforms with PCIe Gen5 support, the dilemma is whether to buy a high-capacity PCIe Gen4 SSD now or wait for upcoming drives with a PCIe 5.0 interface.
+Unfortunately, there is no correct answer for this question as we do not know when exactly Corsair and other vendors release their PCIe Gen5 drives, especially those  not constrained with a 10GBps read speed .
+Anton Shilov Freelance News Writer Anton Shilov is a Freelance News Writer at Tom’s Hardware US.
+Over the past couple of decades, he has covered everything from CPUs and GPUs to supercomputers and from modern process technologies and latest fab tools to high-tech industry trends.
+It's not speed or endurance, it's the fact that 4TB and 8TB drives have such a gigantic price premium...
+It's not speed or endurance, it's the fact that 4TB and 8TB drives have such a gigantic price premium...
+The majority of people I know would be hard pressed to fill up a 2TB.
+Mine was a 125 MB , for about $140.
+Mine was a 125 MB , for about $140.
+ST-225 -- 20MB for $200 including controller card.
+The first one I used was a 10MB, in the XT compatible my dad gave me.
+And then...Stacker to make it 20MB.
+Mine was a 125 MB , for about $140.
+it doesn't sound like that majority are actually IT people.
+80% of the  people I know that have IT careers  will have no problem filling that drive :) And the people in IT careers are a small percentage of the population....:)  All the geeks at work could easily make use if that.
+I'm just saying...a 4TB NVMe drive is applicable to a very small percentage of people.
+This will change, along with prices.
+Just a few short years ago, a 1TB SATA III SSD was $200.
+I'm just saying...a 4TB NVMe drive is applicable to a very small percentage of people.
+This will change, along with prices.
+Just a few short years ago, a 1TB SATA III SSD was $200.
+i'm at the point now with all the Sony Ported games coming out to PC that my 1TBx2 Raid 0 Sata setup is only at 500GB free space now which won't last long with a few more games.
+So i'm going to have to add more SSD's to my rig just for game storage.
+I won't add a 2nd m2 drive until Direct X storage is out and they have released firmware optimized drives.
+i'm at the point now with all the Sony Ported games coming out to PC that my 1TBx2 Raid 0 Sata setup is only at 500GB free space now which won't last long with a few more games.
+So i'm going to have to add more SSD's to my rig just for game storage.
+I won't add a 2nd m2 drive until Direct X storage is out and they have released firmware optimized drives.
+My current main system has 6x 1TB SSD.
+No RAID 0 involved or wanted.
+Windows and applications have gotten so much better over the last few years, that combining 2 or more drives into a RAID 0 simply for the 'size' doesn't make a lot of sense.
+And, apart from benchmark numbers and tiny edge cases, the theoretical speed benefit of a RAID 0 is totally lost on SSD.
+No RAID 0 involved or wanted.
+Windows and applications have gotten so much better over the last few years, that combining 2 or more drives into a RAID 0 simply for the 'size' doesn't make a lot of sense.
+And, apart from benchmark numbers and tiny edge cases, the theoretical speed benefit of a RAID 0 is totally lost on SSD.
+The reason i went RAID 0 on that is I wanted a single storage pool for the games.
+And since its only games on there not concerned with a RAID failure and no issues since the raid was created in dec 2019.
+The sequential access increase is nice but not really noticed in my usage of it.
+Other than the time I copy large files to that storage.
+Windows and all my apps are on the PCIe 4 SSD in the system.
+When I did this build I decided no HDD were ever going to be in it so I have a NAS on the network with those for mass storage.
+Mine was a 125 MB , for about $140.
+You answered yourself, people who bu these aren't "majority of people" It would be heavy users, powerful users, gamers.
+Not to mention that games continue to expand in data weight by a lot every year.
+You will receive a verification email shortly.
+There was a problem.
+Please refresh the page and try again.
+MOST POPULAR MOST SHARED 1 Nvidia RTX 4080 Allegedly Overclocks to 3GHz at Default 320W TDP 2 U.S.
+Adds More Hurdles for Chinese Firms Using American Chip Tools 3 Microsoft Provides New Performance Tips for Windows 11 Gamers 4 TSMC Q3 2022 Revenue Hits All-Time High Despite Slowing Demand 5 Noctua Shuffles Roadmap, Adds NH-L9a CPU Cooler for AMD AM5 1 U.S.

@@ -1,0 +1,59 @@
+https://www.anandtech.com/show/17599/sandisk-professional-prog40-thunderbolt-usb-dualmode-portable-ssd-review
+ [if IE 6]> <html class="ie6"> <!
+[endif]   [if IE 7]> <html class="ie7"> <!
+[endif]   [if IE 8]> <html class="ie8"> <!
+[endif]   [if IE 9]> <html class="ie9"> <!
+1TB and 2TB versions are available.
+While the PSSD delivers its maximum performance (close to 3GBps) when connected to Thunderbolt 3 hosts, it can also work as a 1GBps-class drive when connected to a USB 3.2 Gen 2 host port.
+Western Digital provided us with a 2TB sample of the PRO-G40 to put through our rigorous direct-attached storage evaluation.
+Introduction   External bus-powered storage devices have grown both in storage capacity as well as speeds over the last decade.
+Thanks to rapid advancements in flash technology (including the advent of 3D NAND and NVMe) as well as faster host interfaces (such as Thunderbolt 3 and USB 3.x), we now have palm-sized flash-based storage devices capable of delivering 3GBps+ speeds.
+While those speeds can be achieved with Thunderbolt 4, mass-market devices have to rely on USB.
+Intel's Titan Ridge controllers offered an interesting feature when used in client devices such as peripherals and/or docks.
+In addition to downstream PCIe lanes, an USB 3.2 Gen 2 host interface was also included.
+This allowed manufacturers to offer unique dual-mode designs by tweaking the traditional JHL7440 Thunderbolt 3 SSD.
+The USB 3.2 Gen 2 downstream port is connected to the upstream interface of a USB to NVMe bridge chip.
+Depending on the host to which the drive is connected (reported by the JHL7440), the PCIe 3.0 x4 lanes of the NVMe SSD are connected to either the JHL7440's downstream PCIe 3.0 x4 lanes or the bridge chip's PCIe 3.0 x4 lanes.
+The  Sabrent ROCKET XTRM-Q  was one of the first PSSD lineups to support dual-mode operation based on this architecture.
+The PSSD uses the WD_BLACK SN750E M.2 2280 drive internally.
+On the bridge side, the JHL7440 Titan Ridge Thunderbolt 3 controller is augmented by the ASMedia ASM2362 USB 3.2 Gen 2 - NVMe bridge chip.
+The enclosure itself is quite stylish, and is made of solid aluminum.
+One side is covered by a silicone base.
+The drive also includes a LED indicator and a metal-reinforced USB-C port.
+These features allow the PRO-G40 to obtain an IP68 rating - complete protection against dust ingress, and no damage resulting from complete and continuous impression under 1m of water.
+The solid aluminum core allows for drop- (up to 3m) and crush-resistance (up to 4000 lbs.)
+also, while supporting faster heat dissipation as part of the thermal solution.
+The PRO-G40 PSSD comes in a minimal package with the main unit and a short 20cm Thunderbolt 3 passive cable.
+The length could be a concern for typical desktops, but the use-case for these dual-mode drives mostly involves notebooks or systems that utilize a Thunderbolt dock as part of the workspace.
+The drive comes formatted for Macs out of the box, but it is trivial to reformat in one's OS of choice.
+Our sample was evaluated with the exFAT filesystem on a Windows 10 machine.
+The 'issues' plaguing all Thunderbolt SSDs on Windows affect the SanDisk Professional PRO-G40 too.
+Unless write caching is enabled in the volume policies for the Thunderbolt port-connected drive, the write performance doesn't match the expectations / advertised numbers.
+Our policy is to evaluate all external storage devices with default OS settings - and this has been for quick removal since we moved to Windows 10 on our new testbed.
+However, we did evaluate the PRO-G40 drive thrice - once connected to a Thunderbolt 3 port, and another time connected to a USB 3.2 Gen 2x2 port enabled by the ASMedia ASM2342 controller.
+In our final pass, we repeated the evaluation procedure with the write cache settings modified, as shown in the picture below (default settings on the left, and modified one on the right).
+CrystalDiskInfo provides a quick overview of the PSSD as seen by the host system.
+The most attractive aspect of the Quartz Canyon NUC is the presence of two PCIe slots (electrically, x16 and x4) for add-in cards.
+In the absence of a discrete GPU - for which there is no need in a DAS testbed - both slots are available.
+In fact, we also added a spare SanDisk Extreme PRO M.2 NVMe SSD to the CPU direct-attached M.2 22110 slot in the baseboard in order to avoid DMI bottlenecks when evaluating Thunderbolt 3 devices.
+This still allows for two add-in cards operating at x8 (x16 electrical) and x4 (x4 electrical).
+Since the Quartz Canyon NUC doesn't have a native USB 3.2 Gen 2x2 port, Silverstone's  SST-ECU06  add-in card was installed in the x4 slot.
+All non-Thunderbolt devices are tested using the Type-C port enabled by the SST-ECU06.
+Over the last few years, the typical direct-attached storage workloads for memory cards have also evolved.
+High bit-rate 4K videos at 60fps have become quite common, and 8K videos are starting to make an appearance.
+Keeping these in mind, our evaluation scheme for direct-attached storage devices involves multiple workloads which are described in detail in the corresponding sections.
+Prior to providing concluding remarks, we have some observations on the device's power consumption numbers and thermal solution also.
+Seems like for now Samsung and Seagate remain "safe" options.
+Make me one of those.
+Very, very hard.
+Which also makes it very expensive.
+Still, client revenues dropping by… https://t.co/N4JTpeNbtZ   RyanSmithAT :  @SteakandChickn @andreif7 @philparkbot @gavbon86 The most important gain is lower power.
+Physically reducing the li… https://t.co/tK8sKelbK0   RyanSmithAT :  @andreif7 @philparkbot @gavbon86 Correct.
+The die-to-die IF link, as they call it, is half the width and twice the… https://t.co/Xbzpj0imsG   RyanSmithAT :  Whew, that was close.
+iTunes almost succeeded in tricking me into upgrading to iOS 16.
+ganeshts :  @dylan522p The NAND part of the quoted tweet is factually wrong.
+All rights reserved.
+All rights reserved.
+All rights reserved.
+We’ve updated our terms.
+By continuing to use the site and/or by logging into your account, you agree to the Site’s updated  Terms of Use  and  Privacy Policy .

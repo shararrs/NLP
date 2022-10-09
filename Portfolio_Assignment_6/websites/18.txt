@@ -1,0 +1,410 @@
+https://www.techpowerup.com/298787/kingston-announces-hardware-encrypted-ironkey-keypad-200-usb-drive
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ [if lt IE 9]><script src="https://tpucdn.com/js/html5shiv.min-v1664446299286.js"></script><![endif] 
+ [if lt IE 9]><script>window.onerror = function(){ return true; }</script><![endif] 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Home 
+ Reviews 
+ Forums 
+ Downloads 
+ Case Mod Gallery 
+ 
+ Databases 
+ 
+ 
+ Databases…
+								 Back 
+ 
+ VGA Bios Collection 
+ GPU Database 
+ CPU Database 
+ Review Database 
+ 
+ 
+ 
+ Our Software 
+ 
+ 
+ Our Software…
+								 Back 
+ 
+ GPU-Z 
+ RealTemp 
+ NVCleanstall 
+ TPUCapture 
+ MemTest64 
+ 
+ 
+ 
+ More 
+ 
+ 
+ More…
+								 Back 
+ 
+ Articles 
+ Old Stuff 
+ Computer Trivia 
+ TPU Live 
+ 
+ 
+ Contact Us 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Monday, September 12th 2022 
+ 
+ Kingston Announces Hardware-Encrypted IronKey Keypad 200 USB Drive 
+ 
+ 
+ 
+ Press Release 
+ 
+ 
+ 
+			by  btarunr 
+ 
+ 
+ 
+								Sep 12th, 2022 09:15
+							 
+ 
+ 
+ Discuss (0 Comments) 
+ 
+ 
+ Kingston Digital, Inc., the Flash memory affiliate of Kingston Technology Company, Inc., a world leader in memory products and technology solutions, today announced the release of the Kingston IronKey Keypad 200 (KP200), the industry's first drive to deliver the latest FIPS 140-3 Level 3 security for your data. 
+ 
+The IronKey Keypad 200 is built with robust protection and flexibility of use in mind—offering XTS-AES 256-bit hardware-based encryption in a feature-rich and OS-independent alphanumeric keypad. KP200 incorporates a built-in rechargeable battery, so users can unlock the drive using the keypad for easy-to-use PIN access, without using software. Once unlocked, users can access their data by plugging the drive into any device that supports USB Type-A Flash storage, making it a plug-and-play device across IT ecosystems.   KP200 is FIPS-140-3 Level 3 (Pending) certified for military-grade security, and the drive's circuitry is coated with tamper-evident, tough epoxy to prevent access to its internal components without damaging them. For another level of protection, the keypad is coated with a protective polymer layer to prevent the analysis of fingerprints on the keys. 
+ 
+KP200 supports a multi-PIN option, allowing the use of separate Admin or User PINs. KP200 locks the User PIN after ten failed login attempts, but if both PINs are enabled the Admin can be used to restore a User PIN and access to the drive. If the Admin PIN itself is incorrectly entered ten times in a row, the built-in Brute Force attack protection will crypto-erase the drive, permanently destroying the data and resetting the device. Additionally, KP200 can safeguard against malware from untrusted systems with two different Read-Only modes, empowering Admin to write-protect the drive during a specific session or globally across all User sessions. 
+ 
+"The Kingston IronKey KP200 is the first drive to successfully pass certification lab testing for the latest FIPS 140-3 Level 3 military-grade security level from NIST," said Richard Kanadjian, encrypted unit manager at Kingston. "With no need for software and ease of use of the keypad, KP200 is the best solution for those looking for flexibility while maintaining the highest-level security for storing sensitive data on the go." 
+ 
+KP200 adds security enhancements for FIPS 140-3 Level 3: Minimum PIN length goes from 7 to 8 digits (max is 15) for stronger PIN security No factory-preset PIN - User must set up PIN upon first use Periodic self-testing to ensure fully-functional security features - KP200 will shut down if a problem is detected Automatic shutdown under excessive thermal and voltage conditions Enhanced Random Number Generator to strengthen encryption key generation The Kingston IronKey Keypad 200 has available storage capacities ranging from 8 GB to 128 GB and is backed by a limited three-year warranty, with free technical support, and the legendary Kingston reliability. 
+ 
+Kingston IronKey Keypad 200 Features and Specifications: FIPS 140-3 Level 3 (Pending) Certified: KP200 now meets the new FIPS 140-3 Level 3 military-grade security specifications published by NIST; it has completed certification lab testing and is in the review cycle for final approval by NIST. This is an enhanced version of the FIPS 140-2 Level 3 specifications that further enhances the drive's security capabilities and tamper-resistance. It includes XTS-AES 256-bit encryption along with Brute Force and BadUSB attack protection with digitally-signed firmware. Its circuitry is covered by a layer of special epoxy that makes it virtually impossible to remove components without damaging them; this tough epoxy stops attacks against the semiconductor components. OS- and Device-Independent: With KP200 utilizing a rechargeable battery, the keypad can be used to unlock the drive without using any software, and then plug it into any system that supports a USB Type-A mass storage device. This gives users the most flexibility across different platform types and operating systems. Multi-PIN Option: Users have the option to set up a User or an Admin/User mode. Admin can be used to restore a User PIN and provide access to the drive should User PIN be forgotten or if the drive is locked after reaching the maximum of 10 User login attempts. Global and Session Read-Only (Write Protect) Modes: Both Admin and User can set a session-based Read-Only mode to protect the drive from malware on untrusted systems. Admin can also set a Global Read-Only mode that sets the drive in Read-Only mode until reset. Interface: USB 3.2 Gen 1 (5 Gbps) Capacities: 8 GB, 16 GB, 32 GB, 64 GB, 128 GB Connector: Type-A Speed: USB 3.2 Gen 1: 8 GB -128 GB: 145 MB/s read, 115 MB/s Write USB 2.0: 8 GB: 30 MB/s read, 12 MB/s write; 16 GB - 128 GB: 30 MB/s read, 20 MB/s write Dimensions (drive with sleeve): 80 mm x 20 mm x 10.5 mm Dimensions (drive without sleeve): 78 mm x 18 mm x 8 mm Waterproof/Dustproof: Certified to IP57 rating Operating Temperature: 0°C to 50°C Storage Temperature: -20°C to 60°C Compatibility: USB 3.0/USB 3.1/USB 3.2 Gen 1 Minimum System Requirements: USB 3.0 compliant and 2.0 compatible Warranty/Support: 3-year warranty, free technical support Compatible with: OS-independent: Microsoft Windows, macOS, Linux, Chrome OS, Android 4 or any system that supports a USB mass storage device. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Related News 
+ 
+ Tags: 
+ Chrome OS 
+ Flash Drive 
+ Keypad 
+ Kingston 
+ USB 3.1 
+ USB Type-A 
+ 
+ 
+ 
+ Sep 7th 2022   Kingston Releases NV2 Series Entry-level PCIe Gen 4 NVMe SSDs  (5) 
+ Jul 11th 2022   Kingston Digital Releases Type-A Addition to DataTraveler Max USB 3.2 Gen 2 Series  (11) 
+ Sep 20th 2022   Kingston FURY Releases New Special Edition RGB DDR4 Memory  (4) 
+ Sep 6th 2022   Kingston Technology Remains Top DRAM Module Supplier for 2021  (10) 
+ Sep 8th 2022   Kingston FURY Adds AMD EXPO Certified DDR5 Memory to Lineup  (1) 
+ Jul 18th 2022   Kingston Announces the FURY Renegade DDR5 Memory Series  (6) 
+ Jul 5th 2022   Kingston Announces XTS-AES Encrypted USB Drive with Automatic USBtoCloud Back Up  (6) 
+ May 23rd 2022   Kingston Digital Releases Touch-Screen Hardware-Encrypted External SSD for Data Protection  (10) 
+ May 31st 2022   Kingston Launches IronKey Vault Privacy 50 with FIPS 197 Certification and XTS-AES 256-bit Encryption  (0) 
+ May 24th 2022   Kingston Announces FURY Beast RGB DDR5 Memory  (0) 
+ 
+ 
+ 
+ Add your own comment 
+ Comments   on  Kingston Announces Hardware-Encrypted IronKey Keypad 200 USB Drive 
+ There are no comments yet. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Oct 8th, 2022 18:25 CDT 
+ change timezone 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Sign in  /  Register 
+ 
+ 
+ 
+ Latest GPU Drivers 
+ 
+ 
+ NVIDIA GeForce 517.48 WHQL  
+ AMD Radeon 22.10.1 Beta  
+ 
+			Intel
+			 IGP 101.3430  
+			/
+			 Arc 101.3430  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ New Forum Posts 
+ 
+ 
+ 
+ 18:21 
+				by
+				 Shrek 
+ 
+ Windows 11 General Discussion  ( 3422 )
+		 
+ 
+ 
+ 18:17 
+				by
+				 ssateneth 
+ 
+ Resizable Bar not working.  ( 28 )
+		 
+ 
+ 
+ 17:58 
+				by
+				 Nike_486DX 
+ 
+ I need help  ( 1 )
+		 
+ 
+ 
+ 17:57 
+				by
+				 dgianstefani 
+ 
+ New build pc freezes when starting up a game  ( 2 )
+		 
+ 
+ 
+ 17:38 
+				by
+				 kiddagoat 
+ 
+ Custom Loop Maintenance  ( 4 )
+		 
+ 
+ 
+ 17:34 
+				by
+				 tabascosauz 
+ 
+ What's your latest tech purchase?  ( 13452 )
+		 
+ 
+ 
+ 17:31 
+				by
+				 Shrek 
+ 
+ What are your opinions on PSUs with zero-rpm fan features?  ( 120 )
+		 
+ 
+ 
+ 17:30 
+				by
+				 Count von Schwalbe 
+ 
+ I'm building a $2430 computer, I can't decide.  ( 21 )
+		 
+ 
+ 
+ 17:29 
+				by
+				 leglessman 
+ 
+ z97 OC  ( 15 )
+		 
+ 
+ 
+ 17:28 
+				by
+				 pablosilva2022 
+ 
+ Colorful iGame RTX 3060 Ti Ultra W OC  ( 0 )
+		 
+ 
+ 
+ 
+ 
+ 
+ 
+ Popular Reviews 
+ 
+ 
+ Sep 26th, 2022 
+ AMD Ryzen 9 7950X Review - Impressive 16-core Powerhouse 
+ 
+ 
+ Oct 5th, 2022 
+ Intel Arc A770 Review - Finally a Third Competitor 
+ 
+ 
+ Oct 5th, 2022 
+ NVIDIA GeForce RTX 4090 FE + 6x Custom Design Unboxing 
+ 
+ 
+ Sep 30th, 2022 
+ Intel Arc A750 & A770 Unboxing & Preview 
+ 
+ 
+ Sep 26th, 2022 
+ AMD Ryzen 5 7600X Review - Affordable Zen 4 for Gaming 
+ 
+ 
+ Sep 26th, 2022 
+ AMD Ryzen 7 7700X Review - The Best Zen 4 for Gaming 
+ 
+ 
+ Oct 3rd, 2022 
+ AMD Ryzen 9 7950X Cooling Requirements & Thermal Throttling 
+ 
+ 
+ Sep 8th, 2022 
+ Red Dead Redemption 2: DLSS vs. FSR 2.0 Comparison Review 
+ 
+ 
+ Oct 4th, 2022 
+ TOPPING E30 II DAC + L30 II Amplifier Desktop Stack Review 
+ 
+ 
+ Aug 25th, 2022 
+ Upcoming Hardware Launches 2022 (Updated Aug 2022) 
+ 
+ 
+ 
+ 
+ Controversial News Posts 
+ 
+ 
+ EVGA Announces Cancelation of NVIDIA Next-gen Graphics Cards Plans, Officially Terminates NVIDIA Partnership 
+			( 536 )
+		 
+ 
+ NVIDIA Project Beyond GTC Keynote Address: Expect the Expected (RTX 4090) 
+			( 332 )
+		 
+ 
+ Intel 13th Gen Core "Raptor Lake" Desktop Processors Launched: +15% ST, +41% MT Uplift 
+			( 202 )
+		 
+ 
+ NVIDIA AD103 and AD104 Chips Powering RTX 4080 Series Detailed 
+			( 152 )
+		 
+ 
+ Google Calls it Quits on Game Streaming, Shutting Down Stadia 
+			( 147 )
+		 
+ 
+ Microsoft Unveils the Windows 11 2022 Update, Available Today 
+			( 135 )
+		 
+ 
+ AMD Ryzen 9 7900X CPU-Z Benched, Falls Short of Core i7-12700K in ST, Probably Due to Temperature Throttling 
+			( 123 )
+		 
+ 
+ Ethereum Switches to Proof of Stake, GPU Mining is Dead 
+			( 118 )
+		 
+ 
+ 
+ 
+ 
+ 
+ 
+				Copyright © 2004-2022 www.techpowerup.com. 
+				All rights reserved. 
+				All trademarks used are properties of their respective owners.
+			 
+ 
+ 
+ 
+ 
+ 
+ 

@@ -1,0 +1,662 @@
+https://www.techpowerup.com/299395/alphacool-intros-liquid-cooler-and-riser-card-for-m-2-nvme-ssd
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ [if lt IE 9]><script src="https://tpucdn.com/js/html5shiv.min-v1664446299286.js"></script><![endif] 
+ [if lt IE 9]><script>window.onerror = function(){ return true; }</script><![endif] 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Home 
+ Reviews 
+ Forums 
+ Downloads 
+ Case Mod Gallery 
+ 
+ Databases 
+ 
+ 
+ Databases…
+								 Back 
+ 
+ VGA Bios Collection 
+ GPU Database 
+ CPU Database 
+ Review Database 
+ 
+ 
+ 
+ Our Software 
+ 
+ 
+ Our Software…
+								 Back 
+ 
+ GPU-Z 
+ RealTemp 
+ NVCleanstall 
+ TPUCapture 
+ MemTest64 
+ 
+ 
+ 
+ More 
+ 
+ 
+ More…
+								 Back 
+ 
+ Articles 
+ Old Stuff 
+ Computer Trivia 
+ TPU Live 
+ 
+ 
+ Contact Us 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Thursday, September 29th 2022 
+ 
+ Alphacool Intros Liquid Cooler and Riser Card for M.2 NVMe SSD 
+ 
+ 
+ 
+ Press Release 
+ 
+ 
+ 
+			by  btarunr 
+ 
+ 
+ 
+								Sep 29th, 2022 03:54
+							 
+ 
+ 
+ Discuss (16 Comments) 
+ 
+ 
+ NVMe SSDs in M.2 format have become standard PC equipment, as they allow high transfer rates and extremely low access times and thus enable faster and more effective work or gaming. Due to their design, however, M.2 NVMe SSDs are only capable of delivering their maximum performance for a short time. The controller chip heats up extremely quickly and begins to throttle the SSD's performance at an early stage. To ensure that the full performance of the memory can be used permanently, Alphacool now offers the Core M.2 NVMe PCIe 4.0 Liquid Cooler with digital aRGB illumination. 
+ 
+The Core M.2 NVMe PCIe 4.0 Liquid Cooler features 5 digitally addressable RGB LEDs that create a unique illumination. The LEDs can be connected to a digital RGB controller or a digital RGB capable mainboard and thus controlled as desired. The material mix of acrylic, nickel-plated copper and aluminium also gives the cooler a noble design.           Alphacool's Core M.2 NVMe PCIe 4.0 Liquid Cooler is a useful addition to any water cooled system and ensures that the M.2 NVMe SSD can unleash its full potential. Smart and efficient! 
+ 
+Features Material cooler bottom: nickel-plated copper Material cooler housing: acrylic Material backplate: aluminium Illumination: 5 digital aRGB LEDs Connections: 2x G1/4" Dimensions: 130.7 x 56 x 24.41 mm Compatibility: M.2 NVMe PCIe 4.0 SSD MSRP: 99.98€. For more information and to purchase, visit  this page . 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Related News 
+ 
+ Tags: 
+ addressable RGB 
+ Alphacool 
+ Cooler 
+ M.2 
+ NVMe 
+ PCIe 4.0 
+ SSD 
+ SSDs 
+ 
+ 
+ 
+ Aug 4th 2022   ASUS Unveils the ROG Crosshair X670E Hero and ROG Crosshair X670E Extreme  (57) 
+ Sep 9th 2022   Not All First Generation PCIe 5.0 SSDs Will Offer the Same Performance  (55) 
+ Sep 7th 2022   GoodRAM IRDM Ultimate M.2 PCIe Gen 5 SSD Pictured  (16) 
+ Aug 24th 2022   Samsung Formally Launches the 990 PRO Flagship PCIe Gen4 SSD  (29) 
+ Aug 19th 2022   Gigabyte Announces the AORUS Gen5 10000 SSD with Capacities up to 4 TB  (45) 
+ Aug 16th 2022   Team Group Announces MP44L M.2 Gen4 SSD with Industry-First Graphene Heatspreader  (3) 
+ Sep 22nd 2022   Crystal Group Maximizes Physical and Data Protections for Military Applications with New NVMe SSD  (0) 
+ Aug 22nd 2022   GIGABYTE Unveils AORUS Gen5 AIC Adaptor with 4 Built-in NVMe M.2 Slots  (10) 
+ Jul 22nd 2022   SilverStone Launches M.2 Riser Card for Two SSDs  (47) 
+ Sep 5th 2022   JSAUX Launches Steam Deck Docking Station with M.2 SSD Slot  (9) 
+ 
+ 
+ 
+ Add your own comment 
+ 16 Comments   on  Alphacool Intros Liquid Cooler and Riser Card for M.2 NVMe SSD 
+ 
+ #1 
+ 
+ Chaitanya 
+ 
+ 
+ 
+ For PCI-e 5 SSDs I guess. 
+ 
+				Posted on  Sep 29th 2022, 3:57 
+ 
+ Reply 
+ 
+ 
+ 
+ 
+ #2 
+ 
+ ZoneDymo 
+ 
+ 
+ 
+ wasnt it a thing that you actualyl did not want to cool m.2 too much? 
+ 
+				Posted on  Sep 29th 2022, 4:14 
+ 
+ Reply 
+ 
+ 
+ 
+ 
+ #3 
+ 
+ AusWolf 
+ 
+ 
+ 
+ Who in their right mind spends a hundred bucks plus tooling just to cool an SSD (with RGB)? 
+ 
+				Posted on  Sep 29th 2022, 4:34 
+ 
+ Reply 
+ 
+ 
+ 
+ 
+ #4 
+ 
+ aktpu 
+ 
+ 
+ 
+ Chaitanya For PCI-e 5 SSDs I guess. Compatibility: M.2 NVMe PCIe 4.0 SSD 
+ 
+				Posted on  Sep 29th 2022, 4:35 
+ 
+ Reply 
+ 
+ 
+ 
+ 
+ #5 
+ 
+ Valantar 
+ 
+ 
+ 
+ For a single drive? Wow, that is  overkill . 
+ 
+				Posted on  Sep 29th 2022, 4:42 
+ 
+ Reply 
+ 
+ 
+ 
+ 
+ #6 
+ 
+ thegnome 
+ 
+ 
+ 
+ Would've much rather seen one with 2 or more drives... Would be a fun thing to add in a large watercooled build and you need to fill up the space.. 
+ 
+				Posted on  Sep 29th 2022, 5:58 
+ 
+ Reply 
+ 
+ 
+ 
+ 
+ #7 
+ 
+ Niceumemu 
+ 
+ 
+ 
+ I'm amazed there is enough of a market of suckers out there that would buy a riser card like this which can only support a single nvme drive - and only at 4.0 speeds too 
+ 
+				Posted on  Sep 29th 2022, 6:51 
+ 
+ Reply 
+ 
+ 
+ 
+ 
+ #8 
+ 
+ bonehead123 
+ 
+ 
+ 
+ Yep, just what we need, moar wires & tubes everywhere....1st was CPU's, then GPU's, now your drives.....  
+ 
+Might as well just submerge the entire mobo & all it's parts in coolant or LN2 and be done with it, hehehehe :D 
+ 
+yea I know this has been done already, albeit only in specialized set-ups in labs/tech shows etc, but just sayin...... 
+ 
+				Posted on  Sep 29th 2022, 7:00 
+ 
+ Reply 
+ 
+ 
+ 
+ 
+ #9 
+ 
+ Gundem 
+ 
+ 
+ 
+ Now  I've seen it all :p 
+ 
+				Posted on  Sep 29th 2022, 7:29 
+ 
+ Reply 
+ 
+ 
+ 
+ 
+ #10 
+ 
+ ZentiX 
+ 
+ 
+ 
+ ZoneDymo wasnt it a thing that you actualyl did not want to cool m.2 too much? You only want to cool the controller and not the flash module. 
+ 
+				Posted on  Sep 29th 2022, 7:55 
+ 
+ Reply 
+ 
+ 
+ 
+ 
+ #11 
+ 
+ phanbuey 
+ 
+ 
+ 
+ This would be a cool pump product... a PCIE pump housing for a ddc that has water temp sensors and controls that can stick into a pcie slot and communicate that way. 
+ 
+Alot of times the extra space below a gfx in an atx build is wasted space. 
+ 
+				Posted on  Sep 29th 2022, 8:04 
+ 
+ Reply 
+ 
+ 
+ 
+ 
+ #12 
+ 
+ FranciscoCL 
+ 
+ 
+ 
+ phanbuey This would be a cool pump product... a PCIE pump housing for a ddc that has water temp sensors and controls that can stick into a pcie slot and communicate that way. 
+ 
+Alot of times the extra space below a gfx in an atx build is wasted space. I don't need a device like that, but I like your way of thinking. 
+ 
+				Posted on  Sep 29th 2022, 8:10 
+ 
+ Reply 
+ 
+ 
+ 
+ 
+ #13 
+ 
+ AusWolf 
+ 
+ 
+ 
+ phanbuey This would be a cool pump product... a PCIE pump housing for a ddc that has water temp sensors and controls that can stick into a pcie slot and communicate that way. 
+ 
+Alot of times the extra space below a gfx in an atx build is wasted space. I like that thought... although that's why micro-ATX and mini-ITX exist. 
+ 
+				Posted on  Sep 29th 2022, 8:28 
+ 
+ Reply 
+ 
+ 
+ 
+ 
+ #14 
+ 
+ HairyLobsters 
+ 
+ 
+ 
+ Chaitanya For PCI-e 5 SSDs I guess. But it's PCIe 4. 
+ 
+				Posted on  Sep 29th 2022, 10:34 
+ 
+ Reply 
+ 
+ 
+ 
+ 
+ #15 
+ 
+ Hxx 
+ 
+ 
+ 
+ Probably as useless as water cooling ram. Looking at you thermaltake . But hey it looks good and I’m sure someone is interested :) 
+ 
+				Posted on  Sep 29th 2022, 12:37 
+ 
+ Reply 
+ 
+ 
+ 
+ 
+ #16 
+ 
+ HBSound 
+ 
+ 
+ 
+ I like the thinking and ideas behind it, especially if you don't have a motherboard-mounted M.2 slot. 
+ 
+I agree with the person who said to use the same empty PCI Express space for a small, compact pump/reservoir. 
+ 
+The biggest lesson I've learned about GPU cards, and slots lately. I will never buy a game card again. For some reason, I don't know why builders keep making the cards bigger. Sure there's heat and fans, but for now, I want my PCIe space back. I've learned that the EVGA 3090 is hard to come by - a great card, but with or without a water block. On the motherboard, I noticed that it takes up space. On my motherboard with 7 slots, 2 for the 3090 and 2 open (one between the 3090 and the last slot). Personally, it's a broken use of space. 
+ 
+So professional cards only, with professional water blocks. 
+ 
+				Posted on  Oct 2nd 2022, 10:29 
+ 
+ Reply 
+ 
+ 
+ 
+ Add your own comment 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Oct 8th, 2022 18:25 CDT 
+ change timezone 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Sign in  /  Register 
+ 
+ 
+ 
+ Latest GPU Drivers 
+ 
+ 
+ NVIDIA GeForce 517.48 WHQL  
+ AMD Radeon 22.10.1 Beta  
+ 
+			Intel
+			 IGP 101.3430  
+			/
+			 Arc 101.3430  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ New Forum Posts 
+ 
+ 
+ 
+ 18:21 
+				by
+				 Shrek 
+ 
+ Windows 11 General Discussion  ( 3422 )
+		 
+ 
+ 
+ 18:17 
+				by
+				 ssateneth 
+ 
+ Resizable Bar not working.  ( 28 )
+		 
+ 
+ 
+ 17:58 
+				by
+				 Nike_486DX 
+ 
+ I need help  ( 1 )
+		 
+ 
+ 
+ 17:57 
+				by
+				 dgianstefani 
+ 
+ New build pc freezes when starting up a game  ( 2 )
+		 
+ 
+ 
+ 17:38 
+				by
+				 kiddagoat 
+ 
+ Custom Loop Maintenance  ( 4 )
+		 
+ 
+ 
+ 17:34 
+				by
+				 tabascosauz 
+ 
+ What's your latest tech purchase?  ( 13452 )
+		 
+ 
+ 
+ 17:31 
+				by
+				 Shrek 
+ 
+ What are your opinions on PSUs with zero-rpm fan features?  ( 120 )
+		 
+ 
+ 
+ 17:30 
+				by
+				 Count von Schwalbe 
+ 
+ I'm building a $2430 computer, I can't decide.  ( 21 )
+		 
+ 
+ 
+ 17:29 
+				by
+				 leglessman 
+ 
+ z97 OC  ( 15 )
+		 
+ 
+ 
+ 17:28 
+				by
+				 pablosilva2022 
+ 
+ Colorful iGame RTX 3060 Ti Ultra W OC  ( 0 )
+		 
+ 
+ 
+ 
+ 
+ 
+ 
+ Popular Reviews 
+ 
+ 
+ Sep 26th, 2022 
+ AMD Ryzen 9 7950X Review - Impressive 16-core Powerhouse 
+ 
+ 
+ Oct 5th, 2022 
+ Intel Arc A770 Review - Finally a Third Competitor 
+ 
+ 
+ Oct 5th, 2022 
+ NVIDIA GeForce RTX 4090 FE + 6x Custom Design Unboxing 
+ 
+ 
+ Sep 30th, 2022 
+ Intel Arc A750 & A770 Unboxing & Preview 
+ 
+ 
+ Sep 26th, 2022 
+ AMD Ryzen 5 7600X Review - Affordable Zen 4 for Gaming 
+ 
+ 
+ Sep 26th, 2022 
+ AMD Ryzen 7 7700X Review - The Best Zen 4 for Gaming 
+ 
+ 
+ Oct 3rd, 2022 
+ AMD Ryzen 9 7950X Cooling Requirements & Thermal Throttling 
+ 
+ 
+ Sep 8th, 2022 
+ Red Dead Redemption 2: DLSS vs. FSR 2.0 Comparison Review 
+ 
+ 
+ Oct 4th, 2022 
+ TOPPING E30 II DAC + L30 II Amplifier Desktop Stack Review 
+ 
+ 
+ Aug 25th, 2022 
+ Upcoming Hardware Launches 2022 (Updated Aug 2022) 
+ 
+ 
+ 
+ 
+ Controversial News Posts 
+ 
+ 
+ EVGA Announces Cancelation of NVIDIA Next-gen Graphics Cards Plans, Officially Terminates NVIDIA Partnership 
+			( 536 )
+		 
+ 
+ NVIDIA Project Beyond GTC Keynote Address: Expect the Expected (RTX 4090) 
+			( 332 )
+		 
+ 
+ Intel 13th Gen Core "Raptor Lake" Desktop Processors Launched: +15% ST, +41% MT Uplift 
+			( 202 )
+		 
+ 
+ NVIDIA AD103 and AD104 Chips Powering RTX 4080 Series Detailed 
+			( 152 )
+		 
+ 
+ Google Calls it Quits on Game Streaming, Shutting Down Stadia 
+			( 147 )
+		 
+ 
+ Microsoft Unveils the Windows 11 2022 Update, Available Today 
+			( 135 )
+		 
+ 
+ AMD Ryzen 9 7900X CPU-Z Benched, Falls Short of Core i7-12700K in ST, Probably Due to Temperature Throttling 
+			( 123 )
+		 
+ 
+ Ethereum Switches to Proof of Stake, GPU Mining is Dead 
+			( 118 )
+		 
+ 
+ 
+ 
+ 
+ 
+ 
+				Copyright © 2004-2022 www.techpowerup.com. 
+				All rights reserved. 
+				All trademarks used are properties of their respective owners.
+			 
+ 
+ 
+ 
+ 
+ 
+ 

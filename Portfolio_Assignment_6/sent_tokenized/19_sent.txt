@@ -1,0 +1,40 @@
+https://www.tomshardware.com/news/rog-x670e-extreme-gen-5-m2-riser
+When you purchase through links on our site, we may earn an affiliate commission.
+Here’s why you can trust us .
+What makes the new card so special is added support for PCIe Gen 5 SSDs.
+The Gen-Z.2 is a proprietary PCIe card designed to slot into supported Asus motherboards.
+The card features two M.2 slots on either side, with one supporting Gen 4 speeds and the other Gen 5.
+Both slots support a maximum length of 110mm SSDs, but the Gen 5 slot gets its own dedicated passive heatsink cooler to aid in cooling more power-hungry Gen 5 SSDs.
+The card sports an all-black finish to match the color scheme of Asus' ROG Crosshair motherboards, and will sit perpendicular to the DDR5 slots to the right of supported motherboards when installed.
+The stealthy color scheme of the Gen-Z.2 should aid users looking for a streamlined aesthetic, where the DDR5 modules can stand out from the somewhat bulky M.2 card.
+The added heatsink will also substantially improve the cooling performance of M.2 SSDs sitting in the primary Gen 5 slot compared to SSDs sitting within the motherboard.
+The built-in heatsink has direct access to airflow from the front intake fans of a computer case, and is aided by the exhaust airflow from a CPU tower cooler.
+The GenZ.2 card will also improve the X670E Crosshair Extreme's M.2 storage capacity quite a bit, and will double the board's M.2 slot capacity from two to four --three of which support PCIe Gen 5.
+This is not to mention the additional PCIe 5.0 M.2 card that the Extreme ships with, further increasing the board's M.2 capacity.
+PCIe Gen 5 SSDs will be out coming soon, with launch dates for some drives as early as October.
+But don't get your hopes high just yet; these first-generation variants will not be able to saturate the full bandwidth of four PCIe 5.0 lanes and will be limited to just  10GBps to 12.4GBps.
+Nonetheless, these first-gen drives will be much faster than the best PCIe Gen 4 drives on the market today.
+Even faster PCIe 5 SSDs are expected to arrive in 2023.
+Aaron Klotz Freelance News Writer Aaron Klotz is a freelance writer for Tom’s Hardware US, covering news topics related to computer hardware such as CPUs, and graphics cards.
+Yeah, for 4 & more M.2 you'll need to step up the size of the motherboard.
+Some next-gen MATX motherboards only have 2 PCIe slots because of flush mount M.2... And yes, the 2x PCIe slots includes the graphics one, so you only get one PCIe slot if you have a dGPU.
+And high-end consumer motherboards started to move to E-ATX just 2-3 years ago because of the increased M.2 slots and the extra amount of integrated goodies.
+Not to mention the move to ATX12VO were the motherboard will require more space to have the extra voltage conversion.
+This didn't need a riser.
+This could easily be a 16x PCIe card.
+If it needs more power, an SATA or Molex would be just fine.
+That's how video cards used to be before they got their own dedicated connectors.
+Proprietary interfaces is a huge step in the wrong direction.
+We buy Asus or others specifically because we don't want Apple.
+This could easily be a 16x PCIe card.
+If it needs more power, an SATA or Molex would be just fine.
+That's how video cards used to be before they got their own dedicated connectors.
+Proprietary interfaces is a huge step in the wrong direction.
+We buy Asus or others specifically because we don't want Apple.
+That's where we'd be heading with proprietary adapters and cables.
+Irregardless, I think it's time that traditional rectangular cases be redesigned and optimized for modern PC components.
+We are try so hard to optimize PCs cooling in a case design from the 80s.
+Something less conventional will undoubtedly make cooling easier and more efficient.
+You will receive a verification email shortly.
+There was a problem.
+Please refresh the page and try again.

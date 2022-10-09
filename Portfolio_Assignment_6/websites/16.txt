@@ -1,0 +1,198 @@
+https://www.thessdreview.com/our-reviews/nvme/sk-hynix-platinum-p4-ssd-review-can-gen4-get-any-better-than-this/
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ [if IE 9]><link rel="stylesheet" type="text/css" media="all" href="https://www.thessdreview.com/wp-content/themes/sahifa/css/ie9.css"/><![endif] 
+ [if IE 8]><link rel="stylesheet" type="text/css" media="all" href="https://www.thessdreview.com/wp-content/themes/sahifa/css/ie8.css"/><![endif] 
+ [if IE 7]><link rel="stylesheet" type="text/css" media="all" href="https://www.thessdreview.com/wp-content/themes/sahifa/css/ie7.css"/><![endif] 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+           
+ 
+ 
+ 
+ 
+ 
+ Tuesday ,  4  October 2022 
+ Technology X   About Us     OUR HISTORY   OUR MISSION   SUBMISSIONS   COPYRIGHT   CONTACT   ADVERTISING   NDA & EMBARGO   DISCLAIMER   REVIEW POLICY         
+ 
+       The SSD Review The Worlds Dedicated SSD Education and Review Resource |       
+     
+ 
+ HOME     WE’RE HIRING       BEGINNERS     LEARNING TO RUN WITH FLASH SERIES   SSD TYPES   SSD BENEFITS   SSD COMPONENTS   SSD BOOT TIMES EXPLAINED   PERFORMANCE & PURCHASE   MIGRATION VS FRESH INSTALL   TRIM AND GARBAGE COLLECTION       EVERYTHING SSDS     NVMe   SATA 3   CFEXPRESS   SAS   PCIE   MPCIE   SATA 2   MSATA   HYBRID   USB 3.0   EMBEDDED   SATADIMM   ENTERPRISE       GUIDES     THE SSD REVIEWERS GUIDE TO OPTIMIZATION   THE SSD OPTIMIZATION GUIDE   SYSTEM RESTORE & YOUR SSD   WINDOWS 7 OPTIMIZATION   SERVER BUILD GUIDE   VISTA OPTIMIZATION   RAID MADE EASY       HARDWARE     PORTABLE SSDS   GAMING   MEMORY   CHASSIS   DISPLAYS   NOTEBOOKS   HARD DRIVES   FLASH DRIVES   PERIPHERALS   MOTHERBOARDS       RAID/ENTERPRISE     ENCLOSURES   ENTERPRISE   PERIPHERALS   RAID MADE EASY   RAID CARDS   RAID TESTING       MACINTOSH     MACARTICLES   MACREVIEWS   MACSATA3   MACPCIE   MACUPGRADES       
+ 
+     Breaking News     SSD Optimization Guide   SSD Beginners Guide   SSD Types   SSD Benefits   SSD Components   SSD Boot Times Explained   SSD Performance and Purchase   SSD Migration   
+ 
+ 
+ 
+ SK hynix Platinum P41 SSD Review – Can Gen4 Get Any Better than This? 
+ 
+ Les Tokar  
+ 3 Comments 
+ 
+ 
+ SK hynix is a South Korean company that was founded way back in 1949 as Gukdo Construction and renamed to Hyundai Electronics Industries in 1983 before acquiring LG Semiconductor in 1999.  It changed its name to Hynix Semiconductor in 2001. Most haven’t a clue who they are or what they do.  They are one of few true memory manufacturers in the world and have always played second fiddle to big names like  Samsung, Intel, Micron, as well as Toshiba now KIOXIA.  In the SSD world, they can still be considered the new guy for the most part…but things will change if they do things right and follow that path we have seen in this report today. 
+ 
+ We have in our hands the SK hynix Platinum P41 Gen4 2TB SSD and have tested it extensively over the past few weeks.  In as few words as possible, it blows everything else away.  This SSD has topped just about every test we could throw at it, and in fact, a few days back on a forum where someone was asking for recommendations with respect to the best 4TB SSD available, I almost jumped in and recommended two 2TB SK hynix Platinum P41s as the 4TB hadn’t been released yet. 
+ 
+ The SK hynix P41 is a PCIe 4.0 (Gen4) 2280 form factor (80mm long) M.2 SSD which uses the latest NVM Express 1.4 protocol. It is available in 500GB, 1 and 2TB sizes with writing on the wall for a 4TB release. Its performance specs speak to 7GB/s rtead and 6.5GB/s write data throughput with up to 1,200 TBW (Terabytes Written) and a limited 5-year warranty. 
+ 
+ SK hynix builds completely proprietary SSDs, in that, the SSD controller, the memory and DRAM are all of their own manufacture.  The only other company that follows this practice is Samsung, coincidentally being another South Korean company. 
+ 
+ The black 2280 PCB is a single sided design with two packages of SK hynix 176-layer NAND flash memory, a SK hynix  2GB DDR4 DRAM buffer chip followed by the SK hynix NVMe 8-channel ‘Aries’ controller on the far right. 
+ 
+ Checking Amazon , we see the 500GB capacity priced at $104.99, 1TB at 149.99 and 2TB at $259.99 
+ Pages:  1   2   3   4   5 3dmark   AJA   analysis   AS SSD   ATTO   Crystal DiskInfo   Crystal DiskMark   Endwalker Benchmark   evaluation   Final Fantasy XIV   IOPS   PassMark DiskMark   PCMark 10   report   Review   Solid State Drive   SSD   test   throuput   TxBench   2022-09-18 
+ +Les Tokar 
+ 
+ 
+ 
+ 3 comments  
+           James    September 19, 2022 at 7:59 am Nowhere in this review did you mention temperatures, requirements for a thermal solution, etc.   Would this be a good option for a PS5? Does it run too hot? Reply 
+ 
+ 
+ 
+ 
+ NikoB    October 2, 2022 at 7:59 am Can someone explain to me why no one makes and sells SLC SSDs today, even though Chinese SSDs on Chinese TLC memory cost a penny? What prevents switching NAND chips from TLC mode to permanent SLC mode, albeit with a loss of 2/3 capacity? But the speed is always the same as in SLC mode and an indestructible resource, plus a data storage time of at least 10 years. 
+ What would a smart buyer prefer if they were offered a 2TB 3D TLC SSD for $100 or a 666GB SLC drive for the same price? Well, yes, I am aware that most people are idiots and marketers rule them … Reply 
+         Atlas Rush    October 4, 2022 at 10:08 pm It’s not a loss of 2/3 of capacity. SLC > MLC > TLC means 2^n so it’s actually 3/4 capacity loss. Basically, it would cost 4 times as much. You also have to consider that NAND density is a huge issue as well. Reply 
+ 
+ 
+   Leave a Reply  Cancel reply           <![endif]   
+ 
+           
+                                  Paid Link   
+ 
+   © 2007-2020 The SSD Review. All Rights Reserved. The SSD Review is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to Amazon.com. "As an Amazon Associate I earn from qualifying purchases"   
+ 
+    © 2007-2021 Essentially Tech Media All Rights Reserved. 
+     
+ 
+ 
+                                                 
+ 
+ 
+                                                     
+ 
+   
+   Loading Comments... 
+   
+ 
+ Write a Comment... 
+ 
+ 
+     Email (Required)         Name (Required)         Website     
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ [if IE]><script>jQuery(document).ready(function (){ jQuery(".menu-item").has("ul").children("a").attr("aria-haspopup", "true");});</script><![endif] 
+ [if lt IE 9]><script src="//www.thessdreview.com/wp-content/cache/wpfc-minified/86t8amfx/fmmyx.js"></script><![endif] 
+ [if lt IE 9]><script src="//www.thessdreview.com/wp-content/cache/wpfc-minified/sfu5wy0/fmmyx.js"></script><![endif] 
+ 
+ [if IE]><script>if(0===window.location.hash.indexOf('#comment-')){
+window.location.hash=window.location.hash;
+}</script><![endif] 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ [if IE]><script>if(0===window.location.hash.indexOf('#comment-')){
+window.location.hash=window.location.hash;
+}</script><![endif] 
+ 
+ 
+ 
+ 
+ 
+ 

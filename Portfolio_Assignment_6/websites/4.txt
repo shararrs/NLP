@@ -1,0 +1,312 @@
+https://aphnetworks.com/reviews/adata-legend-960-1tb
+ 
+ 
+ 
+      Skip to main content
+     
+ 
+  Header and Navbar  
+ 
+ 
+ 
+ 
+ 
+ 
+ Toggle navigation 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ APH Networks 
+ 
+ Always Original 
+ 
+ 
+ 
+ 
+  Navigation  
+ 
+ 
+ 
+ Main navigation 
+ 
+ 
+ Home 
+ 
+ 
+ Reviews 
+ 
+ 
+ Reports 
+ 
+ 
+ Lounge 
+ 
+ 
+ Tracker 
+ 
+ 
+ 
+ 
+ 
+ End Navigation  
+ 
+ 
+ 
+ 
+ End Header & Navbar  
+  Top Slideshow  
+  End Top slideshow  
+ Highlighted 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ End Highlighted 
+  Start Top Widget  
+ End Top Widget  
+  Page Title  
+ 
+ 
+  start: Container  
+ 
+ 
+ 
+ 
+ ADATA Legend 960 1TB Review (Page 1 of 10) 
+ 
+ 
+ 
+ 
+ 
+ 
+  End Page Title  
+  layout  
+ 
+  start: Container  
+ 
+ Content top 
+ End Content top 
+ start:content  
+ 
+ 
+ 
+ 
+ - Start Left SideBar  
+ -End Right SideBar  
+ - Start content  
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ By: Jonathan Kwan 
+October 7, 2022 
+ I was recently at an event I was presenting in when the other panel member came up to me before the program started. "Jonathan!" she greeted me enthusiastically. "It is good to see you here!" I looked at her and I was a little taken aback. It was not because she looked weird or I am not used to public interactions -- she looked fine, and I am more than used to big crowds and meeting people in my day job. The problem was I had absolutely zero idea who she was, but somehow, she knew quite a few things about me and talked to me like I had known her previously. It took me a while to figure this one out, but two hours later on the drive back home, I finally remembered I met her once at an event in December 2019. Either she has incredibly awesome memory or I have somehow left an impression, but either way, people remember other people and things for a variety of reasons. This is why marketing is such a big discipline, and often times, the name and branding of a product helps people remember what it is all about. For example, ADATA has long been known as a consumer brand for computer memory products, and their XPG brand has been positioned as a performance or gaming enthusiast label. This means flagship products are typically released under the XPG brand, and we have seen such like the  Gammix S70 Blade 1TB  NVMe I reviewed last year. Today, we have yet another flagship NVMe SSD from the company, the Legend 960, which features Silicon Motion's new SM2264 controller. But strangely enough, it is sold under the ADATA brand, which really confused me at first, because I initially instinctually called this product the XPG Legend 960 rather than the ADATA Legend 960. The reason is because it is aimed at creative professionals, but regardless, given the name and branding, will this be a true flagship drive, or is there something we were missing? Read on to find out! 
+ 
+ Our review unit of the ADATA Legend 960 1TB arrived in a small brown corrugated cardboard box from the ADATA's Taiwanese headquarters in New Taipei City. Using DHL Express Worldwide, the package arrived in excellent condition halfway across the world to us here in Calgary, Alberta, Canada for our review today. 
+ 
+ Our review unit of the ADATA Legend 960 1TB came in its retail packaging. The Legend 960 is sold under the ADATA brand rather than the XPG brand as I have mentioned earlier, as this is aimed at creative professionals. I still find it slightly strange not only because of its performance credentials, but also the fact this product can be found on both websites. The ADATA Legend 960 1TB's retail box is predominantly black with gold and white text. A photo of the drive itself is in some prime real estate in the middle, in front of what looks like a splash of quicksilver. ADATA's logo is printed across the top, while the model name and product description is placed at the bottom left corner. The drive capacity is found at the opposite corner at the bottom. Miscellaneous information can be found on the remaining sides of the box. 
+ Before we move on, let us take a look at the specifications of the ADATA Legend 960 1TB, as obtained from the manufacturer's website: 
+ Capacity: 1TB 
+Form factor: M.2 2280 
+NAND Flash: 3D NAND 
+Controller: SMI SM2264 
+Dimensions (L x W x H): 
+- 80 x 22 x 3.13mm / 3.15 x 0.87 x 0.13inch (with heatsink) 
+- 80 x 22 x 2.15mm / 3.15 x 0.87 x 0.09inch (without heatsink) 
+Weight: 
+- 11g / 0.39oz (with heatsink) 
+- 8g / 0.28oz (without heatsink) 
+Interface: PCIe Gen4 x4 
+Sequential Read (Max): Up to 7,400MB/s (PC/Laptop), Up to 6,400MB/s (PS5) 
+Sequential Write (Max): Up to 6,000MB/s 
+4KB Random Read IOPS(Max): Up to 730K 
+4KB Random Write IOPS(Max): Up to 610K 
+Operating temperature: 0°C - 70°C 
+Storage temperature: -40°C - 85°C 
+Shock resistance: 1500G/0.5ms 
+MTBF: 2,000,000 hours 
+Terabytes Written (TBW): 780TB 
+Warranty: 5-year limited warranty 
+ 
+ Opening the box reveals the ADATA Legend 960 1TB itself and a thin aluminum heatsink placed on a clear plastic tray. This is it -- out of the box, you will get nothing more than what you need, not even a manual or any type of product literature. Not that we need them anyway, of course. 
+ Page Index 
+1. Introduction, Packaging, Specifications 
+2.  A Closer Look, Test System 
+3.  Benchmark: AIDA64 Disk Benchmark 
+4.  Benchmark: ATTO Disk Benchmark 
+5.  Benchmark: Crystal Disk Mark 8.0 
+6.  Benchmark: HD Tune Pro 5.70 
+7.  Benchmark: PassMark PerformanceTest 10 
+8.  Benchmark: PCMark 10 
+9.  Benchmark: 3DMark 
+10.  Conclusion 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ -End content  
+ - Start Right SideBar  
+ 
+ 
+ 
+ 
+ Latest News 
+ 
+ 
+ Thermaltake launched the Brand New Toughpower SFX Series 
+ 
+ 
+ Hacker steals $570 million of crypto tokens from Binance’s BNB Chain 
+ 
+ 
+ TikTok Bulks Up Video-Editing Tools, Embraces Stories With 'Photo Mode' 
+ 
+ 
+ Pixel 7, Pixel 7 Pro and Pixel Watch: Everything Google Just Announced 
+ 
+ 
+ CORSAIR Partners with Nanoleaf to Bring Smarter Home Integration to iCUE 
+ 
+ 
+ Noctua presents NA-TPG1 thermal paste guard for AMD AM5 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ -End Right SideBar  
+ 
+ End Content  
+ Start Content Bottom 
+ End Content Bottom 
+ 
+ 
+  End layout  
+  Start Middle Widget  
+ End Top Widget  
+  Bottom slideshow  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ADATA Legend 960 1TB Review   
+ 
+ 
+ 
+ 
+ ROCCAT Vulcan II Mini Review   
+ 
+ 
+ 
+ 
+ Crucial P3 Plus 1TB Review   
+ 
+ 
+ 
+ 
+ 
+ 
+ Corsair Sabre RGB Pro Wireless Review   
+ 
+ 
+ 
+ 
+ be quiet! Silent Wings 4 Review   
+ 
+ 
+ 
+ 
+ Turtle Beach React-R Controller Review   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  End Bottom slideshow  
+  Start bottom  
+ End Bottom  
+  start: Footer  
+ 
+ 
+ 
+  Start Footer First Region  
+ 
+ 
+ 
+ Connect with us 
+ YouTube  |  Facebook  |  Twitter  |  LinkedIn  |  Reddit  |  Email 
+ 
+ 
+ 
+ Know us more 
+ Behind the Scenes  |  Company Links  |  Copyright & Privacy Policy  |  Downloads  |  Review Focus  |  Slogan & Logo History 
+ 
+ 
+ 
+ 
+  End Footer First Region  
+  Start Footer Second Region  
+ 
+ 
+  End Footer Second Region  
+  Start Footer third Region  
+ 
+ 
+  End Footer Third Region  
+ 
+ 
+ 
+ End Footer  
+  Start Footer Menu  
+  End Footer Menu  
+ 
+ 
+ 
+  Copyright  
+ 
+ © Since 2005 APH Networks Inc. All trademarks mentioned are the property of their respective owners.  
+ 
+  End Copyright  
+  Credit link  
+  End Credit link  
+ 
+ 
+ 
+  Google map  
+  End Google map  
+ 
+ 
+ 
+ 

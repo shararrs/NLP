@@ -1,0 +1,54 @@
+https://www.forbes.com/sites/forbestechcouncil/2022/09/06/easing-enterprise-data-storage-pain-calls-for-customized-ssds-with-the-right-partner/Subscribe  Sign In BETA This is a BETA experience. You may opt-out by  clicking here More From Forbes Oct 7, 2022, 07:15pm EDT Dangerous Disruptions: 3 Ways Manufacturers Can Harden Their Operations Oct 7, 2022, 03:40pm EDT Why We Must Talk Openly About Mental Health At Work Oct 7, 2022, 01:15pm EDT 15 Tech Leaders Share The Next ‘Big Story’ In Software Development Oct 7, 2022, 10:15am EDT Know Your Part: Why Open Source Should Push For Software Bills Of Materials Oct 7, 2022, 10:00am EDT Why The Future Of The Metaverse May Lie In The FCC’s Hands Oct 7, 2022, 09:45am EDT Seeking A Solution For Effective Decision Making? Question Your Digital Twin Oct 7, 2022, 09:30am EDT How To Ask For Customer Feedback (And Why You Should) Oct 7, 2022, 09:15am EDT Gatekeeping Has No Place In Cybersecurity Edit Story  display BREAKING badge on the left Innovation  display other badges on the right Easing Enterprise Data Storage Pain Calls For Customized SSDs With The Right Partner Michael Wu Forbes Councils Member Forbes Technology Council COUNCIL POST Expertise from Forbes Councils members, operated under license. Opinions expressed are those of the author. | Membership (fee-based) Sep 6, 2022, 06:15am EDT | Share to Facebook Share to Twitter Share to Linkedin Michael Wu is GM and President of  Phison Technology Inc.  (USA), a leading provider of NAND controllers and NAND storage solutions. 
+ getty     From gaming manufacturers to electric car companies, nearly everyone is developing their own solid-state drive (SSD) and other NAND storage customized solutions.
+From cloud services, healthcare, automotive and manufacturing to gaming, most enterprise leaders understand the value and benefits of customized technologies specifically designed for their unique business needs.
+That’s the good news.
+The bad news is twofold.
+Developing your own SSDs creates more problems than solutions, especially as big data gets bigger.
+Enterprises that don’t develop their own SSDs only have off-the-shelf SSDs to choose from, and one size doesn't fit all.
+Enterprises not fully addressing data storage issues and challenges are feeling the pressure, but taking it in-house or going off the shelf with an SSD may not be the solution.
+Let’s examine four primary pain points for enterprises and how customized SSDs developed with the right partner make a huge difference in easing data storage pain.
+For example, if a high-performance enterprise-class SSD has the fastest speeds available today at 7,000 MB/s, but a data center-grade SSD at 5,000 MB/s fits their needs and is more affordable, then that's their best option.
+MORE FROM FORBES ADVISOR Best Travel Insurance Companies By Amy Danise Editor Best Covid-19 Travel Insurance Plans By Amy Danise Editor   Data decisions come down to money.
+Through customization, enterprises reduce expenditures while maximizing data storage use.
+A tailored SSD solution is the best path to optimization and eliminating unnecessary costs, and a great SSD manufacturing partner identifies the unique requirements of their data center customers.
+Today’s customized SSDs offer balance in terms of price and storage.
+By analyzing the applications that run in the data center and their demands on storage, the correct NAND technology can be matched for that application.
+TLC NAND is used for mainstream SSD applications today, but for many applications, the more affordable QLC NAND is a perfect choice.
+When choosing the correct NAND in the SSD to match the application requirements, there's also an option to use more or less NAND overprovisioning in the SSD.
+Overprovisioning is the practice of adding extra hidden NAND blocks to extend the SSDs' product lifetime by allowing more blocks for wear leveling.
+Combining these technology practices to customize an SSD is an investment for enterprises seeking cost-effective solutions.
+Leveraging Capacity    Data centers are fixed-size buildings with fixed-power budgets.
+Data center decision makers want more capacity and utility out of the fixed footprint while spending less to operate.
+This leads to the need for higher capacity SSDs that have the same physical size, consume less power and provide faster performance than prior generations.
+The newer generation of higher density NAND chips allows SSDs to double, achieving 8 TB and even 32 TB on larger U.2 or E3 form factors by 2023, according to my company's data.
+However, the most technologically advanced SSD manufacturers are experts at circuit board layouts, allowing them to fit the maximum number of NAND chip placements on a given board area.
+Where tiny M.2 or E1.S are often limited to 4 TB and 8 TB, respectively, today, a leadership design can boost the capacities to 8 TB for M.2 and 12 TB for E1.S.
+Balancing Performance And Power   The solution is identifying a unique SSD designed to deliver maximum performance but use less power.
+SSDs with customized capabilities in their firmware operate only at the peak performance the enterprise’s application requires.
+Performance and power are balanced through careful adjustments of clock rates and internal scheduling.
+With a properly tuned drive, the company only pays for the minimum power required to generate the performance that's needed.
+For successful enterprises, balanced storage is a business necessity.
+Without access to data at the right time, enterprises are stuck in the slow storage lane, struggling mightily to unlock information that results in better decision making, efficiencies and outcomes.
+Customized SSDs provide the keys and ignition to equip enterprise teams with lightning-fast access to new data for critical analysis and efficient workflows.
+Personalized Enterprise Features   Enterprises want customized components specially designed for their unique business needs and goals.
+Hyperscale data centers also desire more ownership over development cycles and future directions of their custom solutions.
+Enterprise IT managers need a partner to deliver SSDs with their exact requirements.
+During this search, they need to consider a vendor that makes their own controllers and firmware in their SSDs, allowing the vendor to create fully customized solutions with advanced features.
+Examples include adding rare optional commands in existing specifications, specialized security features, optimized wear leveling and differentiated backend channel clocking.
+A full-service SSD vendor goes beyond firmware changes and makes specific hardware changes to the board layout or even the controller IC.
+You’ve noticed that SSDs are now almost as fast as DRAM.
+A full-service provider enables these capabilities.
+Solving Data Storage Problems, Increasing Sales   Most enterprise business units don't care where the SSD originated.
+They want to solve their data storage problems and increase sales.
+Maybe your design team knows their solution will beat the competition, but they need the SSD to perform differently from the standard.
+If you're thinking, “It would help our solution if the SSD did this…,” then you need to go beyond the off-the-shelf or in-house route.
+Working with a trusted partner allows your business to focus on its core competencies while still getting the exact SSD you desire.
+You'll benefit from their large volume by leveraging existing proven solutions validated to OEM standards.
+In all likelihood, you'll probably pay less per SSD than if you had done the product in-house.
+Also, you’re only paying for what you need.
+The ideal storage partner provides a one-stop-shop solution and works with you to understand your storage needs while being fully transparent throughout the entire development process.
+For modern enterprises, customization clearly means less pain and plenty of gain, provided you choose a partner who is a custom fit for your enterprise.
+Forbes Technology Council  is an invitation-only community for world-class CIOs, CTOs and technology executives.
+Follow me on  LinkedIn .
+Check out  my  website .
+Michael Wu Editorial Standards Print Reprints & Permissions

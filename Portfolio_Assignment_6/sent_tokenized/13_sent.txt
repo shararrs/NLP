@@ -1,0 +1,21 @@
+https://www.tomshardware.com/news/msi-reveals-spatium-m570-pcie-gen5-ssd
+When you purchase through links on our site, we may earn an affiliate commission.
+Here’s why you can trust us .
+The Spatium M570 PCIe Gen5 M.2-2280 SSD offers the maximum performance enabled by Phison's E26 platform and will come in 1TB, 2TB, and 4TB configuration.
+MSI's Spatium M570 PCIe 5.0 NVMe M.2 HS is based on the  Phison PS5026-E26  controller paired with 3D TLC NAND memory, possibly with a 2400 MT/s interface from an undisclosed vendor.
+We would speculate that this is Micron.
+However, it does not look like Micron will mass produce such memory this fall (at least not in high volumes), so drives with ~12.4/10 GB/s sequential read/write speeds could be several months off.
+The drive demonstrated by MSI offers a sequential read speed of up to 12,351 MB/s, a sequential write speed of up to 10,119 MB/s, a 1.3 million 4K random read IOPS (Q32T16), and up to 1.16 million 4K random write IOPS (Q32T16), which is significantly higher when compared to the  best SSDs  available today.
+(Image credit: IT Home) MSI specifically notes that its upcoming ultra-high-end MEG Godlike and MEC Ace motherboards will come bundled with its M.2 Xpander-Z Gen5 Dual adapter that can house two PCIe Gen5 drives and therefore offer around 70% higher transfer speeds in RAID 0 configurations when compared to a single drive, according to a press release published by  TechPowerUp .
+MSI did not reveal when it plans to start selling its Spatium M570 SSD and this might be the most important part of the announcement.
+As we know, some of the upcoming SSDs with a PCIe 5.0 x4 interface based on Phison's PS-5026-E26 controller are constrained by the 3D NAND memory they use and  can only hit around 10 GB/s sequential read speed , which is significantly higher than ~7 GB/s offered by drives with a PCIe 4.0 x4 interface, but lower than ~12.4 GB/s demonstrated by Phison using drives powered by Micron's 232-layer memory with a 2400 MT/s interface speed.
+Since we do not know when MSI's Spatium M570 products are set to hit the market, it is probably not good business to speculate about their prices, but they will naturally carry a premium for high performance.
+Anton Shilov Freelance News Writer Anton Shilov is a Freelance News Writer at Tom’s Hardware US.
+Over the past couple of decades, he has covered everything from CPUs and GPUs to supercomputers and from modern process technologies and latest fab tools to high-tech industry trends.
+Sounds like the sidewalk residue outside of a tobacco chewing contest.
+The building just outside of every ancient Roman city where the perverts could hit each other on the rear for fun.
+You will receive a verification email shortly.
+There was a problem.
+Please refresh the page and try again.
+MOST POPULAR MOST SHARED 1 Best Tech and PC Hardware Deals for Prime Day October 2 Best B550 Motherboards 2022: AMD’s More Affordable PCIe 4.0 Option 3 Binance Loses $110 Million In Latest High-Profile Crypto Hack 4 Nvidia RTX 4080 Allegedly Overclocks to 3GHz at Default 320W TDP 5 U.S.
+Adds More Hurdles for Chinese Firms Using American Chip Tools 1 Best Tech and PC Hardware Deals for Prime Day October 2 Best B550 Motherboards 2022: AMD’s More Affordable PCIe 4.0 Option 3 Binance Loses $110 Million In Latest High-Profile Crypto Hack 4 Nvidia RTX 4080 Allegedly Overclocks to 3GHz at Default 320W TDP 5 U.S.

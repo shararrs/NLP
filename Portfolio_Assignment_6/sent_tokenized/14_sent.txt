@@ -1,0 +1,15 @@
+https://www.techpowerup.com/299318/kioxia-highlights-expanded-performance-capabilities-of-pcie-5-0-ssds-at-intel-innovation
+[endif]   [if lt IE 9]><script>window.onerror = function(){ return true; }</script><!
+The KIOXIA CM7 family is designed with PCIe 5.0 technology in Enterprise and Datacenter Standard Form Factor (EDSFF) E3.S and 2.51-inch form factors.
+These drives double performance from the prior generation and offer an expanded set of form factor options, larger capacities, and advanced features.
+Intel Innovation is a technology showcase event that spotlights the tools, training and community created to empower developers to create what's next.
+CM7 demos will be conducted in the KIOXIA kiosk located in Intel Innovation's PCIe 5.0 and CXL Ecosystems Zone on the show floor of San Jose's McEnery Convention Center.
+KIOXIA will present a video showing its PCIe 5.0 drives demonstrating high performance, low latency and high bandwidth, in a 12th Gen Intel Core processor-based workstation.
+CM7 performance of up to 14 gigabytes per second sequential read throughput, utilizing the full bandwidth of PCIe 5.0 x4 speed, will be shown.
+"Bringing the maximum benefits of new technologies to end users requires support across the entire ecosystem," said Steve Weinger, Sr. Director Marketing, Business Development and Ecosystems, KIOXIA America, Inc. "By collaborating closely with Intel for interoperability testing, including the latest PCIe 5.0 generation, we are ensuring that our drives are well-suited to work with Intel server CPUs."
+"At Intel, we have been working closely with leading storage ecosystem companies such as KIOXIA to facilitate PCIe 5.0 compatibility, quality and performance with Intel server CPUs," noted Jim Pappas, Director of Technology Initiatives, Intel Corporation.
+"We are pleased to see KIOXIA participate in our PCIe 5.0 Ecosystem Zone with their CM7 SSD, an early entry into the PCIe 5.0 space."
+Launched earlier this summer, the KIOXIA CM7 Series is designed with extensive data integrity protection, a host of security and availability features, and support for the most demanding mission-critical workloads.
+These new drives recently received a Flash Memory Summit 'Best of Show' award in the 'Most Innovative Memory Technology' category.
+All rights reserved.
+All trademarks used are properties of their respective owners.

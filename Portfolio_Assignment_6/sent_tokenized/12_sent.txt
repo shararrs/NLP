@@ -1,0 +1,14 @@
+https://www.techpowerup.com/299171/crystal-group-maximizes-physical-and-data-protections-for-military-applications-with-new-nvme-ssd
+[endif]   [if lt IE 9]><script>window.onerror = function(){ return true; }</script><!
+Using new, proprietary Crystal Group ruggedization techniques on the tamper-evident Seagate BarraCuda 515 solid state drive (SSD) extends the drive's capabilities to military platforms by meeting strict U.S. Department of Defense (DoD) cybersecurity and environmental operating requirements.
+"Marrying advanced data security features with comprehensive environmental standards streamlines two critical performance needs for tactical edge applications into one solution," said Todd Prouty, senior business development manager at Crystal Group.
+"Integrating these capabilities at both the drive level and hardware level provides maximum physical and data protections for long-life, seamless compute performance and accuracy in and across all domains."
+Primary safeguards for sensitive and classified data include: FIPS 140-2 Level 2 certified SSD Common Criteria certification with full disk encryption solution TPG Opal compliant self-encryption TAA compliant Block-level data destruction verification In addition to meeting or exceeding common MIL-STD-810 environmental test standards, such as temperature, vibration, shock and humidity, the BarraCuda 515 SSDs profile is also salt fog compliant.
+Salt fog resilience is critical for applications like U.S. Navy deployments, which are exposed to highly corrosive environments.
+"Seagate Government Solutions is dedicated to supporting our long-term partnership with Crystal Group.
+We at SGS see this conformal-coated, secure M.2 device as answering a long-standing requirement in rugged applications for the Government."
+said Mike Moritzkat, CEO and managing director of Seagate Government Solutions.
+To address the broad variety of compute needs across different tactical edge platforms and applications, this rugged, tamper-evident NVMe M.2 drive can be used on any form factor from Crystal Group's portfolio of rugged, high-performance compute solutions.
+Crystal Group is the only rugged solutions provider to offer this combination of environmental robustness and security protection at the SSD and hardware levels.
+All rights reserved.
+All trademarks used are properties of their respective owners.

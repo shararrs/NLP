@@ -1,0 +1,37 @@
+https://aphnetworks.com/reviews/crucial-p3-plus-1tb
+For starters, there is nothing that special about owning a brand-new Honda Accord or Toyota Camry, because while they are good cars, they are also easily accessible to the average person.
+On the other hand, a Lamborghini Aventador LP 780-4 Ultimae will no doubt impress people everywhere you go, but its base price of over half a million dollars is far beyond the average reach of a working individual.
+Therefore, getting something unbelievably cheap has a unique appeal to it.
+Recently, my friend tossed me the keys to his 5-speed 1998 Acura Integra that he paid $1500 for.
+Four guys, including myself, crowded into the subcompact coupe.
+We are all old enough to be out of university and working for a few years now, but I have to admit driving the semi-riced vehicle -- I am far from being the  Fast and Furious  type -- was unbelievably fun around the neighborhood.
+It was like we were teenagers again who just got our licenses sneaking out for a night drive with a bunch of friends, and there is a unique enjoyment in operating something this cheap: It does the job, you do not have to use it in a certain way, and it feels fast even though we were still way below the speed limit.
+Maybe the way it is to be enjoyed is different, but regardless of which, Crucial recently sent us their P3 Plus 1TB to try out.
+This SSD is only $95 at press time, which makes it quite a bargain, considering this is a PCIe 4.0-based NVMe SSD.
+We thoroughly tested one to find out.
+Our review unit of the Crucial P3 Plus 1TB arrived in a surprisingly large, brown corrugated cardboard box from Brownsville, Texas, USA.
+Brownsville is nowhere near any Micron offices.
+but this is where Avant Technology is located, which Micron partners with.
+If you wonder what is in the box, it is mostly packing paper with the SSD located at the bottom corner of the box, which I think mostly defeats the point of having so much packing material, haha.
+Thankfully, using the UPS Saver service, everything arrived in excellent condition to us here in Calgary, Alberta, Canada for our review today.
+Crucial's retail package designs have always been about business, and the P3 Plus is no different.
+The simple, environmentally friendly box is the same shape and size as everything we have seen before.
+It uses a relatively compact, thin square box to deliver the SSD into the hands of the consumers with miscellaneous information printed on the back.
+As you can see in our photo above, the box art evokes a strong business feel.
+A photo of the Crucial P3 NVMe SSD is shown in front of a gradient blue background.
+At the top, you will find Crucial's logo and slogan.
+Near the bottom, you will find the P3 Plus model name.
+The white strip at the bottom has the product description, PCIe 4.0 NVMe M.2 SSD, and a sticker indicating its capacity.
+There is also a multi-language quick start guide that points you to the company's website.
+This is it -- out of the box, you will get nothing more than what you need.
+Not that we need them anyway, of course.
+Page Index  1.
+Introduction, Packaging, Specifications  2.
+A Closer Look, Test System  3.
+Benchmark: AIDA64 Disk Benchmark  4.
+Benchmark: ATTO Disk Benchmark  5.
+Benchmark: Crystal Disk Mark 8.0  6.
+Benchmark: HD Tune Pro 5.70  7.
+Benchmark: PassMark PerformanceTest 10  8.
+Benchmark: PCMark 10  9.
+Benchmark: 3DMark  10.
