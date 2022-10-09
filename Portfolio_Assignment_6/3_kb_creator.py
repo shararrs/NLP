@@ -1,5 +1,6 @@
 from nltk import word_tokenize
 import pickle
+import itertools
 
 
 def tokenize_sent(sentence: str) -> list[str]:
@@ -8,10 +9,13 @@ def tokenize_sent(sentence: str) -> list[str]:
     return [word.lower() for word in word_tokenize(sentence)]
 
 
-def load_sentences(filename):
+def load_sentences(filenames):
     """Read sentences from a file"""
-    with open(filename) as file:
-        return [sent.strip() for sent in file.readlines()]
+    sentences = []
+    for filename in filenames:
+        with open(filename, 'r', encoding='utf-8') as file:
+            sentences.extend((sent.strip() for sent in file.readlines()[1:]))
+    return sentences
 
 
 def get_terms(n: int) -> list[str]:
@@ -23,11 +27,10 @@ def get_terms(n: int) -> list[str]:
     ]
 
 
-SENT_FILENAME = 'demo_sentences.txt'
-DB_FILENAME = 'demo_database.pickle'
+DB_FILENAME = 'database.pickle'
 
 if __name__ == '__main__':
-    sentences = load_sentences(filename="demo_sentences.txt")
+    sentences = load_sentences((f"sent_tokenized/{i}_sent.txt" for i in range(1, 21)))
     terms = set(get_terms(10))
 
     sent_database: dict[str, list[str]] = {term: [] for term in terms}

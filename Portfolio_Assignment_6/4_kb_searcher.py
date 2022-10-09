@@ -2,7 +2,7 @@ import pickle
 import random
 
 
-DB_FILENAME = 'demo_database.pickle'
+DB_FILENAME = 'database.pickle'
 
 
 if __name__ == '__main__':
@@ -15,8 +15,22 @@ if __name__ == '__main__':
         sent_list = database[term]
         return sent_list[random.randint(0, len(sent_list)-1)]
 
-    # demo code (REPLACE LATER):
-    # pick a term, query the db for that term, print it out
-    term = next(iter(terms))
-    sent = query_database(term)
-    print(f'{term}: {sent}')
+    # prompt user for terms
+    print("KB Searcher")
+    while True:
+        print("Terms: ")
+        for term in terms:
+            print(f"- {term}")
+        print()
+        print("Enter a term to explore, or type ! to quit")
+        term = input("Term: ").lower().strip()
+        if '!' in term:
+            break
+        if term not in terms:
+            print(f'"{term}" not recognized. Try again')
+            continue
+        fact = query_database(term)
+        print(fact)
+        print()
+
+    print("Goodbye")
