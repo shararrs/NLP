@@ -1,64 +1,58 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b1242327-b7ce-41ea-ac02-30616bec1401" name="Changes" comment="">
+    <list default="true" id="b1242327-b7ce-41ea-ac02-30616bec1401" name="Changes" comment="added the pickle db">
       <change afterPath="$PROJECT_DIR$/Portfolio_Assignment_6.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blacklist.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/database.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sent_tokenized/10_sent.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sent_tokenized/11_sent.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sent_tokenized/12_sent.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sent_tokenized/13_sent.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sent_tokenized/14_sent.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sent_tokenized/15_sent.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sent_tokenized/16_sent.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sent_tokenized/17_sent.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sent_tokenized/18_sent.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sent_tokenized/19_sent.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sent_tokenized/1_sent.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sent_tokenized/20_sent.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sent_tokenized/2_sent.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sent_tokenized/3_sent.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sent_tokenized/4_sent.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sent_tokenized/5_sent.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sent_tokenized/6_sent.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sent_tokenized/7_sent.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sent_tokenized/8_sent.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sent_tokenized/9_sent.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websites/1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websites/10.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websites/11.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websites/12.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websites/13.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websites/14.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websites/15.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websites/16.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websites/17.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websites/18.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websites/19.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websites/2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websites/20.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websites/3.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websites/4.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websites/5.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websites/6.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websites/7.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websites/8.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websites/9.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Portfolio_Assignment_6/1_web_crawler.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Portfolio_Assignment_6/2_top_term_finder.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Portfolio_Assignment_6/3_kb_creator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Portfolio_Assignment_6/4_kb_searcher.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Portfolio_Assignment_6/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Portfolio_Assignment_6/blacklist.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Portfolio_Assignment_6/database.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Portfolio_Assignment_6/sent_tokenized/10_sent.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Portfolio_Assignment_6/sent_tokenized/11_sent.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Portfolio_Assignment_6/sent_tokenized/12_sent.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Portfolio_Assignment_6/sent_tokenized/13_sent.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Portfolio_Assignment_6/sent_tokenized/14_sent.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Portfolio_Assignment_6/sent_tokenized/15_sent.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Portfolio_Assignment_6/sent_tokenized/16_sent.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Portfolio_Assignment_6/sent_tokenized/17_sent.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Portfolio_Assignment_6/sent_tokenized/18_sent.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Portfolio_Assignment_6/sent_tokenized/19_sent.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Portfolio_Assignment_6/sent_tokenized/1_sent.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Portfolio_Assignment_6/sent_tokenized/20_sent.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Portfolio_Assignment_6/sent_tokenized/2_sent.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Portfolio_Assignment_6/sent_tokenized/3_sent.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Portfolio_Assignment_6/sent_tokenized/4_sent.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Portfolio_Assignment_6/sent_tokenized/5_sent.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Portfolio_Assignment_6/sent_tokenized/6_sent.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Portfolio_Assignment_6/sent_tokenized/7_sent.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Portfolio_Assignment_6/sent_tokenized/8_sent.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Portfolio_Assignment_6/sent_tokenized/9_sent.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Portfolio_Assignment_6/websites/1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Portfolio_Assignment_6/websites/10.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Portfolio_Assignment_6/websites/11.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Portfolio_Assignment_6/websites/12.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Portfolio_Assignment_6/websites/13.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Portfolio_Assignment_6/websites/14.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Portfolio_Assignment_6/websites/15.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Portfolio_Assignment_6/websites/16.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Portfolio_Assignment_6/websites/17.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Portfolio_Assignment_6/websites/18.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Portfolio_Assignment_6/websites/19.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Portfolio_Assignment_6/websites/2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Portfolio_Assignment_6/websites/20.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Portfolio_Assignment_6/websites/3.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Portfolio_Assignment_6/websites/4.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Portfolio_Assignment_6/websites/5.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Portfolio_Assignment_6/websites/6.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Portfolio_Assignment_6/websites/7.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Portfolio_Assignment_6/websites/8.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Portfolio_Assignment_6/websites/9.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1_web_crawler.py" beforeDir="false" afterPath="$PROJECT_DIR$/1_web_crawler.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2_top_term_finder.py" beforeDir="false" afterPath="$PROJECT_DIR$/2_top_term_finder.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3_kb_creator.py" beforeDir="false" afterPath="$PROJECT_DIR$/3_kb_creator.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4_kb_searcher.py" beforeDir="false" afterPath="$PROJECT_DIR$/4_kb_searcher.py" afterDir="false" />
     </list>
-    <list id="7719c7a6-053e-48b7-b942-e432d6f1cdb8" name="Changes by cyto" comment="">
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1_web_crawler.py" beforeDir="false" afterPath="$PROJECT_DIR$/1_web_crawler.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2_top_term_finder.py" beforeDir="false" afterPath="$PROJECT_DIR$/2_top_term_finder.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3_kb_creator.py" beforeDir="false" afterPath="$PROJECT_DIR$/3_kb_creator.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4_kb_searcher.py" beforeDir="false" afterPath="$PROJECT_DIR$/4_kb_searcher.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pseudo_code.txt" beforeDir="false" />
-    </list>
+    <list id="7719c7a6-053e-48b7-b942-e432d6f1cdb8" name="Changes by cyto" comment="Changes by cyto" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -73,74 +67,6 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
-  </component>
-  <component name="LineStatusTrackerManager">
-    <file path="$PROJECT_DIR$/1_web_crawler.py">
-      <ranges>
-        <range start1="0" end1="0" start2="0" end2="3" changelist="b1242327-b7ce-41ea-ac02-30616bec1401" />
-        <range start1="6" end1="9" start2="9" end2="10" changelist="7719c7a6-053e-48b7-b942-e432d6f1cdb8" />
-        <range start1="10" end1="14" start2="11" end2="11" changelist="b1242327-b7ce-41ea-ac02-30616bec1401" />
-        <range start1="15" end1="15" start2="12" end2="16" changelist="7719c7a6-053e-48b7-b942-e432d6f1cdb8" />
-        <range start1="16" end1="29" start2="17" end2="17" changelist="7719c7a6-053e-48b7-b942-e432d6f1cdb8" />
-        <range start1="31" end1="31" start2="19" end2="20" changelist="7719c7a6-053e-48b7-b942-e432d6f1cdb8" />
-        <range start1="34" end1="34" start2="23" end2="24" changelist="7719c7a6-053e-48b7-b942-e432d6f1cdb8" />
-        <range start1="42" end1="43" start2="32" end2="36" changelist="7719c7a6-053e-48b7-b942-e432d6f1cdb8" />
-        <range start1="44" end1="45" start2="37" end2="37" changelist="7719c7a6-053e-48b7-b942-e432d6f1cdb8" />
-        <range start1="48" end1="48" start2="40" end2="41" changelist="7719c7a6-053e-48b7-b942-e432d6f1cdb8" />
-        <range start1="53" end1="54" start2="46" end2="56" changelist="7719c7a6-053e-48b7-b942-e432d6f1cdb8" />
-        <range start1="56" end1="56" start2="58" end2="61" changelist="7719c7a6-053e-48b7-b942-e432d6f1cdb8" />
-        <range start1="76" end1="77" start2="81" end2="96" changelist="7719c7a6-053e-48b7-b942-e432d6f1cdb8" />
-        <range start1="79" end1="79" start2="98" end2="99" changelist="7719c7a6-053e-48b7-b942-e432d6f1cdb8" />
-        <range start1="82" end1="84" start2="102" end2="106" changelist="7719c7a6-053e-48b7-b942-e432d6f1cdb8" />
-        <range start1="85" end1="92" start2="107" end2="115" changelist="7719c7a6-053e-48b7-b942-e432d6f1cdb8" />
-      </ranges>
-    </file>
-    <file path="$PROJECT_DIR$/4_kb_searcher.py">
-      <ranges>
-        <range start1="0" end1="0" start2="0" end2="3" changelist="b1242327-b7ce-41ea-ac02-30616bec1401" />
-        <range start1="4" end1="5" start2="7" end2="8" changelist="7719c7a6-053e-48b7-b942-e432d6f1cdb8" />
-        <range start1="17" end1="22" start2="20" end2="37" changelist="7719c7a6-053e-48b7-b942-e432d6f1cdb8" />
-        <range start1="23" end1="23" start2="38" end2="39" changelist="7719c7a6-053e-48b7-b942-e432d6f1cdb8" />
-      </ranges>
-    </file>
-    <file path="$PROJECT_DIR$/3_kb_creator.py">
-      <ranges>
-        <range start1="0" end1="0" start2="0" end2="3" changelist="b1242327-b7ce-41ea-ac02-30616bec1401" />
-        <range start1="2" end1="2" start2="5" end2="6" changelist="7719c7a6-053e-48b7-b942-e432d6f1cdb8" />
-        <range start1="10" end1="11" start2="14" end2="15" changelist="7719c7a6-053e-48b7-b942-e432d6f1cdb8" />
-        <range start1="12" end1="14" start2="16" end2="21" changelist="7719c7a6-053e-48b7-b942-e432d6f1cdb8" />
-        <range start1="25" end1="27" start2="32" end2="33" changelist="7719c7a6-053e-48b7-b942-e432d6f1cdb8" />
-        <range start1="29" end1="30" start2="35" end2="36" changelist="7719c7a6-053e-48b7-b942-e432d6f1cdb8" />
-      </ranges>
-    </file>
-    <file path="$PROJECT_DIR$/2_top_term_finder.py">
-      <ranges>
-        <range start1="0" end1="1" start2="0" end2="3" changelist="7719c7a6-053e-48b7-b942-e432d6f1cdb8" />
-        <range start1="8" end1="9" start2="10" end2="12" changelist="7719c7a6-053e-48b7-b942-e432d6f1cdb8" />
-        <range start1="10" end1="10" start2="13" end2="23" changelist="b1242327-b7ce-41ea-ac02-30616bec1401" />
-        <range start1="11" end1="11" start2="24" end2="26" changelist="7719c7a6-053e-48b7-b942-e432d6f1cdb8" />
-        <range start1="13" end1="14" start2="28" end2="28" changelist="7719c7a6-053e-48b7-b942-e432d6f1cdb8" />
-        <range start1="15" end1="16" start2="29" end2="36" changelist="7719c7a6-053e-48b7-b942-e432d6f1cdb8" />
-        <range start1="21" end1="21" start2="41" end2="43" changelist="7719c7a6-053e-48b7-b942-e432d6f1cdb8" />
-        <range start1="22" end1="23" start2="44" end2="46" changelist="b1242327-b7ce-41ea-ac02-30616bec1401" />
-        <range start1="25" end1="25" start2="48" end2="50" changelist="7719c7a6-053e-48b7-b942-e432d6f1cdb8" />
-        <range start1="31" end1="32" start2="56" end2="64" changelist="7719c7a6-053e-48b7-b942-e432d6f1cdb8" />
-        <range start1="53" end1="53" start2="85" end2="86" changelist="7719c7a6-053e-48b7-b942-e432d6f1cdb8" />
-        <range start1="57" end1="58" start2="90" end2="91" changelist="b1242327-b7ce-41ea-ac02-30616bec1401" />
-        <range start1="62" end1="62" start2="95" end2="98" changelist="7719c7a6-053e-48b7-b942-e432d6f1cdb8" />
-        <range start1="64" end1="64" start2="100" end2="102" changelist="7719c7a6-053e-48b7-b942-e432d6f1cdb8" />
-        <range start1="67" end1="68" start2="105" end2="106" changelist="b1242327-b7ce-41ea-ac02-30616bec1401" />
-        <range start1="69" end1="69" start2="107" end2="108" changelist="b1242327-b7ce-41ea-ac02-30616bec1401" />
-        <range start1="71" end1="72" start2="110" end2="111" changelist="b1242327-b7ce-41ea-ac02-30616bec1401" />
-        <range start1="73" end1="73" start2="112" end2="113" changelist="b1242327-b7ce-41ea-ac02-30616bec1401" />
-        <range start1="78" end1="78" start2="118" end2="119" changelist="7719c7a6-053e-48b7-b942-e432d6f1cdb8" />
-        <range start1="85" end1="85" start2="126" end2="128" changelist="7719c7a6-053e-48b7-b942-e432d6f1cdb8" />
-        <range start1="88" end1="88" start2="131" end2="132" changelist="7719c7a6-053e-48b7-b942-e432d6f1cdb8" />
-        <range start1="92" end1="92" start2="136" end2="137" changelist="7719c7a6-053e-48b7-b942-e432d6f1cdb8" />
-        <range start1="94" end1="95" start2="139" end2="143" changelist="b1242327-b7ce-41ea-ac02-30616bec1401" />
-        <range start1="96" end1="100" start2="144" end2="144" changelist="b1242327-b7ce-41ea-ac02-30616bec1401" />
-      </ranges>
-    </file>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -283,8 +209,8 @@
     <recent_temporary>
       <list>
         <item itemvalue="Python.4_kb_searcher" />
-        <item itemvalue="Python.2_top_term_finder" />
         <item itemvalue="Python.3_kb_creator" />
+        <item itemvalue="Python.2_top_term_finder" />
         <item itemvalue="Python.1_web_crawler (1)" />
       </list>
     </recent_temporary>
@@ -299,8 +225,37 @@
       <updated>1664658836477</updated>
       <workItem from="1664658842191" duration="7704000" />
       <workItem from="1665085139363" duration="12659000" />
-      <workItem from="1665261850894" duration="14484000" />
+      <workItem from="1665261850894" duration="15203000" />
     </task>
+    <task id="LOCAL-00001" summary="Changes by cyto">
+      <created>1665292534137</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1665292534137</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Changes by cyto">
+      <created>1665292540266</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1665292540266</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Changes by cyto">
+      <created>1665292577339</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1665292577339</updated>
+    </task>
+    <task id="LOCAL-00004" summary="added the pickle db">
+      <created>1665292738655</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1665292738655</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -317,12 +272,17 @@
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Changes by cyto" />
+    <MESSAGE value="added the pickle db" />
+    <option name="LAST_COMMIT_MESSAGE" value="added the pickle db" />
+  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Portfolio_Assignment_6$1_web_crawler.coverage" NAME="1_web_crawler Coverage Results" MODIFIED="1665271516221" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Portfolio_Assignment_6$1_web_crawler.coverage" NAME="1_web_crawler Coverage Results" MODIFIED="1665292868962" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Portfolio_Assignment6$1_web_crawler__1_.coverage" NAME="1_web_crawler (1) Coverage Results" MODIFIED="1664665755225" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Portfolio_Assignment_6$4_kb_searcher.coverage" NAME="4_kb_searcher Coverage Results" MODIFIED="1665274514400" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Portfolio_Assignment_6$2_top_term_finder.coverage" NAME="2_top_term_finder Coverage Results" MODIFIED="1665274236421" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Portfolio_Assignment_6$4_kb_searcher.coverage" NAME="4_kb_searcher Coverage Results" MODIFIED="1665293209034" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Portfolio_Assignment_6$2_top_term_finder.coverage" NAME="2_top_term_finder Coverage Results" MODIFIED="1665292936910" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Portfolio_Assignment_6$1_web_crawler__1_.coverage" NAME="1_web_crawler (1) Coverage Results" MODIFIED="1665089261076" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Portfolio_Assignment_6$3_kb_creator.coverage" NAME="3_kb_creator Coverage Results" MODIFIED="1665272729735" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Portfolio_Assignment_6$3_kb_creator.coverage" NAME="3_kb_creator Coverage Results" MODIFIED="1665292970710" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
