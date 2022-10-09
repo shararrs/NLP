@@ -11,6 +11,16 @@ import os
 stopwords = (*stopwords.words('english'), 'i', 'ext', 'v', 'moiré', 'fig', 'bg', 'bn', 'd', 'figs', 'backward', 'bottom', 'shows')
 punctuation = (',', '.', '!', '...', '"', "'")
 
+
+def space_validity(line):
+    """Given a sentence, determine whether it has correct spacing (used to filer junk)"""
+    arr = line.split(" ")
+    if arr.count('') > 5:
+        return False
+    else:
+        return True
+
+
 def file_clean(file_num):
     """Read a raw website text file and clean it. Write the clean sentences to a new file. Return the sentences"""
 
@@ -32,7 +42,8 @@ def file_clean(file_num):
 
             # tokenize sentences, filter junk
             for sent in sent_tokenize(file_text):
-                if len(word_tokenize(sent)) > 3 and not any((substr in sent for substr in ('?',))):
+                if len(word_tokenize(sent)) > 3 and not any(
+                        (substr in sent for substr in ('?', 'tab'))) and space_validity(sent):
                     sentences.append(sent)
 
         # write the url and clean sentences to a new file
@@ -77,7 +88,7 @@ def get_per_word_doc_count(documents):
     for doc in documents:
         vocab_set = list(filter_words(word_tokenize(doc)))
         for word in vocab_set:
-            doc_counter[word]+=1
+            doc_counter[word] += 1
     return doc_counter
 
 
@@ -92,12 +103,14 @@ def extract_top_terms(target_document, general_documents, n):
     idf_dict = {}
     target_vocab = set((filter_words(word_tokenize(target_document))))
     for vocab_word in target_vocab:
-        idf_dict[vocab_word] = math.log((1+len(general_documents))/(1+per_word_doc_count[vocab_word]))
+        idf_dict[vocab_word] = math.log((1 + len(general_documents)) / (1 + per_word_doc_count[vocab_word]))
 
+    # compute tf idf
     tf_idf = {}
     for term in tf_dict.keys():
-        tf_idf[term] = tf_dict[term]*idf_dict[term]
+        tf_idf[term] = tf_dict[term] * idf_dict[term]
 
+    # sort the words and get the top n
     top_n_words = sorted(list(tf_idf.items()), key=lambda x: x[1], reverse=True)[:n]
     return top_n_words
 
@@ -124,9 +137,8 @@ if __name__ == '__main__':
     # get top terms
     target_string = ' '.join(all_sentences)
     general_documents = get_general_documents()
-    top_terms = extract_top_terms(target_string, general_documents, 15)
+    top_terms = extract_top_terms(target_string, general_documents, 25)
+
+    # print the results
+    print(len(top_terms))
     print(top_terms)
-
-
-
-

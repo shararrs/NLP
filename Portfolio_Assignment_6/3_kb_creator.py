@@ -1,3 +1,6 @@
+#  Blake Oberlander	bho180000
+#  Sharar Siddiqui	srs200003
+
 from nltk import word_tokenize
 import pickle
 import itertools

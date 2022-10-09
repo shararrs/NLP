@@ -1,3 +1,6 @@
+#  Blake Oberlander	bho180000
+#  Sharar Siddiqui	srs200003
+
 from bs4 import BeautifulSoup
 import requests
 import re
@@ -6,10 +9,6 @@ import os
 
 REDDIT_DOMAIN = "https://teddit.net"
 REDDIT_URL = "https://teddit.net/r/Newmaxx/"
-# REDDIT_URL = "https://news.ycombinator.com/"
-# REDDIT_URL = "https://www.teddit.net/r/finance/"
-
-
 
 # Blacklist URLs that do not link to good websites
 BLACKLIST = ('',)

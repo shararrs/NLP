@@ -1,3 +1,6 @@
+#  Blake Oberlander	bho180000
+#  Sharar Siddiqui	srs200003
+
 import pickle
 import random
 
