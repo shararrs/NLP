@@ -3,60 +3,17 @@
   <component name="ChangeListManager">
     <list default="true" id="b1242327-b7ce-41ea-ac02-30616bec1401" name="Changes" comment="added the pickle db">
       <change afterPath="$PROJECT_DIR$/Portfolio_Assignment_6.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Portfolio_Assignment_6/1_web_crawler.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Portfolio_Assignment_6/2_top_term_finder.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Portfolio_Assignment_6/3_kb_creator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Portfolio_Assignment_6/4_kb_searcher.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Portfolio_Assignment_6/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Portfolio_Assignment_6/blacklist.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Portfolio_Assignment_6/database.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Portfolio_Assignment_6/sent_tokenized/10_sent.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Portfolio_Assignment_6/sent_tokenized/11_sent.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Portfolio_Assignment_6/sent_tokenized/12_sent.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Portfolio_Assignment_6/sent_tokenized/13_sent.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Portfolio_Assignment_6/sent_tokenized/14_sent.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Portfolio_Assignment_6/sent_tokenized/15_sent.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Portfolio_Assignment_6/sent_tokenized/16_sent.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Portfolio_Assignment_6/sent_tokenized/17_sent.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Portfolio_Assignment_6/sent_tokenized/18_sent.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Portfolio_Assignment_6/sent_tokenized/19_sent.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Portfolio_Assignment_6/sent_tokenized/1_sent.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Portfolio_Assignment_6/sent_tokenized/20_sent.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Portfolio_Assignment_6/sent_tokenized/2_sent.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Portfolio_Assignment_6/sent_tokenized/3_sent.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Portfolio_Assignment_6/sent_tokenized/4_sent.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Portfolio_Assignment_6/sent_tokenized/5_sent.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Portfolio_Assignment_6/sent_tokenized/6_sent.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Portfolio_Assignment_6/sent_tokenized/7_sent.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Portfolio_Assignment_6/sent_tokenized/8_sent.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Portfolio_Assignment_6/sent_tokenized/9_sent.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Portfolio_Assignment_6/websites/1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Portfolio_Assignment_6/websites/10.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Portfolio_Assignment_6/websites/11.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Portfolio_Assignment_6/websites/12.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Portfolio_Assignment_6/websites/13.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Portfolio_Assignment_6/websites/14.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Portfolio_Assignment_6/websites/15.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Portfolio_Assignment_6/websites/16.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Portfolio_Assignment_6/websites/17.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Portfolio_Assignment_6/websites/18.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Portfolio_Assignment_6/websites/19.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Portfolio_Assignment_6/websites/2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Portfolio_Assignment_6/websites/20.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Portfolio_Assignment_6/websites/3.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Portfolio_Assignment_6/websites/4.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Portfolio_Assignment_6/websites/5.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Portfolio_Assignment_6/websites/6.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Portfolio_Assignment_6/websites/7.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Portfolio_Assignment_6/websites/8.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Portfolio_Assignment_6/websites/9.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <list id="7719c7a6-053e-48b7-b942-e432d6f1cdb8" name="Changes by cyto" comment="Changes by cyto" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" show_ignored="true">
+    <option name="groupingKeys">
+      <option value="directory" />
+    </option>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -225,7 +182,7 @@
       <updated>1664658836477</updated>
       <workItem from="1664658842191" duration="7704000" />
       <workItem from="1665085139363" duration="12659000" />
-      <workItem from="1665261850894" duration="15203000" />
+      <workItem from="1665261850894" duration="15511000" />
     </task>
     <task id="LOCAL-00001" summary="Changes by cyto">
       <created>1665292534137</created>
@@ -255,7 +212,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665292738655</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="added the pickle db">
+      <created>1665293318273</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1665293318273</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
