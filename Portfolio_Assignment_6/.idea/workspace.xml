@@ -1,20 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b1242327-b7ce-41ea-ac02-30616bec1401" name="Changes" comment="added the pickle db">
-      <change afterPath="$PROJECT_DIR$/Portfolio_Assignment_6.zip" afterDir="false" />
-    </list>
-    <list id="7719c7a6-053e-48b7-b942-e432d6f1cdb8" name="Changes by cyto" comment="Changes by cyto" />
+    <list default="true" id="b1242327-b7ce-41ea-ac02-30616bec1401" name="Changes" comment="added to update" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ChangesViewManager" show_ignored="true">
-    <option name="groupingKeys">
-      <option value="directory" />
-    </option>
-  </component>
+  <component name="ChangesViewManager" show_ignored="true" />
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -39,6 +32,7 @@
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "Project.color": "421e0a",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "TODO_SCOPE": "All Places",
     "WebServerToolWindowFactoryState": "false",
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "last_opened_file_path": "C:/Users/shara/OneDrive/2022 Fall/CS-4395.001(Human Language Tech)/Code/NLP/Portfolio_Assignment_6",
@@ -182,7 +176,7 @@
       <updated>1664658836477</updated>
       <workItem from="1664658842191" duration="7704000" />
       <workItem from="1665085139363" duration="12659000" />
-      <workItem from="1665261850894" duration="15511000" />
+      <workItem from="1665261850894" duration="16040000" />
     </task>
     <task id="LOCAL-00001" summary="Changes by cyto">
       <created>1665292534137</created>
@@ -219,7 +213,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665293318273</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="added to update">
+      <created>1665293772951</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1665293772951</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -239,7 +240,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Changes by cyto" />
     <MESSAGE value="added the pickle db" />
-    <option name="LAST_COMMIT_MESSAGE" value="added the pickle db" />
+    <MESSAGE value="added to update" />
+    <option name="LAST_COMMIT_MESSAGE" value="added to update" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Portfolio_Assignment_6$1_web_crawler.coverage" NAME="1_web_crawler Coverage Results" MODIFIED="1665292868962" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
