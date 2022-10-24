@@ -1,0 +1,50 @@
+C : Hello my name is chatbot! I can help you find the best flash memory for your laptop.
+C: What's your name? # use this for the user model
+U : My name is XYZ # extract XYZ and use that as the name
+C : Would you like to find a ssd for your device or know more about SSDs?
+
+# Option 1 - user asks to know more about ssd
+# use curated list
+U: Tell me about <x>
+C: Here's what I found online: <x>
+   Would you like to know about anything else?
+
+
+
+# Option 2 - user asks to find a new ssd
+U : I want to find a new SSD for my laptop
+C : I can help with that. What is your laptops brand and model?
+U : My Laptop is MSI Bravo 15 B5E
+C : # search the local DB for the laptop info if not available then make a Google search with "{Brand} {Model} storage specs "crucial"" example "MSI Bravo 15 B5E storage specs "crucial""
+C : What's your budget?
+U : $90
+C : How much capacity would you like?
+U : At least 250 GB // Any amount // idk
+C : Are there any particular specification requirements you want (DRAM / NAND / RW Speeds / Brand / Dual core)?
+U : Yes, I would like a Samsung SSD
+C: Here's a list of SSDs I recommend:
+
+Connections
+nvme,pcie,m.2 we use the pcie in the interface column
+otherwise use sata
+
+
+Logic:
+1. Say Hello Message
+2. Ask user for name
+3. Parse for name
+4. See if user model exists. If so, load the model
+5. Prompt user for command
+6. Determine which type of command the user gave (find more about SSDs or buy one)
+
+7a. Buy SSD
+- Ask what laptop the user has
+- If the user has previously asked for the laptop and a suggested SSD was given, remind the user.
+- Google the laptop. Try to find the correct interface / connection. Or use the Crucial website. If nothing is found, warn the user.
+- Ask for the budget.
+- Maintain a model about what kind of specs the user is looking for ( table content: laptop brand, model, budget, capacity, recommended ssd)
+- Ask user to give more details
+- Find matches and display
+- Allow user to find new SSD for new laptop
+
+7b. Similar to last assignment
