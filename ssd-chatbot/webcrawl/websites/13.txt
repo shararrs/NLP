@@ -1,0 +1,495 @@
+https://www.tomshardware.com/news/msi-reveals-spatium-m570-pcie-gen5-ssd
+ 
+ 
+ 
+ [IE]><script>window.isIE = true</script><![endif] 
+ 
+ Skip to main content 
+  contentType : // 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ Tom's Hardware   
+ 
+ 
+ 
+ 
+ Search 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ RSS 
+ 
+ 
+ 
+ 
+    (opens in new tab) 
+ 
+    (opens in new tab) 
+ 
+    (opens in new tab) 
+ 
+    (opens in new tab) 
+ 
+    (opens in new tab) 
+ 
+ UK US Australia Canada 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Reviews 
+ 
+ 
+ 
+ 
+ Best Picks 
+ 
+ 
+ 
+ 
+ Raspberry Pi 
+ 
+ 
+ 
+ 
+ CPUs 
+ 
+ 
+ 
+ 
+ GPUs 
+ 
+ 
+ 
+ 
+ Coupons 
+ 
+ 
+ 
+More
+ 
+ 
+ 
+ Laptops 
+ 
+ 
+ SSDs 
+ 
+ 
+ Motherboards 
+ 
+ 
+ Cooling 
+ 
+ 
+ Desktops 
+ 
+ 
+ PC Builds 
+ 
+ 
+ Monitors 
+ 
+ 
+ RAM 
+ 
+ 
+ PC Cases 
+ 
+ 
+ Keyboards 
+ 
+ 
+ Headsets 
+ 
+ 
+ Mice 
+ 
+ 
+ Power Supplies 
+ 
+ 
+ 3D Printers 
+ 
+ 
+ VR Headsets 
+ 
+ 
+ About Tom's Hardware 
+ 
+ 
+ 
+ 
+ 
+ 
+ Forums  (opens in new tab) 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ Trending Nvidia RTX 4090 Unboxing Intel 13th-Gen Raptor Lake AMD Ryzen 7000 Intel Arc A770 
+ 
+ Tom's Hardware is supported by its audience. When you purchase through links on our site, we may earn an affiliate commission.  Here’s why you can trust us . 
+ 
+ 
+ 
+ 
+ 
+ Home 
+ News 
+ 
+ 
+ MSI Reveals Spatium M570 PCIe 5.0 x4 SSD: Up to 12.3 GB/s 
+ 
+ 
+  By  Anton Shilov      published  22 September 2022 
+ 
+ MSI unveils PCIe Gen5 x4 drive for new-generation AMD and Intel platforms. 
+ 
+ 
+ 
+ 
+    (opens in new tab) 
+ 
+ 
+ 
+    (opens in new tab) 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+  (opens in new tab) 
+ 
+ 
+ 
+    (opens in new tab) 
+ 
+ 
+ 
+    (opens in new tab) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Comments (3) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (Image credit: IT Home) 
+ 
+ 
+ 
+ 
+ MSI on Thursday  announced  its latest solid-state drive, this time with a PCIe 5.0 x4 interface designed for AMD's upcoming Ryzen 7000 and Intel's 12th and 13th Generation Core platforms. The Spatium M570 PCIe Gen5 M.2-2280 SSD offers the maximum performance enabled by Phison's E26 platform and will come in 1TB, 2TB, and 4TB configuration.  MSI's Spatium M570 PCIe 5.0 NVMe M.2 HS is based on the  Phison PS5026-E26  controller paired with 3D TLC NAND memory, possibly with a 2400 MT/s interface from an undisclosed vendor. We would speculate that this is Micron. However, it does not look like Micron will mass produce such memory this fall (at least not in high volumes), so drives with ~12.4/10 GB/s sequential read/write speeds could be several months off. The drive demonstrated by MSI offers a sequential read speed of up to 12,351 MB/s, a sequential write speed of up to 10,119 MB/s, a 1.3 million 4K random read IOPS (Q32T16), and up to 1.16 million 4K random write IOPS (Q32T16), which is significantly higher when compared to the  best SSDs  available today. (Image credit: IT Home) MSI specifically notes that its upcoming ultra-high-end MEG Godlike and MEC Ace motherboards will come bundled with its M.2 Xpander-Z Gen5 Dual adapter that can house two PCIe Gen5 drives and therefore offer around 70% higher transfer speeds in RAID 0 configurations when compared to a single drive, according to a press release published by  TechPowerUp .  MSI did not reveal when it plans to start selling its Spatium M570 SSD and this might be the most important part of the announcement. As we know, some of the upcoming SSDs with a PCIe 5.0 x4 interface based on Phison's PS-5026-E26 controller are constrained by the 3D NAND memory they use and  can only hit around 10 GB/s sequential read speed , which is significantly higher than ~7 GB/s offered by drives with a PCIe 4.0 x4 interface, but lower than ~12.4 GB/s demonstrated by Phison using drives powered by Micron's 232-layer memory with a 2400 MT/s interface speed.  Since we do not know when MSI's Spatium M570 products are set to hit the market, it is probably not good business to speculate about their prices, but they will naturally carry a premium for high performance. 
+ 
+ Anton Shilov Freelance News Writer Anton Shilov is a Freelance News Writer at Tom’s Hardware US. Over the past couple of decades, he has covered everything from CPUs and GPUs to supercomputers and from modern process technologies and latest fab tools to high-tech industry trends. 
+ 
+  stuffs  
+ 
+ 
+ 
+  stuffs  
+ 
+ 
+ 
+  stuffs  
+ 
+ 
+  Drop in a standard article here maybe?  
+ 
+ 
+ 
+ 
+ 
+ Topics 
+ 
+ SSD 
+ 
+ 
+ Components 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ See all comments (3) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 3 Comments 
+ 
+ Comment from the forums 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Co BIY 
+ 
+ 
+Spatium is a terrible name. 
+ 
+Sounds like the sidewalk residue outside of a tobacco chewing contest. 
+ 
+Or ...  
+ 
+The building just outside of every ancient Roman city where the perverts could hit each other on the rear for fun.
+ 
+ 
+ 
+ Reply 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Mpablo87 
+ 
+ 
+Spatium is Good name ! ! !
+ 
+ 
+ 
+ Reply 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ bit_user 
+ 
+ 
+I'd trade all of that linear performance for the low-latency and massive QD=1 IOPS of Gen 2 Optane (R.I.P.). 
+ : ( 
+ 
+ 
+ 
+ Reply 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ View All 3 Comments 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Be In the Know 
+ 
+ 
+ 
+ Get instant access to breaking news, in-depth reviews and helpful tips. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Contact me with news and offers from other Future brands
+ 
+ 
+ 
+ 
+ 
+Receive email from us on behalf of our trusted partners or sponsors
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Thank you for signing up to Tom's Hardware. You will receive a verification email shortly. 
+ 
+ 
+ There was a problem. Please refresh the page and try again. 
+ 
+ 
+ By submitting your information you agree to the  Terms & Conditions  (opens in new tab)  and  Privacy Policy  (opens in new tab)  and are aged 16 or over. 
+ 
+ 
+ 
+ 
+ 
+ MOST POPULAR MOST SHARED 1 Best Tech and PC Hardware Deals for Prime Day October 2 Best B550 Motherboards 2022: AMD’s More Affordable PCIe 4.0 Option 3 Binance Loses $110 Million In Latest High-Profile Crypto Hack 4 Nvidia RTX 4080 Allegedly Overclocks to 3GHz at Default 320W TDP 5 U.S. Adds More Hurdles for Chinese Firms Using American Chip Tools 1 Best Tech and PC Hardware Deals for Prime Day October 2 Best B550 Motherboards 2022: AMD’s More Affordable PCIe 4.0 Option 3 Binance Loses $110 Million In Latest High-Profile Crypto Hack 4 Nvidia RTX 4080 Allegedly Overclocks to 3GHz at Default 320W TDP 5 U.S. Adds More Hurdles for Chinese Firms Using American Chip Tools 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Tom's Hardware is part of Future US Inc, an international media group and leading digital publisher.  Visit our corporate site  (opens in new tab) . 
+ 
+ 
+ Terms and conditions  (opens in new tab) 
+ Privacy policy  (opens in new tab) 
+ Cookies policy  (opens in new tab) 
+ Accessibility Statement  (opens in new tab) 
+ Advertise  (opens in new tab) 
+ About us  (opens in new tab) 
+ Coupons  (opens in new tab) 
+ Careers  (opens in new tab) 
+ 
+ 
+ ©
+Future US, Inc. Full 7th Floor, 130 West 42nd Street,
+New York,
+NY 10036.  
+ 
+ 
+    Begin comScore Tag  
+ 
+  End comScore Tag  
+ 
+ 
+ 
+ 
+  Google Tag Manager  
+ 
+  End Google Tag Manager  
+ 
+  document assets - added by the article itself  
+   
+ 
+ 
+ 
+ 
+  

@@ -1,0 +1,671 @@
+https://www.techpowerup.com/299555/micron-and-kioxia-are-cutting-back-on-dram-and-nand-manufacturing-volumes
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ [if lt IE 9]><script src="https://tpucdn.com/js/html5shiv.min-v1664446299286.js"></script><![endif] 
+ [if lt IE 9]><script>window.onerror = function(){ return true; }</script><![endif] 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Home 
+ Reviews 
+ Forums 
+ Downloads 
+ Case Mod Gallery 
+ 
+ Databases 
+ 
+ 
+ Databases…
+								 Back 
+ 
+ VGA Bios Collection 
+ GPU Database 
+ CPU Database 
+ Review Database 
+ 
+ 
+ 
+ Our Software 
+ 
+ 
+ Our Software…
+								 Back 
+ 
+ GPU-Z 
+ RealTemp 
+ NVCleanstall 
+ TPUCapture 
+ MemTest64 
+ 
+ 
+ 
+ More 
+ 
+ 
+ More…
+								 Back 
+ 
+ Articles 
+ Old Stuff 
+ Computer Trivia 
+ TPU Live 
+ 
+ 
+ Contact Us 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Tuesday, October 4th 2022 
+ Micron and Kioxia are Cutting Back on DRAM and NAND Manufacturing Volumes 
+ 
+ 
+ 
+ Press Release 
+ 
+ 
+ 
+			by  TheLostSwede 
+ 
+ 
+ 
+								Tuesday, 12:32
+							 
+ 
+ 
+ Discuss (16 Comments) 
+ 
+ 
+ According to a TrendForce investigations, memory pricing began to decline from 4Q21 due to weakening demand for certain consumer electronics. Coupled with the impact of rising inflation, the Russian-Ukrainian war, and pandemic policies, demand in peak season was weak, resulting in inventory pressure that has extended from the buyer side to manufacturers. In response to the aforementioned situation, Micron announced last week that it would cut production of DRAM and NAND Flash, becoming the first major memory manufacturer to officially reduce its capacity utilization plan. In terms of NAND Flash, the market situation is more severe than that of DRAM. As the average contract price of mainstream capacity wafers has fallen to their cash cost and is approaching the periphery of selling at a loss for various manufacturers, Kioxia also announced that it will reduce NAND Flash capacity utilization by 30% from October on the heels of Micron's announcement. 
+ 
+In terms of DRAM, current contract pricing remains higher than the total production cost of various mainstream suppliers. Therefore, compared with NAND Flash, it remains to be seen whether there will be a significant reduction in production. In addition to mentioning the slight reduction in capacity utilization in this sector currently, Micron mainly emphasized its sharp downward revision of capital expenditures in 2023 and that the annual growth of DRAM production bits next year will only be around 5%. TrendForce believes, according to Micron, to actualize such conservative bit growth means that there is still room for a significant downward revision in capacity utilization and the extent to which Micron's subsequent production reductions are implemented remains to be seen.   In terms of NAND Flash, Micron originally planned to gradually increase its proportion of 232-layer products from 4Q22. However, with the implementation of the company's decision to reduce production, Micron's mainstream processes are estimated to remain dominated by 176-layer products in 2023, while wafer starts in legacy processes will also fall. Kioxia and WDC originally planned to migrate to 162-layer products starting in 4Q22 but WDC slowed CapEx in 2023. When funding is hard to come by and demand visibility poor, the proportion of 162-layer products will fall greatly and the company's original plan to replace mainstream 112-layer products in 2023 will not be achieved. 
+ 
+ More manufactures limiting bit output cannot be ruled out as only large-scale production reduction can reverse supply/demand imbalance in 2023 
+After analyzing 2023 supply and demand in the memory market, due to a conservative demand outlook, DRAM and NAND Flash look to be greatly oversupplied in each quarter and inventory pressure will continue to accelerate in 1H23. In the DRAM sector, after Micron led the way to announce a DRAM production reduction plan that will fall far below historical levels of supply-side bit growth, the 2023 DRAM Sufficiency Ratio will contract from the 11.6% previously forecast by TrendForce to less than 10%, helping to alleviate rapidly deteriorating inventory pressure. However, more suppliers must be relied on to join in the actual reduction of DRAM production in the future in order to reverse the supply and demand imbalance next year. 
+ 
+It is imperative to reduce bit supply in the NAND Flash field due to the large number of competitors and the fact that manufacturers have yet to encroach on the physical limits of manufacturing. Considering that supply-side bit growth from Micron and Kioxia has been downgraded, the 2023 NAND Flash Sufficiency Ratio will drop significantly from the original estimate of 10.1% to 5.6%. Under the expectation that more NAND Flash suppliers will join the ranks reducing production due to loss considerations, inventory pressure is expected to ease in the 2Q23, while price declines are expected to diminish in 2H23. 
+ 
+		Source:
+				 TrendForce   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Related News 
+ 
+ Tags: 
+ 112-layer 
+ 162-layer 
+ 176-layer 
+ 232-layer 
+ DRAM 
+ Flash 
+ Kioxia 
+ Micron 
+ NAND 
+ WD 
+ 
+ 
+ 
+ Sep 9th 2022   Not All First Generation PCIe 5.0 SSDs Will Offer the Same Performance  (55) 
+ Aug 25th 2022   Server Shipment Growth and Spiking Pricing Push Total 2Q22 Enterprise SSD Revenue Growth to 31% QoQ, Says TrendForce  (0) 
+ Sep 30th 2022   South Korea's IC Production Slides for the First Time in Years  (14) 
+ Sep 2nd 2022   NAND Market Oversupply: SSD Prices could drop by 30-35%, another 20% in Q4  (22) 
+ Oct 5th 2022   Micron Announces Historic Investment of up to $100 Billion to Build Megafab in Central New York  (19) 
+ Aug 3rd 2022   AMD Ryzen 7000 Series Processor Runs Phison PCIe 5.0 SSD with Micron 232-Layer NAND Flash  (21) 
+ Sep 7th 2022   Apple to Source 3D NAND Memory from Chinese YMTC  (36) 
+ Jul 26th 2022   Micron Ships World's First 232-Layer NAND, Extends Technology Leadership  (28) 
+ Jul 29th 2022   Micron Announces Intent to Bring Leading-Edge Memory Manufacturing to the U.S.  (6) 
+ Sep 7th 2022   GoodRAM IRDM Ultimate M.2 PCIe Gen 5 SSD Pictured  (16) 
+ 
+ 
+ 
+ Add your own comment 
+ 16 Comments   on  Micron and Kioxia are Cutting Back on DRAM and NAND Manufacturing Volumes 
+ 
+ #1 
+ 
+ bobsled 
+ 
+ 
+ 
+ Prices going down for DDR5 and SSDs? Quick! Keep it artificially high! 
+ 
+				Posted on  Oct 4th 2022, 13:33 
+ 
+ Reply 
+ 
+ 
+ 
+ 
+ #2 
+ 
+ Legacy-ZA 
+ 
+ 
+ 
+ bobsled Prices going down for DDR5 and SSDs? Quick! Keep it artificially high! Beat me to it. The only advice I can give, vote with your wallet and boycott companies that do this. 
+ 
+				Posted on  Oct 4th 2022, 13:57 
+ 
+ Reply 
+ 
+ 
+ 
+ 
+ #3 
+ 
+ SOAREVERSOR 
+ 
+ 
+ 
+ Legacy-ZA Beat me to it. The only advice I can give, vote with your wallet and boycott companies that do this. You can't really.   The critical components companies that make the stuff that would go into all the end products we buy will see their profits contract and then all cut back to keep those profits. 
+ 
+				Posted on  Oct 4th 2022, 16:37 
+ 
+ Reply 
+ 
+ 
+ 
+ 
+ #4 
+ 
+ Readlight 
+ 
+ 
+ 
+ 4TB? 
+ 
+				Posted on  Oct 5th 2022, 0:28 
+ 
+ Reply 
+ 
+ 
+ 
+ 
+ #5 
+ 
+ user556 
+ 
+ 
+ 
+ Where I live, DRAM stocks have been sparse for the last year.  The selection is shit and prices high.  I've been waiting for stocks to return and prices to go back down again. 
+ 
+Supply chains have a case of long-Covid me thinks. 
+ 
+				Posted on  Oct 5th 2022, 0:42 
+ 
+ Reply 
+ 
+ 
+ 
+ 
+ #6 
+ 
+ Athlonite 
+ 
+ 
+ 
+ Well that didn't take long for these companies to adjust to maintain profits.  
+Atleast it wasn't some BS earthquake or fire or flood or power outage malarky now they just don't give a shit and have told the truth about rising prices 
+ 
+				Posted on  Oct 5th 2022, 2:45 
+ 
+ Reply 
+ 
+ 
+ 
+ 
+ #7 
+ 
+ R0H1T 
+ 
+ 
+ 
+ user556 Where I live, DRAM stocks have been sparse for the last year.  The selection is shit and prices high.  I've been waiting for stocks to return and prices to go back down again. 
+ 
+Supply chains have a case of long-Covid me thinks. If you're talking about DDR4 that's unlikely to happen, the volumes will continue to go down as industries switch over to DDR5 & then the major DRAM makers will reduce inventory & shift their fabs to making mostly DDR5 over the next few years. If you were talking about DDR5 then of course prices will go only one way ~ down, in the medium to long term. 
+ 
+				Posted on  Oct 5th 2022, 3:10 
+ 
+ Reply 
+ 
+ 
+ 
+ 
+ #8 
+ 
+ user556 
+ 
+ 
+ 
+ In the meantime, low availability continues to persist.  Which, in turn, dampens the demand. 
+ 
+				Posted on  Oct 5th 2022, 3:35 
+ 
+ Reply 
+ 
+ 
+ 
+ 
+ #9 
+ 
+ awesomesauce 
+ 
+ 
+ 
+ bobsled Prices going down for DDR5 and SSDs? Quick! Keep it artificially high! Bro they need money to build those big farm in US and EU . 
+ 
+all i see in news is micro are about to build farm here and here and here.. 
+ 
+CHIP act! 
+ 
+				Posted on  Oct 5th 2022, 5:23 
+ 
+ Reply 
+ 
+ 
+ 
+ 
+ #10 
+ 
+ chrcoluk 
+ 
+ 
+ 
+ During the price basement I was tempted to push my proxmox/nas machine to 64 gigs over its current 32, I ended up not doing it and the ship has sailed now, DDR4 will probably never go as cheap again. 
+ 
+For gaming PCs VRAM is starting to become more important than DRAM due to developers moving things over to use VRAM in their games. 
+ 
+				Posted on  Oct 5th 2022, 5:27 
+ 
+ Reply 
+ 
+ 
+ 
+ 
+ #11 
+ 
+ lexluthermiester 
+ 
+ 
+ 
+ Legacy-ZA Beat me to it. The only advice I can give, vote with your wallet and boycott companies that do this. What you fail to understand is that if companies don't scale back production they could cause devaluation to their own product and cause a situation were it costs more to make those products than they can sell those products for. It is not only good for business short term, but a way to protect their long term interests. As detailed below; TheLostSwede It is imperative to reduce bit supply in the NAND Flash field due to the large number of competitors and the fact that manufacturers have yet to encroach on the physical limits of manufacturing. Considering that supply-side bit growth from Micron and Kioxia has been downgraded, the 2023 NAND Flash Sufficiency Ratio will drop significantly from the original estimate of 10.1% to 5.6%. Under the expectation that more NAND Flash suppliers will join the ranks reducing production due to loss considerations, inventory pressure is expected to ease in the 2Q23, while price declines are expected to diminish in 2H23. Manufacturing Economics 101. 
+ 
+				Posted on  Oct 5th 2022, 5:58 
+ 
+ Reply 
+ 
+ 
+ 
+ 
+ #12 
+ 
+ Legacy-ZA 
+ 
+ 
+ 
+ lexluthermiester What you fail to understand is that if companies don't scale back production they could cause devaluation to their own product and cause a situation were it costs more to make those products than they can sell those products for. It is not only good for business short term, but a way to protect their long term interests. As detailed below; 
+ 
+ 
+Manufacturing Economics 101. Ahem, no, how to "F" the end user 101. 
+ 
+I only see record profits being made each time, wonder why... 
+ 
+				Posted on  Oct 5th 2022, 8:00 
+ 
+ Reply 
+ 
+ 
+ 
+ 
+ #13 
+ 
+ lexluthermiester 
+ 
+ 
+ 
+ Legacy-ZA Ahem, no, how to "F" the end user 101. 
+ 
+I only see record profits being made each time, wonder why... There is certainly an "F" involved in that comment, but it has nothing to do with the end user. 
+ 
+				Posted on  Oct 5th 2022, 10:49 
+ 
+ Reply 
+ 
+ 
+ 
+ 
+ #14 
+ 
+ Count von Schwalbe 
+ 
+ 
+ 
+ I read another piece expecting NAND and DRAM pricing to fall over 30%. If that is true, those companies will be losing money on each and every piece they sell. Unless you want a bunch of them to go out of business, it is foolish to fault them for reducing production of, essentially, debt. 
+ 
+				Posted on  Oct 5th 2022, 21:12 
+ 
+ Reply 
+ 
+ 
+ 
+ 
+ #15 
+ 
+ Tomorrow 
+ 
+ 
+ 
+ Let the price fixing commence once again. 
+ 
+				Posted on  Oct 6th 2022, 0:08 
+ 
+ Reply 
+ 
+ 
+ 
+ 
+ #16 
+ 
+ user556 
+ 
+ 
+ 
+ I just wish they'd get something decent on the shelves that we can buy.  Only parts available is the dross. 
+ 
+				Posted on  Oct 6th 2022, 9:04 
+ 
+ Reply 
+ 
+ 
+ 
+ Add your own comment 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Oct 8th, 2022 18:25 CDT 
+ change timezone 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Sign in  /  Register 
+ 
+ 
+ 
+ Latest GPU Drivers 
+ 
+ 
+ NVIDIA GeForce 517.48 WHQL  
+ AMD Radeon 22.10.1 Beta  
+ 
+			Intel
+			 IGP 101.3430  
+			/
+			 Arc 101.3430  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ New Forum Posts 
+ 
+ 
+ 
+ 18:21 
+				by
+				 Shrek 
+ 
+ Windows 11 General Discussion  ( 3422 )
+		 
+ 
+ 
+ 18:17 
+				by
+				 ssateneth 
+ 
+ Resizable Bar not working.  ( 28 )
+		 
+ 
+ 
+ 17:58 
+				by
+				 Nike_486DX 
+ 
+ I need help  ( 1 )
+		 
+ 
+ 
+ 17:57 
+				by
+				 dgianstefani 
+ 
+ New build pc freezes when starting up a game  ( 2 )
+		 
+ 
+ 
+ 17:38 
+				by
+				 kiddagoat 
+ 
+ Custom Loop Maintenance  ( 4 )
+		 
+ 
+ 
+ 17:34 
+				by
+				 tabascosauz 
+ 
+ What's your latest tech purchase?  ( 13452 )
+		 
+ 
+ 
+ 17:31 
+				by
+				 Shrek 
+ 
+ What are your opinions on PSUs with zero-rpm fan features?  ( 120 )
+		 
+ 
+ 
+ 17:30 
+				by
+				 Count von Schwalbe 
+ 
+ I'm building a $2430 computer, I can't decide.  ( 21 )
+		 
+ 
+ 
+ 17:29 
+				by
+				 leglessman 
+ 
+ z97 OC  ( 15 )
+		 
+ 
+ 
+ 17:28 
+				by
+				 pablosilva2022 
+ 
+ Colorful iGame RTX 3060 Ti Ultra W OC  ( 0 )
+		 
+ 
+ 
+ 
+ 
+ 
+ 
+ Popular Reviews 
+ 
+ 
+ Sep 26th, 2022 
+ AMD Ryzen 9 7950X Review - Impressive 16-core Powerhouse 
+ 
+ 
+ Oct 5th, 2022 
+ Intel Arc A770 Review - Finally a Third Competitor 
+ 
+ 
+ Oct 5th, 2022 
+ NVIDIA GeForce RTX 4090 FE + 6x Custom Design Unboxing 
+ 
+ 
+ Sep 30th, 2022 
+ Intel Arc A750 & A770 Unboxing & Preview 
+ 
+ 
+ Sep 26th, 2022 
+ AMD Ryzen 5 7600X Review - Affordable Zen 4 for Gaming 
+ 
+ 
+ Sep 26th, 2022 
+ AMD Ryzen 7 7700X Review - The Best Zen 4 for Gaming 
+ 
+ 
+ Oct 3rd, 2022 
+ AMD Ryzen 9 7950X Cooling Requirements & Thermal Throttling 
+ 
+ 
+ Sep 8th, 2022 
+ Red Dead Redemption 2: DLSS vs. FSR 2.0 Comparison Review 
+ 
+ 
+ Oct 4th, 2022 
+ TOPPING E30 II DAC + L30 II Amplifier Desktop Stack Review 
+ 
+ 
+ Aug 25th, 2022 
+ Upcoming Hardware Launches 2022 (Updated Aug 2022) 
+ 
+ 
+ 
+ 
+ Controversial News Posts 
+ 
+ 
+ EVGA Announces Cancelation of NVIDIA Next-gen Graphics Cards Plans, Officially Terminates NVIDIA Partnership 
+			( 536 )
+		 
+ 
+ NVIDIA Project Beyond GTC Keynote Address: Expect the Expected (RTX 4090) 
+			( 332 )
+		 
+ 
+ Intel 13th Gen Core "Raptor Lake" Desktop Processors Launched: +15% ST, +41% MT Uplift 
+			( 202 )
+		 
+ 
+ NVIDIA AD103 and AD104 Chips Powering RTX 4080 Series Detailed 
+			( 152 )
+		 
+ 
+ Google Calls it Quits on Game Streaming, Shutting Down Stadia 
+			( 147 )
+		 
+ 
+ Microsoft Unveils the Windows 11 2022 Update, Available Today 
+			( 135 )
+		 
+ 
+ AMD Ryzen 9 7900X CPU-Z Benched, Falls Short of Core i7-12700K in ST, Probably Due to Temperature Throttling 
+			( 123 )
+		 
+ 
+ Ethereum Switches to Proof of Stake, GPU Mining is Dead 
+			( 118 )
+		 
+ 
+ 
+ 
+ 
+ 
+ 
+				Copyright © 2004-2022 www.techpowerup.com. 
+				All rights reserved. 
+				All trademarks used are properties of their respective owners.
+			 
+ 
+ 
+ 
+ 
+ 
+ 
