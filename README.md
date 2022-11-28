@@ -48,4 +48,8 @@ Natural Language Processing
 
 **Assignments 10 :**<br>
 1. [**Chatbot - SSD Chatbot Charles**](https://github.com/shararrs/NLP/tree/main/ssd-chatbot)
-2. [**Submission File (pdf)**](https://github.com/shararrs/NLP/blob/main/ACL%20Paper%20Summary/ACL%20Paper%20Summary.pdf)
+2. [**Report and Running Instructions (pdf)**](https://github.com/shararrs/NLP/blob/main/ssd-chatbot/NLP%20Chatbot%20Report.pdf)
+
+**Assignments 11 :**<br>
+1. [**Text Classification**](https://github.com/shararrs/NLP/tree/main/Text_Classification)
+2. [**Submission File (pdf)**](https://github.com/shararrs/NLP/blob/main/ssd-chatbot/NLP%20Chatbot%20Report.pdf)
