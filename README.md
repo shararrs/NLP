@@ -6,28 +6,28 @@ Natural Language Processing
 1. [**Overview of NLP**](https://github.com/shararrs/NLP/blob/main/Portfolio_Assignment_0_Getting%20_Started/Overview%20of%20NLP.pdf) <br>
 
 **Assignments 1 :**<br>
-1. [**Portfolio Assignment 1**](https://github.com/shararrs/NLP/blob/main/Portfolio_Assignment_1)
+1. [**Text Processing with Python**](https://github.com/shararrs/NLP/blob/main/Portfolio_Assignment_1)
 2. [**Overview**](https://github.com/shararrs/NLP/blob/main/Portfolio_Assignment_1/Portfolio%20Assignment%201%20-%20Overview.pdf)
 
 **Assignments 2 :**<br>
-1. [**Portfolio Assignment 2**](https://github.com/shararrs/NLP/blob/main/Portfolio_Assignment_2/Portfolio_Assignment_2.pdf)
-2. [**Assignment 2 ipynb file**](https://github.com/shararrs/NLP/blob/main/Portfolio_Assignment_2/2_exploring_nltk.ipynb)
+1. [**Exploring NLTK**](https://github.com/shararrs/NLP/blob/main/Portfolio_Assignment_2/Portfolio_Assignment_2.pdf)
+2. [**Submission & Output (ipynb)**](https://github.com/shararrs/NLP/blob/main/Portfolio_Assignment_2/2_exploring_nltk.ipynb)
 
 
 **Assignments 3 :**<br>
-1. [**Portfolio Assignment 3**](https://github.com/shararrs/NLP/blob/main/Portfolio_Assignment_3)
-2. [**Assignment 3 (Guessing game) py file**](https://github.com/shararrs/NLP/blob/main/Portfolio_Assignment_3/word_guess.py)
+1. [**Guessing Game**](https://github.com/shararrs/NLP/blob/main/Portfolio_Assignment_3)
+2. [**Submission (py)**](https://github.com/shararrs/NLP/blob/main/Portfolio_Assignment_3/word_guess.py)
 
 **Assignments 4 :**<br>
-1. [**Portfolio Assignment 4**](https://github.com/shararrs/NLP/blob/main/Portfolio_Assignment_4)
-2. [**Assignment 4 (WordNet) ipynb file**](https://github.com/shararrs/NLP/blob/main/Portfolio_Assignment_4/WordNet.ipynb)
-3. [**Assignment 4 (WordNet) pdf output**](https://github.com/shararrs/NLP/blob/main/Portfolio_Assignment_4/WordNetOutput.pdf)
+1. [**WordNet**](https://github.com/shararrs/NLP/blob/main/Portfolio_Assignment_4)
+2. [**Submission (ipynb)**](https://github.com/shararrs/NLP/blob/main/Portfolio_Assignment_4/WordNet.ipynb)
+3. [**Submission (pdf)**](https://github.com/shararrs/NLP/blob/main/Portfolio_Assignment_4/WordNetOutput.pdf)
 
 **Assignments 5 :**<br>
-1. [**Portfolio Assignment 5**](https://github.com/shararrs/NLP/blob/main/Portfolio_Assignment_5)
-2. [**Assignment 5 (Ngrams) dictionary generator py**](https://github.com/shararrs/NLP/blob/main/Portfolio_Assignment_5/program1.py)
-3. [**Assignment 5 (Ngrams) language tester py**](https://github.com/shararrs/NLP/blob/main/Portfolio_Assignment_5/program2.py)
-4. [**Assignment 5 (Ngrams) narrative**](https://github.com/shararrs/NLP/blob/main/Portfolio_Assignment_5/Blake_and_Sharars_ngrams_narrative.pdf)
+1. [**Ngrams**](https://github.com/shararrs/NLP/blob/main/Portfolio_Assignment_5)
+2. [**Dictionary generator (py)**](https://github.com/shararrs/NLP/blob/main/Portfolio_Assignment_5/program1.py)
+3. [**Language tester (py)**](https://github.com/shararrs/NLP/blob/main/Portfolio_Assignment_5/program2.py)
+4. [**Narrative Submission (pdf)**](https://github.com/shararrs/NLP/blob/main/Portfolio_Assignment_5/Blake_and_Sharars_ngrams_narrative.pdf)
 
 **Assignments 6 :**<br>
 1. [**Web Crawler**](https://github.com/shararrs/NLP/blob/main/Portfolio_Assignment_6)
@@ -52,4 +52,4 @@ Natural Language Processing
 
 **Assignments 11 :**<br>
 1. [**Text Classification**](https://github.com/shararrs/NLP/tree/main/Text_Classification)
-2. [**Submission File (pdf)**](https://github.com/shararrs/NLP/blob/main/ssd-chatbot/NLP%20Chatbot%20Report.pdf)
+2. [**Submission File (ipynb)**](https://github.com/shararrs/NLP/blob/main/Text_Classification/Text_classification.ipynb)
