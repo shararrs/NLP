@@ -1,0 +1,56 @@
+{
+  "drive": [
+    "drives"
+  ],
+  "ssd": [
+    "Solid state drive",
+    "SSD",
+    "SSDs",
+    "Flash memory",
+    "memory unit",
+    "persistent storage",
+    "persistent memory",
+    "Flash storage",
+    "Flash drive",
+    "storage unit",
+    "hard disk drive",
+    "hhd",
+    "hdd",
+    "Storage",
+    "Hard Drive",
+    "hard disk",
+    "Disk",
+    "memory",
+    "drive"
+  ],
+  "laptop": [
+    "laptop",
+    "computer",
+    "device",
+    "system",
+    "pc",
+    "desktop"
+  ],
+  "buy": [
+    "purchase",
+    "buy",
+    "acquire",
+    "obtain",
+    "shop for"
+  ],
+  "size": [
+    "size",
+    "capacity",
+    "space",
+    "storage"
+  ],
+  "speed": [
+    "rate"
+  ],
+  "need": [
+    "require",
+    "want",
+    "would like",
+    "wanna"
+  ]
+}

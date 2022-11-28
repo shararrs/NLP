@@ -1,0 +1,713 @@
+https://www.techpowerup.com/299346/kioxia-develops-industrys-first-2tb-microsdxc-memory-card-working-prototypes
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ [if lt IE 9]><script src="https://tpucdn.com/js/html5shiv.min-v1664446299286.js"></script><![endif] 
+ [if lt IE 9]><script>window.onerror = function(){ return true; }</script><![endif] 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Home 
+ Reviews 
+ Forums 
+ Downloads 
+ Case Mod Gallery 
+ 
+ Databases 
+ 
+ 
+ Databases…
+								 Back 
+ 
+ VGA Bios Collection 
+ GPU Database 
+ CPU Database 
+ Review Database 
+ 
+ 
+ 
+ Our Software 
+ 
+ 
+ Our Software…
+								 Back 
+ 
+ GPU-Z 
+ RealTemp 
+ NVCleanstall 
+ TPUCapture 
+ MemTest64 
+ 
+ 
+ 
+ More 
+ 
+ 
+ More…
+								 Back 
+ 
+ Articles 
+ Old Stuff 
+ Computer Trivia 
+ TPU Live 
+ 
+ 
+ Contact Us 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Tuesday, September 27th 2022 
+ 
+ Kioxia Develops Industry's First 2TB microSDXC Memory Card Working Prototypes 
+ 
+ 
+ 
+ Press Release 
+ 
+ 
+ 
+			by  btarunr 
+ 
+ 
+ 
+								Sep 27th, 2022 22:38
+							 
+ 
+ 
+ Discuss (19 Comments) 
+ 
+ 
+ Kioxia Corporation, a world leader in memory solutions, today announced the industry's first 2 terabyte (TB) microSDXC memory card working prototypes. Using its innovative BiCS FLASH 3D flash memory and an in-house designed controller, basic functions of the KIOXIA 2 TB microSDXC UHS-I memory card working prototypes were confirmed in the microSDXC standard's maximum density. 
+ 
+As the data recording capacity of smartphones, action cameras, and portable game consoles continues to increase, the need for ultra-high capacity SD memory cards to store all of this data has never been higher. The SD Association's SDXC specification has supported memory cards up to 2 TB for more than a decade—but 2 TB cards have not been successfully manufactured until now.   Designed using the company's proprietary manufacturing technology, the KIOXIA 2 TB card working prototypes are built by stacking sixteen 1 terabit dies of 3D flash memory and achieve a maximum thickness of 0.8 mm at the die mounting area - making them well-suited to high-capacity data recording applications. 
+ 
+Mass production of the KIOXIA 2 TB microSDXC memory cards is scheduled to begin in 2023. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Related News 
+ 
+ Tags: 
+ BiCS 
+ Kioxia 
+ Memory 
+ Prototype 
+ SD Association 
+ SDXC 
+ UHS-I 
+ 
+ 
+ 
+ Sep 13th 2022   KIOXIA Introduces Industrial Grade BiCS FLASH 3D Flash Memory  (4) 
+ Aug 30th 2022   KIOXIA Strengthens Lineup of Embedded Flash Memory Products for Consumer Applications  (1) 
+ Sep 7th 2022   Apple to Source 3D NAND Memory from Chinese YMTC  (36) 
+ Aug 2nd 2022   Kioxia Launches Second Generation of High-Performance, Cost-Effective XL-FLASH Storage Class Memory Solution  (4) 
+ Sep 27th 2022   KIOXIA Highlights Expanded Performance Capabilities of PCIe 5.0 SSDs at Intel Innovation  (0) 
+ Jun 15th 2022   KIOXIA Debuts High Capacity 512GB microSD Cards for Continuous 4K Video Recording  (1) 
+ Aug 2nd 2022   KIOXIA Introduces Sample PCIe NVMe Technology-Based Flash Hardware for SEF  (2) 
+ Aug 2nd 2022   KIOXIA Marks 35 Years of NAND Flash Memory at FMS 2022  (0) 
+ Jul 26th 2022   KIOXIA Announces CM7 Line of PCIe Gen5 Enterprise SSDs  (1) 
+ Jul 27th 2022   KIOXIA and Aerospike Collaborate to Boost Database Application Performance  (0) 
+ 
+ 
+ 
+ Add your own comment 
+ 19 Comments   on  Kioxia Develops Industry's First 2TB microSDXC Memory Card Working Prototypes 
+ 
+ #1 
+ 
+ openbox1980 
+ 
+ 
+ 
+ I need this 
+ 
+				Posted on  Sep 27th 2022, 23:42 
+ 
+ Reply 
+ 
+ 
+ 
+ 
+ #2 
+ 
+ Ferrum Master 
+ 
+ 
+ 
+ openbox1980 I need this May you enlighten me, for what? 
+ 
+				Posted on  Sep 27th 2022, 23:47 
+ 
+ Reply 
+ 
+ 
+ 
+ 
+ #3 
+ 
+ openbox1980 
+ 
+ 
+ 
+ Ferrum Master May you enlighten me, for what? My phone needs more space. 1tb on phone and 1tb on SD card is not enough. 
+ 
+				Posted on  Sep 27th 2022, 23:52 
+ 
+ Reply 
+ 
+ 
+ 
+ 
+ #4 
+ 
+ Ferrum Master 
+ 
+ 
+ 
+ openbox1980 My phone needs more space. 1tb on phone and 1tb on SD card is not enough. You understand that low voltage NAND is miles more unreliable and  not  suited for data storage, as their main goal us low current consumption for better battery life? 
+ 
+Basically, it goes bad, you are on your own. While SD cards are better but not all of them are made the same and they die. 
+ 
+What on earth can take place a 1Tb on a phone? 
+ 
+				Posted on  Sep 27th 2022, 23:58 
+ 
+ Reply 
+ 
+ 
+ 
+ 
+ #5 
+ 
+ MachineLearning 
+ 
+ 
+ 
+ openbox1980 My phone needs more space. 1tb on phone and 1tb on SD card is not enough. May I ask, with what have you filled them both? I'm not looking to criticize your habits, I just am struggling to think of how that could even be done without having 600 movies. 
+ 
+				Posted on  Sep 28th 2022, 0:00 
+ 
+ Reply 
+ 
+ 
+ 
+ 
+ #6 
+ 
+ Ferrum Master 
+ 
+ 
+ 
+ MachineLearning May I ask, with what have you filled them both? I'm not looking to criticize your habits, I just am struggling to think of how that could even be done without having 600 movies. I can see these used in some dashcams or special case of lower bitrate surveillance, but not mission critical. Other than that, I totally have no idea. There are people filming anything, like women taking child photos videos, like in any situation, well some can't understand hormones taking over their actions and that's it... there are some peps who have archives of phone recordings... but anyone who does it, doesn't need to have friends. Some also try to backup pornhub... but all those things are not crucial. 
+ 
+				Posted on  Sep 28th 2022, 0:05 
+ 
+ Reply 
+ 
+ 
+ 
+ 
+ #7 
+ 
+ openbox1980 
+ 
+ 
+ 
+ Ferrum Master You understand that low voltage NAND is miles more unreliable and  not  suited for data storage, as their main goal us low current consumption for better battery life? 
+ 
+Basically, it goes bad, you are on your own. While SD cards are better but not all of them are made the same and they die. 
+ 
+What on earth can take place a 1Tb on a phone? I'm a truck driver, I load my phone with movies and shows. Space in a truck is at premium. I also help with editing a friends youtube channel. When I'm completed with the video, I upload to my phone and upload it to his cloud account. MachineLearning May I ask, with what have you filled them both? I'm not looking to criticize your habits, I just am struggling to think of how that could even be done without having 600 movies. I usually stick with movies in the 1gb range for 720p. 
+ 
+				Posted on  Sep 28th 2022, 0:37 
+ 
+ Reply 
+ 
+ 
+ 
+ 
+ #8 
+ 
+ Ferrum Master 
+ 
+ 
+ 
+ openbox1980 I'm a truck driver, I load my phone with movies and shows. Space in a truck is at premium. So just hoard them without deleting? Well it is strange for us, as we have proper network coverage mostly everywhere and just stream...  
+ 
+idk... most people still use laptops with conventional hard discs, even truck drivers. At least I hope you don't watch them while driving. 
+ 
+				Posted on  Sep 28th 2022, 0:43 
+ 
+ Reply 
+ 
+ 
+ 
+ 
+ #9 
+ 
+ Arpeegee 
+ 
+ 
+ 
+ This would be a nice way to hold all my emulators and roms in one place for my phone. Right now I have 1TB of storage and with music plus family photos it's nearly full. 
+ 
+The internet isn't always going to be there so I have a lot of music albums in case (and it has come in handy in dead spots). 
+ 
+				Posted on  Sep 28th 2022, 11:35 
+ 
+ Reply 
+ 
+ 
+ 
+ 
+ #10 
+ 
+ openbox1980 
+ 
+ 
+ 
+ Ferrum Master So just hoard them without deleting? Well it is strange for us, as we have proper network coverage mostly everywhere and just stream... 
+ 
+idk... most people still use laptops with conventional hard discs, even truck drivers. At least I hope you don't watch them while driving. I still have a laptop, even my laptop has 16tb of storage. And I dont always get cell phone connection in any area. Lots of times I have to deliver to middle no where, with little or no connection. 
+ 
+				Posted on  Sep 29th 2022, 1:55 
+ 
+ Reply 
+ 
+ 
+ 
+ 
+ #11 
+ 
+ Readlight 
+ 
+ 
+ 
+ Where under skin memory 
+ 
+				Posted on  Sep 29th 2022, 2:28 
+ 
+ Reply 
+ 
+ 
+ 
+ 
+ #12 
+ 
+ Ferrum Master 
+ 
+ 
+ 
+ openbox1980 I still have a laptop, even my laptop has 16tb of storage. And I dont always get cell phone connection in any area. Lots of times I have to deliver to middle no where, with little or no connection. 16TB laptop? What? If it's true, you are truly special. 
+ 
+				Posted on  Sep 29th 2022, 2:30 
+ 
+ Reply 
+ 
+ 
+ 
+ 
+ #13 
+ 
+ openbox1980 
+ 
+ 
+ 
+ Ferrum Master 16TB laptop? What? If it's true, you are truly special. x2 8tb m.2. 
+ 
+				Posted on  Sep 29th 2022, 19:43 
+ 
+ Reply 
+ 
+ 
+ 
+ 
+ #14 
+ 
+ Bad_Samaritan 
+ 
+ 
+ 
+ openbox1980 x2 8tb m.2. You have some funky priorities. Why are you worried about how many movies you can fit on your phone, when you have a laptop that you spent $3000 on, for storage, and aren't even fully utilizing? Get a NAS, keep all your movies on that, and stream them to your phone/lapop using  www.plex.tv/ . Storing 2tb worth of movies on your phone is absurd, impractical, and wholly unnecessary. 
+ 
+Also, check out Starlink. You can have usable internet anywhere, any time. $100/mo for service, and $500 for the equipment. 
+ 
+				Posted on  Oct 1st 2022, 6:15 
+ 
+ Reply 
+ 
+ 
+ 
+ 
+ #15 
+ 
+ 95Viper 
+ 
+ 
+ 
+ Stay on the topic. 
+If you wish to discuss side topics... start a thread in the proper section. 
+ 
+				Posted on  Oct 1st 2022, 8:00 
+ 
+ Reply 
+ 
+ 
+ 
+ 
+ #16 
+ 
+ LabRat 891 
+ 
+ 
+ 
+ Reliability immediately comes to mind as a concern. 
+ 
+With the increasing density, why don't mSD cards have any thermal mitigations? Seems many of the dead and slow cards on the Steam Deck are coming from them overheating. 
+ 
+On my Deck, a 128GB SanDisk 'Nintendo Wii' mSDXC can get so hot you can barely touch it. ...and that's *with* my own modification, trying to address heat. 
+ 
+				Posted on  Oct 1st 2022, 9:19 
+ 
+ Reply 
+ 
+ 
+ 
+ 
+ #17 
+ 
+ openbox1980 
+ 
+ 
+ 
+ Bad_Samaritan You have some funky priorities. Why are you worried about how many movies you can fit on your phone, when you have a laptop that you spent $3000 on, for storage, and aren't even fully utilizing? Get a NAS, keep all your movies on that, and stream them to your phone/lapop using  www.plex.tv/ . Storing 2tb worth of movies on your phone is absurd, impractical, and wholly unnecessary. 
+ 
+Also, check out Starlink. You can have usable internet anywhere, any time. $100/mo for service, and $500 for the equipment. Starlink wouldn't work for me, and I dont pay retail prices for most of my hardware. I trade hardware for editing services. 
+ 
+				Posted on  Oct 2nd 2022, 20:56 
+ 
+ Reply 
+ 
+ 
+ 
+ 
+ #18 
+ 
+ Prima.Vera 
+ 
+ 
+ 
+ I need this for my dashcam. However, the hardware can only take up to 512GB. Is there any way to upgrade the firmware to support up to 2TB, or this is hardware bined? 
+ 
+				Posted on  Oct 3rd 2022, 0:27 
+ 
+ Reply 
+ 
+ 
+ 
+ 
+ #19 
+ 
+ openbox1980 
+ 
+ 
+ 
+ Prima.Vera I need this for my dashcam. However, the hardware can only take up to 512GB. Is there any way to upgrade the firmware to support up to 2TB, or this is hardware bined? I use a vantrue for my dashcam, its says the256gb is the max it supports but I installed a 512gb card, it reads it. 
+ 
+				Posted on  Oct 3rd 2022, 2:22 
+ 
+ Reply 
+ 
+ 
+ 
+ Add your own comment 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Oct 8th, 2022 18:25 CDT 
+ change timezone 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Sign in  /  Register 
+ 
+ 
+ 
+ Latest GPU Drivers 
+ 
+ 
+ NVIDIA GeForce 517.48 WHQL  
+ AMD Radeon 22.10.1 Beta  
+ 
+			Intel
+			 IGP 101.3430  
+			/
+			 Arc 101.3430  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ New Forum Posts 
+ 
+ 
+ 
+ 18:21 
+				by
+				 Shrek 
+ 
+ Windows 11 General Discussion  ( 3422 )
+		 
+ 
+ 
+ 18:17 
+				by
+				 ssateneth 
+ 
+ Resizable Bar not working.  ( 28 )
+		 
+ 
+ 
+ 17:58 
+				by
+				 Nike_486DX 
+ 
+ I need help  ( 1 )
+		 
+ 
+ 
+ 17:57 
+				by
+				 dgianstefani 
+ 
+ New build pc freezes when starting up a game  ( 2 )
+		 
+ 
+ 
+ 17:38 
+				by
+				 kiddagoat 
+ 
+ Custom Loop Maintenance  ( 4 )
+		 
+ 
+ 
+ 17:34 
+				by
+				 tabascosauz 
+ 
+ What's your latest tech purchase?  ( 13452 )
+		 
+ 
+ 
+ 17:31 
+				by
+				 Shrek 
+ 
+ What are your opinions on PSUs with zero-rpm fan features?  ( 120 )
+		 
+ 
+ 
+ 17:30 
+				by
+				 Count von Schwalbe 
+ 
+ I'm building a $2430 computer, I can't decide.  ( 21 )
+		 
+ 
+ 
+ 17:29 
+				by
+				 leglessman 
+ 
+ z97 OC  ( 15 )
+		 
+ 
+ 
+ 17:28 
+				by
+				 pablosilva2022 
+ 
+ Colorful iGame RTX 3060 Ti Ultra W OC  ( 0 )
+		 
+ 
+ 
+ 
+ 
+ 
+ 
+ Popular Reviews 
+ 
+ 
+ Sep 26th, 2022 
+ AMD Ryzen 9 7950X Review - Impressive 16-core Powerhouse 
+ 
+ 
+ Oct 5th, 2022 
+ Intel Arc A770 Review - Finally a Third Competitor 
+ 
+ 
+ Oct 5th, 2022 
+ NVIDIA GeForce RTX 4090 FE + 6x Custom Design Unboxing 
+ 
+ 
+ Sep 30th, 2022 
+ Intel Arc A750 & A770 Unboxing & Preview 
+ 
+ 
+ Sep 26th, 2022 
+ AMD Ryzen 5 7600X Review - Affordable Zen 4 for Gaming 
+ 
+ 
+ Sep 26th, 2022 
+ AMD Ryzen 7 7700X Review - The Best Zen 4 for Gaming 
+ 
+ 
+ Oct 3rd, 2022 
+ AMD Ryzen 9 7950X Cooling Requirements & Thermal Throttling 
+ 
+ 
+ Sep 8th, 2022 
+ Red Dead Redemption 2: DLSS vs. FSR 2.0 Comparison Review 
+ 
+ 
+ Oct 4th, 2022 
+ TOPPING E30 II DAC + L30 II Amplifier Desktop Stack Review 
+ 
+ 
+ Aug 25th, 2022 
+ Upcoming Hardware Launches 2022 (Updated Aug 2022) 
+ 
+ 
+ 
+ 
+ Controversial News Posts 
+ 
+ 
+ EVGA Announces Cancelation of NVIDIA Next-gen Graphics Cards Plans, Officially Terminates NVIDIA Partnership 
+			( 536 )
+		 
+ 
+ NVIDIA Project Beyond GTC Keynote Address: Expect the Expected (RTX 4090) 
+			( 332 )
+		 
+ 
+ Intel 13th Gen Core "Raptor Lake" Desktop Processors Launched: +15% ST, +41% MT Uplift 
+			( 202 )
+		 
+ 
+ NVIDIA AD103 and AD104 Chips Powering RTX 4080 Series Detailed 
+			( 152 )
+		 
+ 
+ Google Calls it Quits on Game Streaming, Shutting Down Stadia 
+			( 147 )
+		 
+ 
+ Microsoft Unveils the Windows 11 2022 Update, Available Today 
+			( 135 )
+		 
+ 
+ AMD Ryzen 9 7900X CPU-Z Benched, Falls Short of Core i7-12700K in ST, Probably Due to Temperature Throttling 
+			( 123 )
+		 
+ 
+ Ethereum Switches to Proof of Stake, GPU Mining is Dead 
+			( 118 )
+		 
+ 
+ 
+ 
+ 
+ 
+ 
+				Copyright © 2004-2022 www.techpowerup.com. 
+				All rights reserved. 
+				All trademarks used are properties of their respective owners.
+			 
+ 
+ 
+ 
+ 
+ 
+ 

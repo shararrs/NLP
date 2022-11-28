@@ -1,0 +1,403 @@
+https://www.techpowerup.com/299171/crystal-group-maximizes-physical-and-data-protections-for-military-applications-with-new-nvme-ssd
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ [if lt IE 9]><script src="https://tpucdn.com/js/html5shiv.min-v1664446299286.js"></script><![endif] 
+ [if lt IE 9]><script>window.onerror = function(){ return true; }</script><![endif] 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Home 
+ Reviews 
+ Forums 
+ Downloads 
+ Case Mod Gallery 
+ 
+ Databases 
+ 
+ 
+ Databases…
+								 Back 
+ 
+ VGA Bios Collection 
+ GPU Database 
+ CPU Database 
+ Review Database 
+ 
+ 
+ 
+ Our Software 
+ 
+ 
+ Our Software…
+								 Back 
+ 
+ GPU-Z 
+ RealTemp 
+ NVCleanstall 
+ TPUCapture 
+ MemTest64 
+ 
+ 
+ 
+ More 
+ 
+ 
+ More…
+								 Back 
+ 
+ Articles 
+ Old Stuff 
+ Computer Trivia 
+ TPU Live 
+ 
+ 
+ Contact Us 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Thursday, September 22nd 2022 
+ Crystal Group Maximizes Physical and Data Protections for Military Applications with New NVMe SSD 
+ 
+ 
+ 
+ Press Release 
+ 
+ 
+ 
+			by  btarunr 
+ 
+ 
+ 
+								Sep 22nd, 2022 21:44
+							 
+ 
+ 
+ Discuss (0 Comments) 
+ 
+ 
+ Crystal Group, Inc., a leading designer and manufacturer of rugged computer and electronic hardware, announced today the release of a ruggedized and tamper-proof NVMe M.2 drive validated across their portfolio of rugged, high-performance compute solutions for tactical edge applications. Using new, proprietary Crystal Group ruggedization techniques on the tamper-evident Seagate BarraCuda 515 solid state drive (SSD) extends the drive's capabilities to military platforms by meeting strict U.S. Department of Defense (DoD) cybersecurity and environmental operating requirements. 
+ 
+"Marrying advanced data security features with comprehensive environmental standards streamlines two critical performance needs for tactical edge applications into one solution," said Todd Prouty, senior business development manager at Crystal Group. "Integrating these capabilities at both the drive level and hardware level provides maximum physical and data protections for long-life, seamless compute performance and accuracy in and across all domains."   Primary safeguards for sensitive and classified data include: FIPS 140-2 Level 2 certified SSD Common Criteria certification with full disk encryption solution TPG Opal compliant self-encryption TAA compliant Block-level data destruction verification In addition to meeting or exceeding common MIL-STD-810 environmental test standards, such as temperature, vibration, shock and humidity, the BarraCuda 515 SSDs profile is also salt fog compliant. Salt fog resilience is critical for applications like U.S. Navy deployments, which are exposed to highly corrosive environments. 
+ 
+"Seagate Government Solutions is dedicated to supporting our long-term partnership with Crystal Group. We at SGS see this conformal-coated, secure M.2 device as answering a long-standing requirement in rugged applications for the Government." said Mike Moritzkat, CEO and managing director of Seagate Government Solutions. 
+ 
+To address the broad variety of compute needs across different tactical edge platforms and applications, this rugged, tamper-evident NVMe M.2 drive can be used on any form factor from Crystal Group's portfolio of rugged, high-performance compute solutions. Crystal Group is the only rugged solutions provider to offer this combination of environmental robustness and security protection at the SSD and hardware levels. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Related News 
+ 
+ Tags: 
+ M.2 
+ NVMe 
+ SSD 
+ SSDs 
+ 
+ 
+ 
+ Aug 4th 2022   ASUS Unveils the ROG Crosshair X670E Hero and ROG Crosshair X670E Extreme  (57) 
+ Sep 29th 2022   Alphacool Intros Liquid Cooler and Riser Card for M.2 NVMe SSD  (16) 
+ Sep 9th 2022   Not All First Generation PCIe 5.0 SSDs Will Offer the Same Performance  (55) 
+ Sep 7th 2022   GoodRAM IRDM Ultimate M.2 PCIe Gen 5 SSD Pictured  (16) 
+ Aug 19th 2022   Gigabyte Announces the AORUS Gen5 10000 SSD with Capacities up to 4 TB  (45) 
+ Aug 22nd 2022   GIGABYTE Unveils AORUS Gen5 AIC Adaptor with 4 Built-in NVMe M.2 Slots  (10) 
+ Jul 22nd 2022   SilverStone Launches M.2 Riser Card for Two SSDs  (47) 
+ Sep 5th 2022   JSAUX Launches Steam Deck Docking Station with M.2 SSD Slot  (9) 
+ Sep 22nd 2022   MSI Reveals Superb SPATIUM PCIe 5.0 Storage Performance & Enriches Its Lineup with SPATIUM M460 (HS)  (8) 
+ Sep 28th 2022   COLORFUL Presents Intel Z790 Series Motherboards for 13th Gen Intel Core CPUs  (4) 
+ 
+ 
+ 
+ Add your own comment 
+ Comments   on  Crystal Group Maximizes Physical and Data Protections for Military Applications with New NVMe SSD 
+ There are no comments yet. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Oct 8th, 2022 18:25 CDT 
+ change timezone 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Sign in  /  Register 
+ 
+ 
+ 
+ Latest GPU Drivers 
+ 
+ 
+ NVIDIA GeForce 517.48 WHQL  
+ AMD Radeon 22.10.1 Beta  
+ 
+			Intel
+			 IGP 101.3430  
+			/
+			 Arc 101.3430  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ New Forum Posts 
+ 
+ 
+ 
+ 18:21 
+				by
+				 Shrek 
+ 
+ Windows 11 General Discussion  ( 3422 )
+		 
+ 
+ 
+ 18:17 
+				by
+				 ssateneth 
+ 
+ Resizable Bar not working.  ( 28 )
+		 
+ 
+ 
+ 17:58 
+				by
+				 Nike_486DX 
+ 
+ I need help  ( 1 )
+		 
+ 
+ 
+ 17:57 
+				by
+				 dgianstefani 
+ 
+ New build pc freezes when starting up a game  ( 2 )
+		 
+ 
+ 
+ 17:38 
+				by
+				 kiddagoat 
+ 
+ Custom Loop Maintenance  ( 4 )
+		 
+ 
+ 
+ 17:34 
+				by
+				 tabascosauz 
+ 
+ What's your latest tech purchase?  ( 13452 )
+		 
+ 
+ 
+ 17:31 
+				by
+				 Shrek 
+ 
+ What are your opinions on PSUs with zero-rpm fan features?  ( 120 )
+		 
+ 
+ 
+ 17:30 
+				by
+				 Count von Schwalbe 
+ 
+ I'm building a $2430 computer, I can't decide.  ( 21 )
+		 
+ 
+ 
+ 17:29 
+				by
+				 leglessman 
+ 
+ z97 OC  ( 15 )
+		 
+ 
+ 
+ 17:28 
+				by
+				 pablosilva2022 
+ 
+ Colorful iGame RTX 3060 Ti Ultra W OC  ( 0 )
+		 
+ 
+ 
+ 
+ 
+ 
+ 
+ Popular Reviews 
+ 
+ 
+ Sep 26th, 2022 
+ AMD Ryzen 9 7950X Review - Impressive 16-core Powerhouse 
+ 
+ 
+ Oct 5th, 2022 
+ Intel Arc A770 Review - Finally a Third Competitor 
+ 
+ 
+ Oct 5th, 2022 
+ NVIDIA GeForce RTX 4090 FE + 6x Custom Design Unboxing 
+ 
+ 
+ Sep 30th, 2022 
+ Intel Arc A750 & A770 Unboxing & Preview 
+ 
+ 
+ Sep 26th, 2022 
+ AMD Ryzen 5 7600X Review - Affordable Zen 4 for Gaming 
+ 
+ 
+ Sep 26th, 2022 
+ AMD Ryzen 7 7700X Review - The Best Zen 4 for Gaming 
+ 
+ 
+ Oct 3rd, 2022 
+ AMD Ryzen 9 7950X Cooling Requirements & Thermal Throttling 
+ 
+ 
+ Sep 8th, 2022 
+ Red Dead Redemption 2: DLSS vs. FSR 2.0 Comparison Review 
+ 
+ 
+ Oct 4th, 2022 
+ TOPPING E30 II DAC + L30 II Amplifier Desktop Stack Review 
+ 
+ 
+ Aug 25th, 2022 
+ Upcoming Hardware Launches 2022 (Updated Aug 2022) 
+ 
+ 
+ 
+ 
+ Controversial News Posts 
+ 
+ 
+ EVGA Announces Cancelation of NVIDIA Next-gen Graphics Cards Plans, Officially Terminates NVIDIA Partnership 
+			( 536 )
+		 
+ 
+ NVIDIA Project Beyond GTC Keynote Address: Expect the Expected (RTX 4090) 
+			( 332 )
+		 
+ 
+ Intel 13th Gen Core "Raptor Lake" Desktop Processors Launched: +15% ST, +41% MT Uplift 
+			( 202 )
+		 
+ 
+ NVIDIA AD103 and AD104 Chips Powering RTX 4080 Series Detailed 
+			( 152 )
+		 
+ 
+ Google Calls it Quits on Game Streaming, Shutting Down Stadia 
+			( 147 )
+		 
+ 
+ Microsoft Unveils the Windows 11 2022 Update, Available Today 
+			( 135 )
+		 
+ 
+ AMD Ryzen 9 7900X CPU-Z Benched, Falls Short of Core i7-12700K in ST, Probably Due to Temperature Throttling 
+			( 123 )
+		 
+ 
+ Ethereum Switches to Proof of Stake, GPU Mining is Dead 
+			( 118 )
+		 
+ 
+ 
+ 
+ 
+ 
+ 
+				Copyright © 2004-2022 www.techpowerup.com. 
+				All rights reserved. 
+				All trademarks used are properties of their respective owners.
+			 
+ 
+ 
+ 
+ 
+ 
+ 

@@ -1,0 +1,653 @@
+https://www.tomshardware.com/news/backblaze-confirms-ssds-more-reliable-than-hdds
+ 
+ 
+ 
+ [IE]><script>window.isIE = true</script><![endif] 
+ 
+ Skip to main content 
+  contentType : // 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ Tom's Hardware   
+ 
+ 
+ 
+ 
+ Search 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ RSS 
+ 
+ 
+ 
+ 
+    (opens in new tab) 
+ 
+    (opens in new tab) 
+ 
+    (opens in new tab) 
+ 
+    (opens in new tab) 
+ 
+    (opens in new tab) 
+ 
+ UK US Australia Canada 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Reviews 
+ 
+ 
+ 
+ 
+ Best Picks 
+ 
+ 
+ 
+ 
+ Raspberry Pi 
+ 
+ 
+ 
+ 
+ CPUs 
+ 
+ 
+ 
+ 
+ GPUs 
+ 
+ 
+ 
+ 
+ Coupons 
+ 
+ 
+ 
+More
+ 
+ 
+ 
+ Laptops 
+ 
+ 
+ SSDs 
+ 
+ 
+ Motherboards 
+ 
+ 
+ Cooling 
+ 
+ 
+ Desktops 
+ 
+ 
+ PC Builds 
+ 
+ 
+ Monitors 
+ 
+ 
+ RAM 
+ 
+ 
+ PC Cases 
+ 
+ 
+ Keyboards 
+ 
+ 
+ Headsets 
+ 
+ 
+ Mice 
+ 
+ 
+ Power Supplies 
+ 
+ 
+ 3D Printers 
+ 
+ 
+ VR Headsets 
+ 
+ 
+ About Tom's Hardware 
+ 
+ 
+ 
+ 
+ 
+ 
+ Forums  (opens in new tab) 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ Trending Nvidia RTX 4090 Unboxing Intel 13th-Gen Raptor Lake AMD Ryzen 7000 Intel Arc A770 
+ 
+ Tom's Hardware is supported by its audience. When you purchase through links on our site, we may earn an affiliate commission.  Here’s why you can trust us . 
+ 
+ 
+ 
+ 
+ 
+ Home 
+ News 
+ 
+ 
+ New Backblaze Data Confirms SSDs Are More Reliable Than Hard Drives 
+ 
+ 
+  By  Aaron Klotz      published  13 September 2022 
+ 
+ No moving parts really is more reliable than spinning disks 
+ 
+ 
+ 
+ 
+    (opens in new tab) 
+ 
+ 
+ 
+    (opens in new tab) 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+  (opens in new tab) 
+ 
+ 
+ 
+    (opens in new tab) 
+ 
+ 
+ 
+    (opens in new tab) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Comments (13) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (Image credit: TeamGroup) 
+ 
+ 
+ 
+ 
+ Backblaze is back again with a new  SSD report for Q2 2022  (opens in new tab) , showcasing the lifespan of its SSD boot drives powering its backup servers since 2018. But this time, Backblaze's new update confirms that SSDs are more reliable than hard drives. 
+ 
+Backblaze began recording SSD lifespans when it started switching from HDD boot drives to SSD boot drives in its backup servers. However, due to the newness of the drives, it has taken five years for the company to really being seeing any noteworthy differences in overall average SSD lifespan behavior compared to its HDD boot drive lifespans with the same age. 
+ 
+2018 all the way to 2021 sees average SSD lifespan records that are nearly identical to hard drive failure rates. Year 1 by far shows us the lowest failure rates of all, with under a 0.66% failure rate for HDDs and no failure rate at all for SSDs. Year two steps things up in an almost perfectly linear fashion, with HDDs and SSDs seeing a roughly 0.85% increase in failure rates. 
+ 
+This linear increase in failures duplicates itself in year 3 and year 4 as well, with both SSDs and HDDs showing similar failure rate curves — though with SSD's being lower overall. At year 4, HDDs are hovering around the 1.8% mark while SSDs have barely passed the 1% mark. And then things appear to diverge. (Image credit: Backblaze) The charts start to change drastically in favor of SSDs at year 5. HDD boot drive lifespan results take a drastic uptick in failure rates, jumping from just under 2% to 3.6% within a year. Meanwhile, Backblaze's SSDs head in the compete opposite direction, declining from 1.05% to an impressive 0.92% average. That translates into a 3x reliability improvement for SSDs over hard drives. 
+ 
+While this isn't that surprising, given SSDs have no moving parts, it is good to finally have some hard details based on thousands of drives showing that average SSD life expectancy will far outweigh hard drives, especially once storage starts to get old. It's still possible for other factors like excessive writes or poorly designed firmware and controllers to cause earlier SSD deaths. However, such exceptions only affect a small number of people. 
+ 
+Backblaze concludes its report by stating, "At this point we can reasonably claim that SSDs are more reliable than HDDs, at least when used as boot drives in our environment. This supports the anecdotal stories and educated guesses made by our readers over the past year or so. Well done." With five years of data, SSDs are doing very well overall. It will be interesting to see what happens as the drives move into the six, seven, and eight years old range. 
+ 
+ Aaron Klotz Freelance News Writer Aaron Klotz is a freelance writer for Tom’s Hardware US, covering news topics related to computer hardware such as CPUs, and graphics cards. 
+ 
+  stuffs  
+ 
+ 
+ 
+  stuffs  
+ 
+ 
+ 
+  stuffs  
+ 
+ 
+  Drop in a standard article here maybe?  
+ 
+ 
+ 
+ 
+ 
+ Topics 
+ 
+ Storage 
+ 
+ 
+ SSD 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ See all comments (13) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 13 Comments 
+ 
+ Comment from the forums 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ coromonadalix 
+ 
+ 
+yeah right, lost tons of stuff on a brand new pcie 4 gen4 ssd after 4 months .... i'm sure and "classic hdd" would have survived / worked longer that that 
+ 
+do your backups regularly .... it saved my ass
+ 
+ 
+ 
+ Reply 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Jhfry 
+ 
+ 
+ coromonadalix  said: yeah right, lost tons of stuff on a brand new pcie 4 gen4 ssd after 4 months .... i'm sure and "classic hdd" would have survived / worked longer that that 
+ 
+do your backups regularly .... it saved my ass More reliable != Never fails. 
+ 
+That said, I wonder if their reliability figures are per device or per volume of data. For example, if SSD has a 1/100 failure rate vs 3/100 for HDD, but you need 4 SSDs to store your data, rather than 1 HDD, you have a higher chance of failure with your SSDs.
+ 
+ 
+ 
+ Reply 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ cfbcfb 
+ 
+ 
+When I can put one in the freezer for a while, whack it on a table and get it to run long enough for me to schlep my data off of it, that'll be the case. 
+ 
+That having been said, I still have every SSD I ever bought starting with a 64GB one, excepting that run of OCZ SSD's that desperately tried to implode the moment you used them more than a short while. 
+ 
+Those were hilarious. I put two of them in a raid mirror, was impressed by the speed until I saw it persistently faulting one of the drives and having to attempt to rebuild them on the fly.
+ 
+ 
+ 
+ Reply 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ cfbcfb 
+ 
+ 
+ coromonadalix  said: yeah right, lost tons of stuff on a brand new pcie 4 gen4 ssd after 4 months .... i'm sure and "classic hdd" would have survived / worked longer that that 
+ 
+do your backups regularly .... it saved my ass 
+The dirty little secret about gen 4 pcie drives, is that they all need a pretty good heat sink on them, or they run way too hot and thermal throttle, then the controller dies. 
+ 
+I use the sabrent one with the heat pipes on it, but I've also used those ones from amazon that you put rubber bands on. Those are really cheap and they work surprisingly well. 
+ 
+Even some of the gen 3 drives ran too hot. The Hynix Gold p31 was a rare exception. High nand density and extremely low power.
+ 
+ 
+ 
+ Reply 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ watzupken 
+ 
+ 
+ coromonadalix  said: yeah right, lost tons of stuff on a brand new pcie 4 gen4 ssd after 4 months .... i'm sure and "classic hdd" would have survived / worked longer that that 
+ 
+do your backups regularly .... it saved my ass I don't know if you can refute the findings on the basis of 1 failed SSD. Of all the SSDs I purchased over the last decade, none of them have failed me. The oldest is the Intel G2 160GB which is still alive and kicking at 90+ % health for the wear indicator even after using it a lot when I got it over a decade back. On the other hand, out of the handful of mechanical drives I've purchased/ used over the years, I think at least half started acting up, or developing bad sectors. The problem with mechanical drives in recent years is the chase to the bottom in order to reduce cost. Good mechanical drives are hard to come by now because the quality is very poor. Enterprise grade drives should be better in quality, but I believe the quality have also dropped significantly over the last decade when SSDs started to replace them.
+ 
+ 
+ 
+ Reply 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ USAFRet 
+ 
+ 
+ coromonadalix  said: yeah right, lost tons of stuff on a brand new pcie 4 gen4 ssd after 4 months .... i'm sure and "classic hdd" would have survived / worked longer that that 
+ 
+do your backups regularly .... it saved my ass Of my last two dead HDDs....1 died at 7 months, 1 died at 5 weeks. 
+So.... 
+ 
+Have good backups, no matter what type of storage device.
+ 
+ 
+ 
+ Reply 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ twotwotwo 
+ 
+ 
+I'd love to see a repeat of experiments like this one to see how much write traffic current-gen drives will typically survive. I'm sure the TBW ratings are related to reality, but they're also aiming for a spec that 99%+ of drives will meet, since every drive that falls short is a potential warranty return. The  average  number of TB written before failure will be higher, and it'd be interesting to know how much higher.
+ 
+ 
+ 
+ Reply 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ KyaraM 
+ 
+ 
+ coromonadalix  said: yeah right, lost tons of stuff on a brand new pcie 4 gen4 ssd after 4 months .... i'm sure and "classic hdd" would have survived / worked longer that that 
+ 
+do your backups regularly .... it saved my ass And not a single one of my SSDs ever failed on me so far, and I had a couple over the years with 6 of them active currently and some others that I didn't start up in a while since they are installed in old systems I didn't boot in a while. They were still healthy when the system was deprecated, though. 2 of them are over six years old and still quite healthy, which is surprising considering that one of them runs really hot. 
+ 
+Now, I have a 100% survival rate for my SSDs. However, that doesn't mean I don't expect any of them to ever fail, or think that this makes SSDs the most reliable storage devices on this planet. Maybe you should start looking at the bigger picture, too, instead of jumping the gun over a single failure you had. That sucks, no question, but since you were smart and backed your data up, what did you actually lose?
+ 
+ 
+ 
+ Reply 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ AgentBirdnest 
+ 
+ 
+ coromonadalix  said: yeah right, lost tons of stuff on a brand new pcie 4 gen4 ssd after 4 months .... i'm sure and "classic hdd" would have survived / worked longer that that 
+ 
+do your backups regularly .... it saved my ass On the flip side... I own six SSDs that are 2-5 years old. The HDD I bought 2 months ago just died. 
+ 
+Luckily I do regular backups as well. 2 external HDDs, optical discs, cloud storage, and a data-swap with a trusted friend on the other side of the planet (they downloaded my files and keep it on an external drive, and I do the same for them.) 
+No, of course I'm not obsessive. :p
+ 
+ 
+ 
+ Reply 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ JamesJones44 
+ 
+ 
+I wonder what the numbers look like when you separate by type (SLC, MLC, TLC, QLC, etc.). If SLC is weighting down the average then I can't say I'm very surprised, would be curious to know the spread of flash type used in the study.
+ 
+ 
+ 
+ Reply 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ View All 13 Comments 
+ 
+ 
+ 
+ 
+ 
+ 
+Show more comments  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Be In the Know 
+ 
+ 
+ 
+ Get instant access to breaking news, in-depth reviews and helpful tips. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Contact me with news and offers from other Future brands
+ 
+ 
+ 
+ 
+ 
+Receive email from us on behalf of our trusted partners or sponsors
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Thank you for signing up to Tom's Hardware. You will receive a verification email shortly. 
+ 
+ 
+ There was a problem. Please refresh the page and try again. 
+ 
+ 
+ By submitting your information you agree to the  Terms & Conditions  (opens in new tab)  and  Privacy Policy  (opens in new tab)  and are aged 16 or over. 
+ 
+ 
+ 
+ 
+ 
+ MOST POPULAR MOST SHARED 1 Acer Adopts Ryzen Pro for New Swift Edge Laptop 2 Core i9-13900K Soars To 8.2 GHz, Beating Ryzen 7000's Peak Overclock 3 How to Get Windows 11 or Windows 10 for Free (or Under $20) 4 Best Gaming Keyboards for 2022: Mechanical, TKL, and More 5 Best Wireless Keyboards for 2022 1 Acer Adopts Ryzen Pro for New Swift Edge Laptop 2 Core i9-13900K Soars To 8.2 GHz, Beating Ryzen 7000's Peak Overclock 3 How to Get Windows 11 or Windows 10 for Free (or Under $20) 4 Best Gaming Keyboards for 2022: Mechanical, TKL, and More 5 Best Wireless Keyboards for 2022 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Tom's Hardware is part of Future US Inc, an international media group and leading digital publisher.  Visit our corporate site  (opens in new tab) . 
+ 
+ 
+ Terms and conditions  (opens in new tab) 
+ Privacy policy  (opens in new tab) 
+ Cookies policy  (opens in new tab) 
+ Accessibility Statement  (opens in new tab) 
+ Advertise  (opens in new tab) 
+ About us  (opens in new tab) 
+ Coupons  (opens in new tab) 
+ Careers  (opens in new tab) 
+ 
+ 
+ ©
+Future US, Inc. Full 7th Floor, 130 West 42nd Street,
+New York,
+NY 10036.  
+ 
+ 
+    Begin comScore Tag  
+ 
+  End comScore Tag  
+ 
+ 
+ 
+ 
+  Google Tag Manager  
+ 
+  End Google Tag Manager  
+ 
+  document assets - added by the article itself  
+   
+ 
+ 
+ 
+ 
+  

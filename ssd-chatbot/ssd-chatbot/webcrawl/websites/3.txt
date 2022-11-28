@@ -1,0 +1,448 @@
+https://www.tomshardware.com/news/western-digital-sandisk-prog40-rugged-ssd
+ 
+ 
+ 
+ [IE]><script>window.isIE = true</script><![endif] 
+ 
+ Skip to main content 
+  contentType : // 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ Tom's Hardware   
+ 
+ 
+ 
+ 
+ Search 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ RSS 
+ 
+ 
+ 
+ 
+    (opens in new tab) 
+ 
+    (opens in new tab) 
+ 
+    (opens in new tab) 
+ 
+    (opens in new tab) 
+ 
+    (opens in new tab) 
+ 
+ UK US Australia Canada 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Reviews 
+ 
+ 
+ 
+ 
+ Best Picks 
+ 
+ 
+ 
+ 
+ Raspberry Pi 
+ 
+ 
+ 
+ 
+ CPUs 
+ 
+ 
+ 
+ 
+ GPUs 
+ 
+ 
+ 
+ 
+ Coupons 
+ 
+ 
+ 
+More
+ 
+ 
+ 
+ Laptops 
+ 
+ 
+ SSDs 
+ 
+ 
+ Motherboards 
+ 
+ 
+ Cooling 
+ 
+ 
+ Desktops 
+ 
+ 
+ PC Builds 
+ 
+ 
+ Monitors 
+ 
+ 
+ RAM 
+ 
+ 
+ PC Cases 
+ 
+ 
+ Keyboards 
+ 
+ 
+ Headsets 
+ 
+ 
+ Mice 
+ 
+ 
+ Power Supplies 
+ 
+ 
+ 3D Printers 
+ 
+ 
+ VR Headsets 
+ 
+ 
+ About Tom's Hardware 
+ 
+ 
+ 
+ 
+ 
+ 
+ Forums  (opens in new tab) 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ Trending Nvidia RTX 4090 Unboxing Intel 13th-Gen Raptor Lake AMD Ryzen 7000 Intel Arc A770 
+ 
+ Tom's Hardware is supported by its audience. When you purchase through links on our site, we may earn an affiliate commission.  Here’s why you can trust us . 
+ 
+ 
+ 
+ 
+ 
+ Home 
+ News 
+ 
+ 
+ Western Digital Releases Turbocharged, Rugged PRO-G40-SSD 
+ 
+ 
+  By  Ian Evenden      published  5 October 2022 
+ 
+ Thunderbolt 3, USB 3.2 Gen 2 and 4,000lbs of crush weight resistance 
+ 
+ 
+ 
+ 
+    (opens in new tab) 
+ 
+ 
+ 
+    (opens in new tab) 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+  (opens in new tab) 
+ 
+ 
+ 
+    (opens in new tab) 
+ 
+ 
+ 
+    (opens in new tab) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Comments (1) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (Image credit: Western Digital) 
+ 
+ 
+ 
+ 
+ Rugged adventurous types who like to take their SSDs hiking, hunting or cave diving have a new storage solution to appeal to their outdoorsy tastes, as Western Digital has announced the latest release from its Sandisk subsidiary: the Pro-G40 with Thunderbolt 3. Image    1    of    3 (Image credit:    Western Digital   ) (Image credit:    Western Digital   ) (Image credit:    Western Digital   ) With an IP68 rating (dust-tight and able to be submerged in water) the Pro-G40 can also withstand a remarkable 4,000lbs of crush weight (that’s equivalent to a white rhino, or a Ford Taurus) and can withstand a drop of three meters (9.8ft) onto a carpeted concrete floor. While there's little detail in the announcement about what it’s made of, apart from being ‘pro-grade’ and ‘ultra-rugged’ with ‘premium strength’, we do know it has an aluminum core that acts as a heat-sink to help maintain high speeds.  The combination of the SSD and  Thunderbolt 3  (opens in new tab)  (40Gb/s) /  USB 3.2 Gen 2  (opens in new tab)  (10Gb/s) Type-C interface gives the drive a high transfer rate of up to 2700MB/s read and 1900MB/s write, capable of transferring 50GB in 30 seconds, which will please filmmakers looking for a speedy backup solution to use in the field. Even better, that kind of speed allows real-time 4K/8K editing straight from the drive. There's no mention of it in the announcement, but it’s almost certainly bus-powered too, given that there are no other ports on the drive. Western Digital has also identified a problem with USB Type-C cables all being identical on the outside, but not on the inside, and has thoughtfully included a cable with the drive that supports both interfaces. “The new PRO-G40 SSD eliminates the problem we have all experienced before: grabbing the wrong USB-C cable or computer for our Thunderbolt 3 or USB devices,” said Hector Sandoval, vice president of product marketing, pricing and programs at Western Digital. “By supporting both interfaces and including a cable that does as well, this drive enables creatives to efficiently collaborate across devices without having to worry about carrying the right gear nor diminishing sustained performance as they continue producing impactful content.” The Sandisk Professional Pro-G40 is available in 1TB and 2TB capacities, comes only in black, and should be available on the  Western Digital store  (opens in new tab)  by the time you read this. MSRP is around $480 (£415 in the UK), presumably for the 1TB version. 
+ 
+ Ian Evenden Freelance News Writer Ian Evenden is a UK-based news writer for Tom’s Hardware US. He’ll write about anything, but stories about Raspberry Pi and DIY robots seem to find their way to him. 
+ 
+  stuffs  
+ 
+ 
+ 
+  stuffs  
+ 
+ 
+ 
+  stuffs  
+ 
+ 
+  Drop in a standard article here maybe?  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ See all comments (1) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1 Comment 
+ 
+ Comment from the forums 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ creatorbros3 
+ 
+ 
+https://www.westerndigital.com/company/newsroom/press-releases/2022/2022-10-05-western-digital-turbocharges-versatility-with-new-sandisk-professional-pro-g40-ssd 
+Pricing here says $299.99 for the 1TB and $449.99 for the 2TB. Look under the  Availability  heading. 
+ 
+I am interested in one of these for my field backups with my video production company. Thank you for the article!
+ 
+ 
+ 
+ Reply 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ View All 1 Comment 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Be In the Know 
+ 
+ 
+ 
+ Get instant access to breaking news, in-depth reviews and helpful tips. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Contact me with news and offers from other Future brands
+ 
+ 
+ 
+ 
+ 
+Receive email from us on behalf of our trusted partners or sponsors
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Thank you for signing up to Tom's Hardware. You will receive a verification email shortly. 
+ 
+ 
+ There was a problem. Please refresh the page and try again. 
+ 
+ 
+ By submitting your information you agree to the  Terms & Conditions  (opens in new tab)  and  Privacy Policy  (opens in new tab)  and are aged 16 or over. 
+ 
+ 
+ 
+ 
+ 
+ MOST POPULAR MOST SHARED 1 World's Fastest Supercomputer Can't Run a Day Without Failure 2 Best CPU Deals for Prime Day October: Save on AMD and Intel 3 Best Monitor Deals for Prime Day October: 4K, Gaming, More 4 AMD Ryzen 9 7900X Review: Zen 4 Has a Pricing Problem 5 How To Resize Images in GIMP 1 Best CPU Deals for Prime Day October: Save on AMD and Intel 2 Best Monitor Deals for Prime Day October: 4K, Gaming, More 3 AMD Ryzen 9 7900X Review: Zen 4 Has a Pricing Problem 4 How To Resize Images in GIMP 5 Best Filaments for 3D Printing 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Tom's Hardware is part of Future US Inc, an international media group and leading digital publisher.  Visit our corporate site  (opens in new tab) . 
+ 
+ 
+ Terms and conditions  (opens in new tab) 
+ Privacy policy  (opens in new tab) 
+ Cookies policy  (opens in new tab) 
+ Accessibility Statement  (opens in new tab) 
+ Advertise  (opens in new tab) 
+ About us  (opens in new tab) 
+ Coupons  (opens in new tab) 
+ Careers  (opens in new tab) 
+ 
+ 
+ ©
+Future US, Inc. Full 7th Floor, 130 West 42nd Street,
+New York,
+NY 10036.  
+ 
+ 
+    Begin comScore Tag  
+ 
+  End comScore Tag  
+ 
+ 
+ 
+ 
+  Google Tag Manager  
+ 
+  End Google Tag Manager  
+ 
+  document assets - added by the article itself  
+   
+ 
+ 
+ 
+ 
+  
